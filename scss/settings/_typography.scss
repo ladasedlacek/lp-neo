@@ -189,8 +189,17 @@
     }
 }
 
+// layout 0
+.layout-0 #landingpage{
+    .notMoveH1,
+    .notMoveH1.h1B{
+        font-size: size(40);
+        line-height: size(52);
+    }
+}
+
 // media
-@media only screen and (max-width: 650px){
+@media only screen and (max-width: 980px){
     .mobile #landingpage,
     .mobileapp #landingpage{
         .notMoveH1,

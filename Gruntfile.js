@@ -14,11 +14,15 @@ module.exports = function (grunt) {
             }
         },
 
-        svg_sprite: {
-            your_target	: {
-                src: ['img/*.svg'],
-                dest: 'build/img',
-            }
+        svgstore: {
+            options: {
+                prefix : 'icon-', 
+            },
+            default : {
+              files: {
+                'build/img/sprite.svg' : ['img/sprite/*.svg'],
+              },
+            },
         },
 
         cwebp: {
@@ -114,6 +118,6 @@ module.exports = function (grunt) {
     /* tasks */
     grunt.registerTask('css', ['sass', 'postcss', 'cssnano']);
     grunt.registerTask('js', ['clean', 'babel', 'uglify']);
-    grunt.registerTask('img', ['image', 'cwebp', 'svg_sprite']);
+    grunt.registerTask('img', ['image', 'cwebp', 'svgstore']);
     grunt.registerTask('default', ['css', 'js', 'watch']);
 };

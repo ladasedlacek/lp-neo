@@ -1,7 +1,6 @@
 // desktop layout swticher
 const layout_switcher = () => {
-    const run_switcher = () => {
-        const test_layout = document.querySelector('#testLayout')
+    const test_layout = document.querySelector('#testLayout')
 
         document.querySelector('#layout_switch button').addEventListener('click', () => {  
             test_layout.classList.remove('layout-0', 'layout-1')
@@ -21,9 +20,7 @@ const layout_switcher = () => {
             test_layout.setAttribute('style', 'width:1310px; margin:0 auto;')
             document.querySelector('body.mobile').classList.remove('mobile')
         })
-    }
 
-    window.location.href.indexOf("127") > -1 ? run_switcher() : 0
+    
 }
-
-layout_switcher()
+window.location.href.indexOf("127") > -1 ? layout_switcher() : 0

@@ -48,13 +48,14 @@
     overflow: hidden;
     position: relative;
     display: block;
-    background-color: color(gray, 0);
+    background-color: color(landingpage, default);
 
     // svg hidden
     .hidden{
         display: none;
     }
 
+    nav,
     section,
     header,
     footer{
@@ -65,6 +66,11 @@
 
     section{
         padding: 50px 0;
+    }
+
+    ul{
+        margin: 0;
+        padding: 0;
     }
 
     // container
@@ -83,6 +89,11 @@
         height: auto;
         aspect-ratio: attr(width) / attr(height);
         max-width: 100%;
+    }
+
+    // svg sprite
+    .svgsprite{
+        display: none;
     }
 }
 
