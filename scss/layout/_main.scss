@@ -1,0 +1,8 @@
+#landingpage{
+    .lpMain{
+        .hdl2{
+            filter: drop-shadow(0 0 12px rgba($color: color(landingpage, shadow), $alpha: 1.0));
+            color: color(gray, 0);
+        }
+    }
+}

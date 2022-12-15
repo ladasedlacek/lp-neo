@@ -1,0 +1,89 @@
+#landingpage{
+    .lpMain{
+        .lpCategory{
+            .btn{
+                margin: 32px auto 0;
+            }
+
+            &__tiles{
+                width: 80%;
+                margin: 40px auto 0;
+                @include flex;
+                align-content: flex-start;
+                align-items: flex-start;
+            }
+
+            &__tile{
+                flex: 1;
+
+                .perex{
+                    color: color(gray, 0);
+                }
+
+                &:nth-of-type(even){
+                    margin-top: 10%;
+                }
+            }
+
+            &__hexagon{
+                background: url('../../img/hexagon.svg') center no-repeat;
+                background-size: 100%;
+                aspect-ratio: 1 / 1;
+                filter: drop-shadow(0 0 8px rgba($color: color(landingpage, shadow), $alpha: 1.0));
+                @include flex;
+
+                &:hover{
+                    background: url('../../img/hexagon-white.svg') center no-repeat;
+                    background-size: 100%;
+                    filter: drop-shadow(0 0 8px rgba($color: color(gray, 0), $alpha: 1.0));
+
+                    svg{
+                        fill: color(gray, 0);
+                    }
+                }
+
+                svg{
+                    max-width: 60%;
+                    max-height: 40%;
+                    fill: color(landingpage, light);
+                }
+            }
+        }
+    }
+}
+
+// media
+@media only screen and (max-width: 980px){
+    .mobile #landingpage,
+    .mobileapp #landingpage{
+        .lpMain .lpCategory__tiles{
+            width: 100%;
+        }
+    }
+}
+
+@media only screen and (max-width: 650px){
+    .mobile #landingpage,
+    .mobileapp #landingpage{
+        .lpMain .lpCategory__tiles{
+            gap: 20px;
+        }
+
+        .lpMain .lpCategory__tile{
+            flex: 0 0 calc(33.3333% - 10px);
+        }
+
+        .lpMain .lpCategory__tile:nth-of-type(even){
+            margin-top: 0;
+        }
+    }
+}
+
+@media only screen and (max-width: 470px){
+    .mobile #landingpage,
+    .mobileapp #landingpage{
+        .lpMain .lpCategory__tile{
+            flex: 0 0 calc(50% - 10px);
+        }
+    }
+}
