@@ -119,5 +119,6 @@ module.exports = function (grunt) {
     grunt.registerTask('css', ['sass', 'postcss', 'cssnano']);
     grunt.registerTask('js', ['clean', 'babel', 'uglify']);
     grunt.registerTask('img', ['image', 'cwebp', 'svgstore']);
+    grunt.registerTask('sprite', ['svgstore']);
     grunt.registerTask('default', ['css', 'js', 'watch']);
 };

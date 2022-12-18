@@ -40,6 +40,10 @@
     margin-top: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 // page settings
 #landingpage{
     font-size: 16px;
@@ -65,7 +69,7 @@
     }
 
     section{
-        padding: 80px 0;
+        padding: 50px 0;
     }
 
     ul{
@@ -111,7 +115,7 @@
     .mobile #landingpage,
     .mobileapp #landingpage{
         section{
-            padding: 50px 0;
+            padding: 40px 0;
         }
 
         .lpWrapper{

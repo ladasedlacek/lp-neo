@@ -17,7 +17,7 @@
                     position: absolute;
                     aspect-ratio: 1 / 1;
                     width: 60%;
-                    top: 20%;
+                    top: 15%;
                     left: 50%;
                     transform: translate(-50%, 0);
                     background: color(landingpage, shadow);
@@ -75,9 +75,16 @@
                 color: color(gray, 8);
                 font-size: 14px;
                 display: table;
-                margin: 0 auto;
+                margin: 2px auto 0;
             }
         }
+    }
+}
+
+// layout 0
+.layout-0 #landingpage{
+    .lpMain .lpCategory__tiles{
+        width: 100%;
     }
 }
 
@@ -86,7 +93,7 @@
     .mobile #landingpage,
     .mobileapp #landingpage{
         .lpMain .lpProducts__tile{
-            flex: 0 0 calc(33.333% - 10px);
+            flex: 0 0 calc(33.333% - 20px);
         }
     }
 }

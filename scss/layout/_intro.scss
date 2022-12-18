@@ -1,8 +1,14 @@
 #landingpage{
     .lpMain{
         .lpIntro{
-            @include flex;
-            justify-content: space-between;
+            &__wrapper{
+                @include flex;
+                justify-content: space-between;
+            }
+
+            .btn{
+                margin: 40px auto 0;
+            }
 
             &__left,
             &__right{
@@ -15,6 +21,11 @@
                 svg{
                     height: 66px;
                     width: 242px;
+                }
+
+                svg.lpLogoCompany{
+                    height: 65px;
+                    width: 181px;
                 }
 
                 .notMoveH1{
@@ -33,12 +44,12 @@
 
                 .subHdl{
                     color: color(gray, 0);
-                    margin: 24px 0 0;
+                    margin: 40px 0 0;
                 }
             }
 
             &__items{
-                margin: 24px 0 0;
+                margin: 40px 0 0;
             }
 
             &__item{
@@ -59,6 +70,10 @@
 
                 .perex{
                     color: color(gray, 0);
+
+                    strong{
+                        color: color(landingpage, text);
+                    }
                 }
             }
 
@@ -151,6 +166,16 @@
                     opacity: 1;
                     transform: translate(-50%, -40%) scale(1);
                 }
+            }
+        }
+
+        .lpIntro.lpIntro--company{
+            .lpIntro__left .notMoveH1 span:first-of-type{
+                font-weight: 700;
+            }
+
+            .lpIntro__left .subHdl{
+                color: color(landingpage, text);
             }
         }
     }
