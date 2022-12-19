@@ -1,0 +1,155 @@
+#landingpage{
+    .lpContact{
+        .lpForm{
+            &__wrapper{
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                max-width: 332px;
+                width: 100%;
+                margin: 40px auto 0;
+            }
+
+            &__row{
+                text-align: left;
+                margin-top: 20px;
+                display: flex;
+                justify-content: flex-start;
+                flex-wrap: wrap;
+                flex-direction: column;
+
+                &:first-of-type{
+                    margin-top: 0;
+                }
+
+                .body-1{
+                    color: color(gray, 0);
+                }
+
+                .body-2{
+                    color: color(landingpage, text);
+                }
+
+                label, input, textarea, button{
+                    @include roboto;
+                    width: 100%;
+                    flex: 1;
+                    outline: none;
+                    color: color(gray, 8);
+                    border-radius: 4px;
+                }
+
+                .lpForm__label{
+                    &--top{
+                        color: color(landingpage, text);
+                        margin-bottom: 5px;
+                    }
+                    
+                    &--bottom{
+                        color: color(red, 500);
+                        font-weight: 500;
+                        max-height: 0;
+                        overflow: hidden;
+                        padding: 0;
+                        margin: 0;
+                        transition-property: max-height, padding;
+                        transition-duration: .3s;
+                        transition-timing-function: ease-out;
+                    }
+
+                    &--error{
+                        max-height: 500px;
+                        padding-top: 5px;
+                        transition-property: max-height;
+                        transition-duration: .5s;
+                        transition-timing-function: ease-in;
+                    }
+                }
+
+                input{
+                    border: 1px solid color(gray, 3);
+                    padding: 12px 15px;
+                    position: relative;
+
+                    &::placeholder{
+                        color: color(gray, 5);
+                    }
+
+                    &::after{
+                        content: '';
+                        position: absolute;
+                        border: 2px solid color(green, 700);
+                        border-top: 0;
+                        border-right: 0;
+                        width: 20px;
+                        height: 8px;
+                        bottom: 0;
+                        right: 0;
+                        transform: rotateZ(-45deg);
+                    }
+                }
+
+                input::-webkit-outer-spin-button,
+                input::-webkit-inner-spin-button {
+                    -webkit-appearance: none;
+                    margin: 0;
+                }
+
+                /* Firefox */
+                input[type=number] {
+                    -moz-appearance: textfield;
+                }
+
+                &--border{
+                    &:focus{
+                        border: 1px solid color(blue, 700);
+                        
+                        +label{
+                            color: color(blue, 700);
+                        }
+                    }
+                }
+
+                &--gdpr{
+                    flex-direction: row;
+                    align-items: flex-start;
+
+                    .body-1,
+                    .body-1--link{
+                        color: color(landingpage, text);
+                    }
+
+                    .body-1--link{
+                        &:hover{
+                            color: color(gray, 0);
+                        }
+                    }
+    
+                    input{
+                        flex: 0 0 20px;
+                        transform: translateY(5px);
+                        margin: 0;              
+                    }
+    
+                    label{
+                        margin-left: 10px;
+                        flex: 1;
+                    }
+                }
+
+                #lpForm_submit{
+                    line-height: 58px;
+                    font-size: 20px;
+                    font-weight: 500;
+                    padding: 0;
+                }
+
+                textarea{
+                    padding: 12px 15px;
+                    resize: none;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
