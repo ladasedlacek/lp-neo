@@ -47,22 +47,22 @@
                                 </div>
     
                                 <div class="lpNav__right">
+                                    <a href="#" class="lpNav__menuIcon lpNav__menuIcon--open">
+                                        <svg><use class="lpMenuSvg" xlink:href="#icon-menu"></use></svg>
+                                    </a>
                                     <ul class="lpNav__items">
-                                        <li class="lpNav__item"><a href="#" class="lpNav__button">Vyměnit přístroj</a></li>
-                                        <li class="lpNav__item"><a href="#" class="lpNav__button">Nahlásit událost</a></li>
-                                        <li class="lpNav__item"><a href="#" class="lpNav__button">Obchodní podmínky</a></li>
-                                        <li class="lpNav__item"><a href="#" class="lpNav__menuIcon lpNav__menuIcon--open">
-                                            <svg><use class="lpMenuSvg" xlink:href="#icon-menu"></use></svg>
-                                        </a></li>
+                                        <li class="lpNav__item"><a href="/kontakt" class="lpNav__button js-lp-showSendHelpdeskQuestionDialog" data-question-id="192">Vyměnit přístroj</a></li>
+                                        <li class="lpNav__item"><a href="/kontakt" class="lpNav__button js-lp-showSendHelpdeskQuestionDialog" data-question-id="191">Nahlásit událost</a></li>
+                                        <li class="lpNav__item"><a href="https://i.alza.cz/Foto/docs/Obchodni%20podminky%20programu%20NEO%20CZ_final_09092022.pdf" class="lpNav__button">Obchodní podmínky</a></li>
                                     </ul>
                                 </div>
                             </div>
 
-                            <div class="lpNav__menu">
+                            <div class="lpNav__mobileMenu">
                                 <ul class="lpNav__items">
-                                    <li class="lpNav__item"><a href="#" class="lpNav__button">Vyměnit přístroj</a></li>
-                                    <li class="lpNav__item"><a href="#" class="lpNav__button">Nahlásit událost</a></li>
-                                    <li class="lpNav__item"><a href="#" class="lpNav__button">Obchodní podmínky</a></li>
+                                    <li class="lpNav__item"><a href="/kontakt" class="lpNav__button js-lp-showSendHelpdeskQuestionDialog" data-question-id="192">Vyměnit přístroj</a></li>
+                                    <li class="lpNav__item"><a href="/kontakt" class="lpNav__button js-lp-showSendHelpdeskQuestionDialog" data-question-id="191">Nahlásit událost</a></li>
+                                    <li class="lpNav__item"><a href="https://i.alza.cz/Foto/docs/Obchodni%20podminky%20programu%20NEO%20CZ_final_09092022.pdf" class="lpNav__button">Obchodní podmínky</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -423,38 +423,40 @@
                                 <form class="lpForm__wrapper">
                                     <div class="lpForm__row lpForm__row--border">
                                         <label for="lpForm_company_name" class="body-2 lpForm__label lpForm__label--top">Název firmy *</label>
-                                        <input maxlength="100" minlength="3" placeholder="např. Novák Stavební s.r.o." id="lpForm_company_name" title="Název firmy" class="lpForm__input" type="text" name="company-name" required="">
-                                        <label for="lpForm_company_name" class="body-2 lpForm__label lpForm__label--bottom">Prosím uveďte jméno vaší firmy</label>
+                                        <input maxlength="50" minlength="3" placeholder="např. Novák Stavební s.r.o." id="lpForm_company_name" title="Název firmy" class="lpForm__input" type="text" name="company-name" required="">
+                                        <span class="body-2 lpForm__errorMessage">Prosím uveďte jméno vaší firmy</span>
                                     </div>
                                     <div class="lpForm__row lpForm__row--border">
                                         <label for="lpForm_name" class="body-2 lpForm__label lpForm__label--top">Vaše jméno *</label>
-                                        <input maxlength="100" minlength="3" placeholder="např. Jan Novák" id="lpForm_name" title="Vaše jméno" class="lpForm__input" type="text" name="full-name" required="">
-                                        <label for="lpForm_name" class="body-2 lpForm__label lpForm__label--bottom">Prosím uveďte vaše jméno</label>
+                                        <input maxlength="50" minlength="3" placeholder="např. Jan Novák" id="lpForm_name" title="Vaše jméno" class="lpForm__input" type="text" name="full-name" required="">
+                                        <span class="body-2 lpForm__errorMessage">Prosím uveďte vaše jméno</span>
                                     </div>
                                     <div class="lpForm__row lpForm__row--border">
-                                        <label for="lpForm_company_number" class="body-2 lpForm__label lpForm__label--top">IČ *</label>
+                                        <label for="lpForm_company_number" class="body-2 lpForm__label lpForm__label--top">IČ firmy *</label>
                                         <input maxlength="20" minlength="3" placeholder="např. 28331265" id="lpForm_company_number" title="IČ" class="lpForm__input" type="number" name="company-number" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" required="">
-                                        <label for="lpForm_company_number" class="body-2 lpForm__label lpForm__label--bottom">Zadejte prosím IČ vaší firmy</label>
+                                        <span class="body-2 lpForm__errorMessage">Zadejte prosím IČ vaší firmy</span>
                                     </div>
                                     <div class="lpForm__row lpForm__row--border">
                                         <label for="lpForm_email" class="body-2 lpForm__label lpForm__label--top">Firemní e-mail *</label>
                                         <input maxlength="100" minlength="5" value="@" title="Firemní e-mail" id="lpForm_email" class="lpForm__input" type="email" name="email" pattern='^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))DOLLAR' required="">
-                                        <label for="lpForm_email" class="body-2 lpForm__label lpForm__label--bottom">Nesprávný formát</label>
+                                        <span class="body-2 lpForm__errorMessage">Nesprávný formát</span>
                                     </div>
                                     <div class="lpForm__row lpForm__row--border">
-                                        <label for="lpForm_telephone" class="body-2 lpForm__label lpForm__label--top">Kontaktní telefon *</label>
-                                        <input value="+420" maxlength="20" minlength="9" pattern="^((\+)\d{0,3})? ?[0-9]{2,3} ?[0-9]{2,3} ?([0-9]{2,3})? ?[0-9]{2,3}DOLLAR" id="lpForm_telephone" title="Kontaktní telefon" class="lpForm__input" type="text" name="full-name" required="">
-                                        <label for="lpForm_telephone" class="body-2 lpForm__label lpForm__label--bottom">Prosím uveďte své telefonní číslo s předvolbou na začátku</label>
+                                        <label for="lpForm_telephone" class="body-2 lpForm__label lpForm__label--top">Kontaktní telefon (včetně předvolby) *</label>
+                                        <input value="+420" maxlength="20" minlength="9" pattern="^((\+)\d{0,3})? ?[0-9]{2,3} ?[0-9]{2,3} ?([0-9]{2,3})? ?[0-9]{2,3}DOLLAR" id="lpForm_telephone" title="Kontaktní telefon" class="lpForm__input" type="tel" name="full-name" required="">
+                                        <span class="body-2 lpForm__errorMessage">Prosím uveďte své telefonní číslo s předvolbou na začátku</span>
                                     </div>
                                     <div class="lpForm__row lpForm__row--border">
                                         <label for="lpForm_message" class="body-2 lpForm__label lpForm__label--top">Vložte odkazy přístrojů, uveďte preferované období pronájmu a prodejnu pro vyzvednutí objednávky *</label>
                                         <textarea maxlength="5000" minlength="5" required="" value="" name="message" id="lpForm_message" placeholder="např. Dobrý den, chci pro svou firmu objednat:&#10;&#10;4x iPhone 13 Pro Max&#10;2x MacBook 14 Pro&#10;&#10;Osobní vyzvednutí by pak proběhlo na prodejně&#10;Alza - Anděl, Praha 5." cols="30" rows="10"></textarea>
-                                        <label for="lpForm_message" class="body-2 lpForm__label lpForm__label--bottom">Prosím uveďte vaši zprávu</label>
+                                        <span class="body-2 lpForm__errorMessage">Prosím uveďte vaši zprávu</span>
                                     </div>
                                     <div class="lpForm__row lpForm__row--gdpr">
-                                        <input type="checkbox" id="lpForm_gdpr" name="gdpr">
-                                        <label for="lpForm_gdpr" class="body-1">Souhlasím se zpracováním <a href="/privacy-policy" class="body-1--link">osobních údajů</a>. *</label>
-                                        <label for="lpForm_gdpr" class="body-2 lpForm__label lpForm__label--bottom">Před odesláním je nutný váš souhlas s podmínkami se zpracováním vašich údajů</label>
+                                        <div class="lpForm__gdprWrapper">
+                                            <input type="checkbox" id="lpForm_gdpr" name="gdpr" class="body-1">
+                                            <label for="lpForm_gdpr" class="body-1">Souhlasím se zpracováním <a href="/privacy-policy" class="body-1--link">osobních údajů</a>. *</label>
+                                        </div>
+                                        <span class="body-2 lpForm__errorMessage">Před odesláním je nutný váš souhlas s podmínkami se zpracováním vašich údajů</span>
                                     </div>
                                     <div class="lpForm__row">
                                         <button class="btn--large btn--white" type="submit" id="lpForm_submit">Odeslat</button>
@@ -463,6 +465,18 @@
                                         <p class="body-1">* povinná pole</p>
                                     </div>
                                 </form>
+
+                                <div class="lpContact__messageWrapper">
+                                    <div class="lpContact__message lpContact__message--succes">
+                                        <svg><use xlink:href="#icon-home"></use></svg>
+                                        <p class="perex">Zpráva byla úspěšne odeslána. Brzy vás budeme kontaktovat.</p>
+                                    </div>
+                                    <div class="lpContact__message lpContact__message--error">
+                                        <svg><use xlink:href="#icon-home"></use></svg>
+                                        <p class="perex">Došlo k chybě. Zprávu se nepodařilo odeslat.</p>
+                                    </div>
+                                    <a href="#" class="body-2--link">Vytvořit novou zprávu</a>
+                                </div>
                             </section>
                         </div>
                     </main>
@@ -480,9 +494,78 @@
                             <div class="lpFAQs lpFAQs--active" id="switcher-customer">
                                 <!-- tab -->
                                 <div class="lpFAQs__wrapper">
-                                    <p class="perex faqsHeadline">Mohu zakoupit službu Montáž vestavného spotřebiče a využít snížené sazby DPH jakožto podnikatel?</p>
+                                    <p class="perex faqsHeadline">Jaké jsou podmínky vstupu do programu?</p>
                                     <div class="lpFAQs__paragraph">
-                                        <p class="body-1">Službu samozřejmě zakoupit můžete, jakožto podnikatel však bohužel uplatnit sníženou sazbu DPH nemůžete. Více v <a class="body-1--link" href="https://www.zakonyprolidi.cz/cs/2004-235?text=%C2%A748">§ 48 zákona č. 235/2004 Sb</a>.</p>
+                                        <p class="body-1">Podmínkou je dovršení věku 18 let. Zároveň je nutné mít na Alze registraci. U každého zákazníka, který má zájem o pronájem také pomocí zaslaných údajů prověřujeme, jestli zvládne za pronájem přístroje pravidelně platit.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Jak dlouho trvá smlouva?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Smlouva v případě pronájmu mobilního telefonu nebo wearables trvá 24 měsíců. V případě notebooků, tabletů a PC sestav trvá smlouva 36 měsíců.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Mohu přístroj vrátit dřív a členství zrušit?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Ano, můžete se s námi dohodnout na předčasném ukončení, v souladu s bodem 6.3 obchodních podmínek Programu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Mohu si příště vzít dražší nebo levnější přístroj?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Můžete si vzít naprosto jakýkoliv přístroj z aktuální nabídky na Alze. A vždy dostanete nový přístroj.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Kolik a jak často budu platit?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Za službu Alza NEO se platí 1x měsíčně, vždy v ten samý den, kdy jste zahájili pronájem.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Když vrátím starý přístroj, garantujete mi smazání dat?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Ano, na všech přístrojích provádíme kompletní návrat do továrního nastavení přesně dle manuálu výrobce, při němž výrobce garantuje smazání dat.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Musím se vázat na nějakého mobilního operátora?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Ne, členství je zcela nezávislé od operátorů. Můžete využívat kohokoliv. Přístroj není nijak blokován.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Mohu si přístroj odkoupit?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">To bohužel nejde. a přístroj po celou dobu patří Alze. Jde o formu služby (členství v programu Alza NEO), které Vám zajišťuje stále dostupný nejnovější model zařízení. Členství ale můžete ukončit a koupit si přístroj nový, nebo i zánovní.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Na webu jste změnili ceny, budu teď platit jinou cenu?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokud už přístroj od nás máte, cena vám zůstává stále stejná, jakou platíte od začátku. Cena na webu platí jen pro nové zákazníky. Až si příště budete brát nový model zařízení, dostanete zase aktuální cenu, která je právě na webu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Co když nebudu platit včas?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokud za přístroj nebudete hradit pravidelné poplatky řádně a včas, tak:</p>
+                                        <ul class="lpListItems">
+                                            <li class="lpListItems__item">Spácháte <strong>trestný čin</strong> zpronevěry a budeme na vás nuceni podat trestní oznámení. Vlastníkem přístroje je totiž po celou dobu naše společnost.</li>
+                                            <li class="lpListItems__item">Předáme případ advokátovi k <strong>vymáhání</strong>.</li>
+                                            <li class="lpListItems__item">Vedle doplacení kupní ceny po vás budeme <strong>navíc požadovat úhradu</strong> úroku z prodlení a náhradu nákladů za vedení soudního, popř. i exekučního řízení.</li>
+                                            <li class="lpListItems__item"><strong>Budete zařazeni do registrů dlužníků</strong> vedených společnostmi Intrum Czech, s.r.o. (IČO 27221971), LogiCall Česká republika, s.r.o. (IČO 26849551), Intrum Slovakia, s.r.o. (IČO 35831154) a LogiCall Slovensko, s.r.o. (IČO 44151721).</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -490,14 +573,104 @@
                             <div class="lpFAQs" id="switcher-company">
                                 <!-- tab -->
                                 <div class="lpFAQs__wrapper">
-                                    <p class="perex faqsHeadline">Mohu zakoupit službu </p>
+                                    <p class="perex faqsHeadline">Mohu členství zrušit?</p>
                                     <div class="lpFAQs__paragraph">
-                                        <p class="body-1">Službu samozřejmě zakoupit můžete, jakožto podnikatel však bohužel uplatnit sníženou sazbu DPH nemůžete. Více v <a class="body-1--link" href="https://www.zakonyprolidi.cz/cs/2004-235?text=%C2%A748">§ 48 zákona č. 235/2004 Sb</a>.</p>
+                                        <p class="body-1">Ano, můžete se s námi dohodnout na předčasném ukončení, v souladu s bodem 6.3 obchodních podmínek Programu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Koho mám kontaktovat, když chci přístroj vyměnit?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokud chcete přístroje vyměnit, kontaktujte prosím svého key account managera na <a href="mailto:alzaneoprofirmy@alza.cz" class="body-1--link">alzaneoprofirmy@alza.cz</a></p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Kolik a jak často budu platit?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Za službu Alza NEO se platí 1x měsíčně, vždy v ten samý den, kdy jste zahájili pronájem.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Co mám dělat, pokud se přístroj pokazí, ukradnou mi ho nebo ho poškodím?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Stačí, když nám popíšete jak došlo k rozbití nebo odcizení přes <a href="/kontakt/sluzby.htm?qgid=34&qid=191#questionAnswerContainer" class="body-1--link">kontaktní formulář</a> a my Vaši rozšířenou záruku posoudíme do 1 pracovního dne a následně Vás budeme kontaktovat s dalším postupem. V případě, že se přístroj porouchal, vyplňte prosím <a href="/kontakt/sluzby.htm?qgid=34&qid=190#questionAnswerContainer" class="body-1--link">tento kontaktní formulář</a> a my Vaši reklamaci do 1 pracovního dne zpracujeme a následně Vás budeme kontaktovat s dalším postupem.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Co pokrývá rozšířená záruka - ochrana proti nechtěnému rozbití a krádeži?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Krádež a nešťastnou náhodu s důsledkem rozbití zařízení. Pozor, z rozšířené záruky je vyloučeno například úmyslné poškození (například když hodíte přístroj o zem) nebo pokud jste mohli rozbití předcházet (např. měli jste ho bezpečně uložen v kapse. Během krádeže také nesmíte mít sníženou pozornost například vlivem alkoholu. Můžete uplatnit pouze jednu událost za celou dobu smlouvy.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Musím si pronajmout nějaké minimální množství kusů?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Ke každému zákazníkovi přistupujeme individuálně podle jeho potřeb, napište nám a i ve vašem případě se vám budeme s péčí věnovat.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Můžu si vybrat i jiné přístroje, než které máte na výběr v programu NEO na Alza.cz?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Ano, napište nám, o co máte zájem a v jakém množství. Připravíme pro Vás nabídku na míru.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Máte nějaké jiné vybavení než jen počítače a telefony?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokud potřebujete pronajmout jinou techniku, napište nám. Sestavíme Vám nabídku na míru.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Když vrátím starý přístroj, zařídíte mi smazání dat?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Ano, na všech přístrojích provádíme kompletní návrat do továrního nastavení přesně dle manuálu výrobce, při němž výrobce garantuje smazání dat.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Musím se vázat na nějakého mobilního operátora?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Ne, členství je zcela nezávislé od operátorů. Můžete využívat kohokoliv. Zařízení není nijak blokováno.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Mohu si přístroj odkoupit?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Přístroj nelze odkoupit a přístroj po celou dobu patří Alze. Jde o formu služby (členství v programu Alza NEO), které Vám zajišťuje stále dostupný nejnovější model zařízení. Členství však můžete ukončit a koupit si přístroj nový, nebo i zánovní.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Co když nebudu platit včas?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokud za přístroj nebudete hradit pravidelné poplatky řádně a včas, tak:</p>
+                                        <ul class="lpListItems">
+                                            <li class="lpListItems__item">Podáme trestní oznámení kvůli podezření na spáchání <strong>trestného činu</strong> zpronevěry. Vlastníkem přístroje je po celou dobu naše společnost.</li>
+                                            <li class="lpListItems__item">Předáme případ advokátovi a inkasní agentuře k <strong>vymáhání</strong>.</li>
+                                            <li class="lpListItems__item">Vedle doplacení kupní ceny po vás budeme <strong>navíc požadovat úhradu</strong> úroku z prodlení a náhradu nákladů za vedení soudního, popř. i exekučního řízení.</li>
+                                            <li class="lpListItems__item"><strong>Budete zařazeni do registrů dlužníků</strong> vedených společnostmi Intrum Czech, s.r.o. (IČO 27221971), LogiCall Česká republika, s.r.o. (IČO 26849551), Intrum Slovakia, s.r.o. (IČO 35831154) a LogiCall Slovensko, s.r.o. (IČO 44151721).</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Když měním přístroj, dostanu nový kus?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Ano, vždy dostanete nový kus.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <a href="#" class="body-1--link body-1--subLink">Kompletní podmínky programu Alza NEO</a>
+                            <a href="https://i.alza.cz/Foto/docs/Obchodni%20podminky%20programu%20NEO%20CZ_final_09092022.pdf" class="body-1--link body-1--subLink">Kompletní podmínky programu Alza NEO</a>
                         </div>
                     </section>
 

@@ -44,36 +44,29 @@
                         color: color(landingpage, text);
                         margin-bottom: 5px;
                     }
-                    
-                    &--bottom{
-                        color: color(red, 500);
-                        font-weight: 500;
-                        max-height: 0;
-                        overflow: hidden;
-                        padding: 0;
-                        margin: 0;
-                        transition-property: max-height, padding;
-                        transition-duration: .3s;
-                        transition-timing-function: ease-out;
-                    }
+                }
 
-                    &--error{
-                        max-height: 500px;
-                        padding-top: 5px;
+                .lpForm__errorMessage{
+                    color: color(red, 500);
+                    font-weight: 500;
+                    max-height: 0;
+                    overflow: hidden;
+                    padding: 0;
+                    margin: 0;
+                    transition-property: max-height;
+                    transition-duration: .3s;
+                    transition-timing-function: ease-out;
+
+                    &--active{
+                        max-height: 100px;
                         transition-property: max-height;
                         transition-duration: .5s;
-                        transition-timing-function: ease-in;
+                        transition-timing-function: ease-in; 
                     }
                 }
 
-                input{
-                    border: 1px solid color(gray, 3);
-                    padding: 12px 15px;
+                label.lpInputVerrify{
                     position: relative;
-
-                    &::placeholder{
-                        color: color(gray, 5);
-                    }
 
                     &::after{
                         content: '';
@@ -81,12 +74,27 @@
                         border: 2px solid color(green, 700);
                         border-top: 0;
                         border-right: 0;
-                        width: 20px;
-                        height: 8px;
-                        bottom: 0;
-                        right: 0;
-                        transform: rotateZ(-45deg);
+                        width: 14px;
+                        height: 6px;
+                        top: 45px;
+                        right: 15px;
+                        transform: translateY(-50%) rotateZ(-45deg);
+                        transform-origin: center center;
                     }
+                }
+
+                input{
+                    border: 1px solid color(gray, 3);
+                    padding: 12px 15px;
+                    margin-bottom: 5px;
+
+                    &::placeholder{
+                        color: color(gray, 5);
+                    }
+                }
+
+                input:invalid ~ .lpForm__label--top {
+                    color: red;
                 }
 
                 input::-webkit-outer-spin-button,
@@ -111,6 +119,11 @@
                 }
 
                 &--gdpr{
+                    display: block;
+                }
+
+                .lpForm__gdprWrapper{
+                    display: flex;
                     flex-direction: row;
                     align-items: flex-start;
 
@@ -142,6 +155,7 @@
                     font-size: 20px;
                     font-weight: 500;
                     padding: 0;
+                    border: none;
                 }
 
                 textarea{

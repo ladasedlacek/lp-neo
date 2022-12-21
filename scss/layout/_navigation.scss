@@ -1,6 +1,9 @@
 #landingpage{
     .lpNav{
         padding: 22px 0;
+        background-color: color(landingpage, default);
+        width: 100%;
+        max-width: 1310px;
 
         &__wrapper{
             @include flex;
@@ -115,6 +118,7 @@
             @include flex;
             width: 41px;
             height: 41px;
+            display: none;
 
             svg{
                 width: 16px;
@@ -123,7 +127,7 @@
         }
 
         // menu
-        &__menu{
+        &__mobileMenu{
             max-height: 0;
             overflow: hidden;
             padding: 0;
@@ -148,7 +152,7 @@
             }
         }
 
-        .lpNav__menu.lpNav__menu--open{
+        .lpNav__mobileMenu.lpNav__mobileMenu--open{
             max-height: 500px;
             transition-property: max-height;
             transition-duration: .5s;
@@ -176,12 +180,17 @@
             margin-left: 0;
         }
 
+        .lpNav__right{
+            display: flex;
+            justify-content: flex-end;
+        }
+
         .lpNav__right .lpNav__item{
             display: none;
+        }
 
-            &:last-of-type{
-                display: block;
-            }
+        .lpNav__menuIcon{
+            display: flex;
         }
     }
 }
