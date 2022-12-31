@@ -4,6 +4,8 @@
         background-color: color(landingpage, default);
         width: 100%;
         max-width: 1310px;
+        position: relative;
+        z-index: 10;
 
         &__wrapper{
             @include flex;

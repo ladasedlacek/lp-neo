@@ -8,6 +8,28 @@
                 max-width: 332px;
                 width: 100%;
                 margin: 40px auto 0;
+                display: none;
+                opacity: 0;
+                visibility: hidden;
+
+                &--active{
+                    display: block;
+                    animation: form .3s ease-in forwards;
+                }
+    
+                @keyframes form {
+                    0% {
+                        display: block;
+                        opacity: 0;
+                        visibility: hidden;
+                    }
+        
+                    100% {
+                        display: block;
+                        opacity: 1;
+                        visibility: visible;
+                    }
+                }
             }
 
             &__row{
@@ -150,7 +172,7 @@
                     }
                 }
 
-                #lpForm_submit{
+                #lpForm_button{
                     line-height: 58px;
                     font-size: 20px;
                     font-weight: 500;

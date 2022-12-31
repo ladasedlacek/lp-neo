@@ -1,0 +1,74 @@
+#landingpage{
+    .lpForm{
+        &__status{
+            margin: 40px auto 0;
+            
+            .body-2--link{
+                margin: 24px auto 0;
+                color: color(gray, 8);
+                transition: .3s ease-in-out;
+
+                &:hover{
+                    color: color(blue, 700);
+                }
+            }
+        }
+
+        &__statusMessage{
+            background-color: color(gray, 0);
+            border-radius: 4px;
+            box-shadow: 0 1px 4px rgba($color: color(gray, 0), $alpha: .15);
+            text-align: center;
+        }
+
+        &__statusMessage{
+            padding: 20px;
+            width: 100%;
+            max-width: 332px;
+            margin: 0 auto;
+            display: none;
+            opacity: 0;
+            visibility: hidden;
+
+            svg{
+                width: 60px;
+                height: 60px;
+            }
+
+            .perex{
+                margin: 20px auto 0;
+            }
+
+            &--sucess{
+                .perex{
+                    color: color(green, 700);
+                }
+            }
+
+            &--error{
+                .perex{
+                    color: color(red, 700);
+                }
+            }
+
+            &--active{
+                display: block;
+                animation: status .3s ease-in forwards;
+            }
+
+            @keyframes status {
+                0% {
+                    display: block;
+                    opacity: 0;
+                    visibility: hidden;
+                }
+    
+                100% {
+                    display: block;
+                    opacity: 1;
+                    visibility: visible;
+                }
+            }
+        }
+    }
+}

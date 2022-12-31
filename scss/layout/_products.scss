@@ -20,9 +20,9 @@
                     top: 15%;
                     left: 50%;
                     transform: translate(-50%, 0);
-                    background: color(landingpage, shadow);
+                    background: color(landingpage, blur);
                     border-radius: 100%;
-                    filter: blur(40px);
+                    filter: blur(60px);
                     z-index: 4;
                 }
 

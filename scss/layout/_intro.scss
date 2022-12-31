@@ -1,7 +1,11 @@
 #landingpage{
     .lpMain{
         .lpIntro{
+            position: relative;
+
             &__wrapper{
+                position: relative;
+                z-index: 2;
                 @include flex;
                 justify-content: space-between;
             }

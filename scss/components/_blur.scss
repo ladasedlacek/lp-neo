@@ -1,0 +1,89 @@
+#landingpage{
+    .lpBlur{
+        background-color: color(landingpage, blur);
+        opacity: .35;
+        filter: blur(60px);
+        position: absolute;
+        border-radius: 100%;
+        transform: translate(-50%, -50%);
+        z-index: 1;
+
+        &--intro{
+            width: 60%;
+            aspect-ratio: 1/1;
+            top: 20%;
+            left: 0;
+            animation: intro-blur .5s ease-in forwards;
+        }
+
+        @keyframes intro-blur {
+            0% {
+                opacity: 0;
+                visibility: hidden;
+            }
+
+            100% {
+                opacity: .35;
+                visibility: visible;
+            }
+        }
+
+        &--category-left{
+            width: 30%;
+            aspect-ratio: 1/1;
+            top: 17%;
+            left: -5%;
+            opacity: .5;
+        }
+
+        &--category-right{
+            width: 60%;
+            aspect-ratio: 1/1;
+            top: 20%;
+            left: 90%;
+            opacity: .15;
+        }
+
+        &--bigUsps{
+            width: 50%;
+            aspect-ratio: 1/1;
+            top: 40%;
+            left: 110%;
+        }
+
+        &--smallUsps-left{
+            width: 40%;
+            aspect-ratio: 1/1;
+            top: 40%;
+            left: 0;
+        }
+
+        &--service{
+            width: 50%;
+            height: 100%;
+            top: 50%;
+            left: 50%;
+        }
+
+        &--companies-left{
+            width: 60%;
+            aspect-ratio: 1/1;
+            top: 20%;
+            left: 0;
+        }
+
+        &--companies-right{
+            width: 50%;
+            aspect-ratio: 1/1;
+            top: 10%;
+            left: 100%;
+        }
+
+        &--smallUsps{
+            width: 90%;
+            height: 80%;
+            top: 50%;
+            left: 50%;
+        }
+    }
+}

@@ -1,6 +1,13 @@
 #landingpage{
     .lpMain{
         .lpService{
+            position: relative;
+            
+            picture{
+                position: relative;
+                z-index: 2;
+            }
+
             img{
                 margin: 0 auto;
             }

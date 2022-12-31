@@ -1,7 +1,11 @@
 #landingpage{
     .lpMain{
         .lpUsps{
+            position: relative;
+            
             &__wrapper{
+                position: relative;
+                z-index: 2;
                 @include flex;
                 align-items: flex-start;
                 gap: 20px;
