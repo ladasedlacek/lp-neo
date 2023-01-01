@@ -3,6 +3,13 @@
         .lpIntro{
             position: relative;
 
+            #particles-js,
+            #particles-js3{
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+
             &__wrapper{
                 position: relative;
                 z-index: 2;
