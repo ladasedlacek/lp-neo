@@ -61,6 +61,13 @@
                     border-radius: 4px;
                 }
 
+                label, input, textarea{
+                    &:disabled{
+                        background-color: color(gray, 0);
+                        opacity: .7;
+                    }
+                }
+
                 .lpForm__label{
                     &--top{
                         color: color(landingpage, text);
@@ -172,18 +179,51 @@
                     }
                 }
 
-                #lpForm_button{
-                    line-height: 58px;
-                    font-size: 20px;
-                    font-weight: 500;
-                    padding: 0;
-                    border: none;
-                }
-
                 textarea{
                     padding: 12px 15px;
                     resize: none;
                     width: 100%;
+                    margin-bottom: 5px;
+                }
+
+                #lpForm_button{
+                    padding: 0;
+                    border: none;
+                    position: relative;
+
+                    .btn-text{
+                        font-size: 20px;
+                        font-weight: 500;
+                        line-height: 58px;
+                        color: color(gray, 8);
+                    }
+                }
+
+                .btn--loading{
+                    position: relative;
+                    cursor: not-allowed;
+                    opacity: .5;
+        
+                    &::before{
+                        content: '';
+                        position: absolute;
+                        @include center;
+                        width: 20px;
+                        height: 20px;
+                        background: url('https://cdn.alza.cz/Foto/or/lp/neo/2023/build/img/loading.svg') center no-repeat;
+                        background-size: cover;
+                        animation: loading .6s linear infinite;
+                    }
+        
+                    @keyframes loading {
+                        100% {
+                            transform: translate(-50%, -50%) rotate(360deg);
+                        }
+                    }
+        
+                    .btn-text{
+                        opacity: 0;
+                    }
                 }
             }
         }

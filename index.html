@@ -424,7 +424,7 @@
                                 <h2 class="hdl2">Chci firemní pronájem bez starostí</h2>
                                 <p class="perex perex--subHeadline">Po vyplnění formuláře vás kontaktujeme s připravenou cenovou nabídkou<br>a společně projdeme celý proces objednávky.</p>
 
-                                <form class="lpForm__wrapper" id="lpForm">
+                                <form class="lpForm__wrapper lpForm__wrapper--active" id="lpForm">
                                     <div class="lpForm__row lpForm__row--border">
                                         <label for="lpForm_company_name" class="body-2 lpForm__label lpForm__label--top">Název firmy *</label>
                                         <input maxlength="50" minlength="3" placeholder="např. Novák Stavební s.r.o." id="lpForm_company_name" title="Název firmy" class="lpForm__input" type="text" name="company-name" required>
@@ -463,7 +463,7 @@
                                         <span class="body-2 lpForm__errorMessage">Před odesláním je nutný váš souhlas s podmínkami se zpracováním vašich údajů</span>
                                     </div>
                                     <div class="lpForm__row">
-                                        <button class="btn--large btn--white btn--dis" type="submit" id="lpForm_button" disabled>Odeslat</button>
+                                        <button class="btn--large btn--white btn--dis" type="submit" id="lpForm_button" disabled><span class="btn-text">Odeslat</span></button>
                                     </div>
                                     <div class="lpForm__row">
                                         <p class="body-1">* povinná pole</p>
@@ -471,7 +471,7 @@
                                 </form>
 
                                 <div class="lpForm__status">
-                                    <div class="lpForm__statusMessage lpForm__statusMessage--sucess lpForm__statusMessage--active">
+                                    <div class="lpForm__statusMessage lpForm__statusMessage--sucess">
                                         <svg><use xlink:href="#icon-sucess"></use></svg>
                                         <p class="perex">Zpráva byla úspěšne odeslána.<br>Brzy vás budeme kontaktovat.</p>
                                         <a href="#" class="body-2--link">Vytvořit novou zprávu</a>
