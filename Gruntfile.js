@@ -81,7 +81,8 @@ module.exports = function (grunt) {
         babel: {
             options: {
                 sourceMap: false,
-                presets: ['@babel/preset-env']
+                presets: ['@babel/preset-env'],
+                plugins: [["transform-remove-strict-mode", { "strict": false }]]
             },
             dist: {
                 files: [{

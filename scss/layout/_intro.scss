@@ -3,17 +3,6 @@
         .lpIntro{
             position: relative;
 
-            #particles-js,
-            #particles-js3{
-                position: absolute;
-                top: 0;
-                left: 0;
-            }
-
-            #particles-js3{
-                top: 5%;
-            }
-
             &__wrapper{
                 position: relative;
                 z-index: 2;
@@ -144,7 +133,7 @@
                     border-radius: 100%;
                     z-index: 2;
                     opacity: 0;
-                    animation: shadow .6s .5s forwards;
+                    animation: shadow 5s .5s infinite;
                 }
 
                 img{
@@ -173,13 +162,18 @@
 
             @keyframes shadow {
                 0% {
-                    opacity: 0;
-                    transform: translate(-50%, -40%) scale(0.2);
+                    opacity: 1;
+                    transform: translate(-50%, -40%) scale(0.85);
+                }
+
+                50% {
+                    opacity: 1;
+                    transform: translate(-50%, -40%) scale(1.2);
                 }
     
                 100% {
                     opacity: 1;
-                    transform: translate(-50%, -40%) scale(1);
+                    transform: translate(-50%, -40%) scale(0.85);
                 }
             }
         }

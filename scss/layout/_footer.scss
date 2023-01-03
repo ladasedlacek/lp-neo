@@ -2,6 +2,14 @@
 #articlePage #landingpage{
     .lpFooter{
         background: color(gray, 0);
+
+        h2{
+            color: color(landingpage, light);
+        }
+
+        p{
+            color: color(gray, 8);
+        }
     }
 }
 

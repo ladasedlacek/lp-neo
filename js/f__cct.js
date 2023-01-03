@@ -1,26 +1,31 @@
-// Create CCT from the Form
-const create_cct = () => {
-    // Form Data
-    const company_name = form_company_name.value
-    const user_name = form_name.value
-    const company_number = form_company_number.value
-    const user_email = form_email.value
-    const user_phone = form_phone.value
-    const message = form_message.value
+document.getElementById('pushCCT').addEventListener('click', function(event) {
+    event.preventDefault()
+
+    // loading state
+    form_loading() 
 
     // CCT Settings - For Testing Switch Value of the createCCT to false
-    const cct_settings = {
+    /* const cct_settings = {
         questionId: 570,
-        createCCT: true,
+        createCCT: false,
         emailFrom: user_email,
         emailTo: 'ladislav.sedlacek2@alza.cz',
         phone: user_phone,
         name: user_name,
         subject: 'Alza NEO - ' + user_name + ' (' + company_name +')',
         text: 'IČO: ' + company_number + '\nMáme zájem o: \n' + message
-    }
+    } */
 
-    callSvc('SendGeneralHelpdeskQuestion', cct_settings, true, (result => {
+    callSvc('SendGeneralHelpdeskQuestion', {
+            questionId: 570,
+            createCCT: false,
+            emailFrom: form_email.value,
+            emailTo: 'ladislav.sedlacek2@alza.cz',
+            phone: form_phone.value,
+            name: form_name.value,
+            subject: 'Alza NEO - ' + form_name.value + ' (' + form_company_name.value +')',
+            text: 'IČO: ' + form_company_number.value + '\nMáme zájem o: \n' + form_message.value
+        }, true, function(result) {
             // Successfull
             const status_success = () => {
                 form.classList.remove('lpForm__wrapper--active')
@@ -37,6 +42,6 @@ const create_cct = () => {
             }
 
             result.ErrorLevel == 0 ? status_success() : status_error()
-        })
+        }
     )
-}
+})

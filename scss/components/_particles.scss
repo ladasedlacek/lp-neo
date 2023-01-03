@@ -1,0 +1,25 @@
+#landingpage{
+    .lpMain{
+        #particles-js,
+        #particles-js2,
+        #particles-js3{
+            position: absolute;
+            width: 100%;
+            left: 0;
+        }
+
+        #particles-js,
+        #particles-js3{
+            top: 0;
+        }
+
+        #particles-js2{
+            bottom: 0;
+            transform: translateY(50%);
+        }
+
+        #particles-js3{
+            top: 5%;
+        }
+    }
+}

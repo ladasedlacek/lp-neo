@@ -28,14 +28,14 @@
             }
 
             &__hexagon{
-                background: url('../../img/hexagon.svg') center no-repeat;
+                background: url('https://cdn.alza.cz/Foto/or/lp/neo/build/img/hexagon.svg') center no-repeat;
                 background-size: 100%;
                 aspect-ratio: 1 / 1;
                 filter: drop-shadow(0 0 8px rgba($color: color(landingpage, shadow), $alpha: 1.0));
                 @include flex;
 
                 &:hover{
-                    background: url('../../img/hexagon-white.svg') center no-repeat;
+                    background: url('https://cdn.alza.cz/Foto/or/lp/neo/build/img/hexagon-white.svg') center no-repeat;
                     background-size: 100%;
                     filter: drop-shadow(0 0 8px rgba($color: color(gray, 0), $alpha: 1.0));
 

@@ -59,6 +59,10 @@
                     outline: none;
                     color: color(gray, 8);
                     border-radius: 4px;
+
+                    &.placeholder{
+                        color: color(gray, 5);
+                    }
                 }
 
                 label, input, textarea{
@@ -186,7 +190,7 @@
                     margin-bottom: 5px;
                 }
 
-                #lpForm_button{
+                #pushCCT{
                     padding: 0;
                     border: none;
                     position: relative;
@@ -210,7 +214,7 @@
                         @include center;
                         width: 20px;
                         height: 20px;
-                        background: url('https://cdn.alza.cz/Foto/or/lp/neo/2023/build/img/loading.svg') center no-repeat;
+                        background: url('https://cdn.alza.cz/Foto/or/lp/neo/build/img/loading.svg') center no-repeat;
                         background-size: cover;
                         animation: loading .6s linear infinite;
                     }
