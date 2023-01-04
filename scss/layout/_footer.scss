@@ -17,3 +17,13 @@
 #articlePage #landingpage #newSocialContainer{
     padding: 0;
 }
+
+// media
+@media only screen and (max-width: 550px){
+    .mobile #landingpage,
+    .mobileapp #landingpage{
+        .lpFooter{
+            padding-top: 20px;
+        }
+    }
+}

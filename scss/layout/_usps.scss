@@ -124,7 +124,7 @@
 }
 
 // media
-@media only screen and (max-width: 700px){
+@media only screen and (max-width: 800px){
     .mobile #landingpage,
     .mobileapp #landingpage{
         .lpMain .lpUsps__wrapper{
@@ -133,6 +133,23 @@
 
         .lpMain .lpUsps__box{
             flex: 0 0 calc(50% - 10px);
+        }
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .mobile #landingpage,
+    .mobileapp #landingpage{
+        .lpMain .lpUsps__wrapper{
+            gap: 40px 20px;
+        }
+
+        .lpMain .lpUsps__box{
+            flex: 0 0 calc(100% - 10px);
+        }
+
+        .lpMain .lpUsps.lpUsps--small .lpUsps__iconWrapper{
+            width: 80px;
         }
     }
 }

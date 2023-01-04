@@ -1,5 +1,5 @@
 const sprite_engine = () => {
-    fetch('https://cdn.alza.cz/Foto/or/lp/neo/build/img/sprite.svg')
+    fetch('https://cdn.alza.cz/Foto/or/lp/neo/build/img/sprite.svg?ver=1.01')
     .then(data => data.text())
     .then(text => {
         const sprite_element = document.createElement("div")

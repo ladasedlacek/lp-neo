@@ -66,9 +66,9 @@
                 transition: .15s ease-in-out;
     
                 &:hover{
-                    background-color: #f8f8f8;
+                    background-color: color(gray, 1);
     
-                    .par.faqsHeadline{
+                    .faqsHeadline{
                         color: color(blue, 500);
                     }
                 }
@@ -81,9 +81,9 @@
             // wrapper active
             .active{
                 transition: .3s ease-in-out;
-                background-color: #f8f8f8;
+                background-color: color(gray, 1);
     
-                .perex.faqsHeadline{
+                .faqsHeadline{
                     color: color(blue, 500);
                     font-weight: 500;
     
@@ -94,8 +94,8 @@
             }
     
             // headline
-            .perex.faqsHeadline{
-                color: color(gray, 6);
+            .faqsHeadline{
+                color: color(gray, 8);
                 margin: 0;
                 position: relative;
                 outline: none;
