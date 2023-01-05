@@ -9,20 +9,20 @@ document.addEventListener('DOMContentLoaded', function() {
   const particles_settings = {
     "particles": {
       "number": {
-        "value": 70,
+        "value": 100,
         "density": {
           "enable": true,
           "value_area": 800
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": "#0E1E2F"
       },
       "shape": {
         "type": "circle",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": "#0E1E2F"
         },
         "polygon": {
           "nb_sides": 5
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       },
       "opacity": {
-        "value": 0.15,
+        "value": 1,
         "random": false,
         "anim": {
           "enable": false,
@@ -56,13 +56,13 @@ document.addEventListener('DOMContentLoaded', function() {
       "line_linked": {
         "enable": true,
         "distance": 150,
-        "color": "#ffffff",
-        "opacity": 0.25,
-        "width": 1
+        "color": "#0E1E2F",
+        "opacity": 1,
+        "width": 2
       },
       "move": {
         "enable": true,
-        "speed": 4,
+        "speed": 3,
         "direction": "none",
         "random": false,
         "straight": false,
