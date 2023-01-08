@@ -3,7 +3,6 @@
         padding: 22px 0;
         background-color: color(landingpage, default);
         width: 100%;
-        max-width: 1310px;
         position: relative;
         z-index: 10;
 
@@ -117,45 +116,25 @@
             width: 41px;
             height: 41px;
             display: none;
+            outline: none;
 
             svg{
                 width: 16px;
                 height: 16px;
             }
         }
+    }
 
-        // menu
-        &__mobileMenu{
-            max-height: 0;
-            overflow: hidden;
-            padding: 0;
-            margin: 0;
-            transition-property: max-height, padding;
-            transition-duration: .3s;
-            transition-timing-function: ease-out;
+    .lpNav.lpNav--sticky{
+        position: fixed;
+        top: 66px;
+        max-width: 1310px;
+    }
 
-            .lpNav__items{
-                flex-direction: row;
-                padding: 32px 0 24px;
-
-                .lpNav__item{
-                    width: 100%;
-                    margin: 0 auto 16px;
-                    max-width: 550px;
-    
-                    &:last-of-type{
-                        margin-bottom: 0;
-                    }
-                }
-            }
-        }
-
-        .lpNav__mobileMenu.lpNav__mobileMenu--open{
-            max-height: 500px;
-            transition-property: max-height;
-            transition-duration: .5s;
-            transition-timing-function: ease-in;
-        }
+    .lpNav.lpNav--stickyMobile{
+        position: fixed;
+        top: 60px;
+        max-width: 100%;
     }
 }
 
@@ -164,7 +143,61 @@
     .lpNav__left .lpNav__item .lpNav__button{
         margin-left: 10px;
     }
+
+    .lpNav.lpNav--sticky{
+        max-width: 1035px;
+    }
 } 
+
+// mobile
+.mobile #landingpage .lpNav.lpNav--sticky,
+.mobileapp #landingpage .lpNav.lpNav--sticky{
+    max-width: 100%;
+}
+
+.mobile #landingpage .lpNav__right,
+.mobileapp #landingpage .lpNav__right{
+    display: flex;
+    justify-content: flex-end;
+
+    .lpNav__menuIcon{
+        display: flex;
+    }
+}
+
+.mobile #landingpage .lpNav__menu,
+.mobileapp #landingpage .lpNav__menu{
+    max-height: 0;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    transition-property: max-height, padding;
+    transition-duration: .3s;
+    transition-timing-function: ease-out;
+
+    .lpNav__items{
+        flex-direction: column;
+        padding: 32px 0 24px;
+
+        .lpNav__item{
+            width: 100%;
+            margin: 0 auto;
+            max-width: 550px;
+
+            &:last-of-type{
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+.mobile #landingpage .lpNav__menu.lpNav__menu--open,
+.mobileapp #landingpage .lpNav__menu.lpNav__menu--open{
+    max-height: 500px;
+    transition-property: max-height;
+    transition-duration: .5s;
+    transition-timing-function: ease-in;
+}
 
 // media
 @media only screen and (max-width: 980px){
@@ -176,19 +209,6 @@
 
         .lpNav__left .lpNav__item .lpNav__button{
             margin-left: 0;
-        }
-
-        .lpNav__right{
-            display: flex;
-            justify-content: flex-end;
-        }
-
-        .lpNav__right .lpNav__item{
-            display: none;
-        }
-
-        .lpNav__menuIcon{
-            display: flex;
         }
     }
 }

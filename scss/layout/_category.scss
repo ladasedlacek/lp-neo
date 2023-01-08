@@ -72,20 +72,11 @@
         }
 
         .lpMain .lpCategory__tile{
-            flex: 0 0 calc(33.3333% - 10px);
+            flex: 0 0 calc(50% - 10px);
         }
 
         .lpMain .lpCategory__tile:nth-of-type(even){
             margin-top: 0;
-        }
-    }
-}
-
-@media only screen and (max-width: 470px){
-    .mobile #landingpage,
-    .mobileapp #landingpage{
-        .lpMain .lpCategory__tile{
-            flex: 0 0 calc(50% - 10px);
         }
     }
 }
