@@ -1,4 +1,3 @@
-const navigation_wrapper = document.querySelector('.lpNavWrapper')
 const navigation = document.querySelector('.lpNav')
 const menu_button = document.querySelector('.lpNav__menuIcon')
 const menu_wrapper = document.querySelector('.lpNav__wrapper')
@@ -39,7 +38,7 @@ const mobile_menu = () => {
     const navigation_items = document.querySelector('.lpNav__right .lpNav__items')
     create_div.appendChild(navigation_items)
   }
-  document.querySelector('.mobile') || document.querySelector('.mobileapp') ? create_menu() : console.log('Menu nebylo vytvořeno 2')
+  document.querySelector('.mobile') || document.querySelector('.mobileapp') ? create_menu() : 0
 }
 mobile_menu()
 
@@ -47,7 +46,11 @@ mobile_menu()
 function run_sticky() {
   const sticky_desktop = () => {
     const start_point = document.getElementById('pricegrp')
-    start_point.getBoundingClientRect().top < 0 ? navigation.classList.add('lpNav--sticky') : navigation.classList.remove('lpNav--sticky')
+    const window_height = () => {
+      const add_class = navigation.classList.add('lpNav--sticky')
+      window.innerHeight <= 800 ? (add_class, document.querySelector('.lpNav--sticky').style.top = '0') : (add_class, document.querySelector('.lpNav--sticky').style.top = '66px')
+    }
+    start_point.getBoundingClientRect().top < 0 ? window_height() : (navigation.classList.remove('lpNav--sticky'), navigation.style.removeProperty('top'))
   }
 
   const sticky_mobile = () => {
