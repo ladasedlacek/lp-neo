@@ -6,7 +6,7 @@ document.getElementById('pushCCT').addEventListener('click', function(event) {
 
     // create CCT
     setTimeout(function() {
-        // CCT Settings - For Testing Switch Value of the createCCT to false
+        // CCT Settings 
         const cct_settings = {
             questionId: 570,
             createCCT: true,

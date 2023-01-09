@@ -1,11 +1,11 @@
-const navigation_wrapper = document.querySelector(".lpNavWrapper")
+const navigation_wrapper = document.querySelector('.lpNavWrapper')
 const navigation = document.querySelector('.lpNav')
 const menu_button = document.querySelector('.lpNav__menuIcon')
 const menu_wrapper = document.querySelector('.lpNav__wrapper')
 const menu_svg = document.querySelector('.lpMenuSvg')
 const right_side = document.querySelector('.lpNav__right')
-const mobile_button = `<a href="#" class="lpNav__menuIcon lpNav__menuIcon--open">
-<svg><use class="lpMenuSvg" xlink:href="#icon-menu"></use></svg>
+const mobile_button = `<a href='#' class='lpNav__menuIcon lpNav__menuIcon--open'>
+<svg><use class='lpMenuSvg' xlink:href='#icon-menu'></use></svg>
 </a>`
 
 // open / close
@@ -33,8 +33,8 @@ menu_button.addEventListener('click', function(event) {
 // switch content on the mobile platform
 const mobile_menu = () => {
   const create_menu = () => {
-    const create_div = document.createElement("div")
-    create_div.classList.add("lpNav__menu")
+    const create_div = document.createElement('div')
+    create_div.classList.add('lpNav__menu')
     navigation.appendChild(create_div)
     const navigation_items = document.querySelector('.lpNav__right .lpNav__items')
     create_div.appendChild(navigation_items)
@@ -46,15 +46,22 @@ mobile_menu()
 // Sticky Navigation
 function run_sticky() {
   const sticky_desktop = () => {
-    document.querySelector('#header').classList.contains('fixed') ? navigation.classList.add('lpNav--sticky') : navigation.classList.remove('lpNav--sticky')
-    console.log('Desktop')
+    const start_point = document.getElementById('pricegrp')
+    start_point.getBoundingClientRect().top < 0 ? navigation.classList.add('lpNav--sticky') : navigation.classList.remove('lpNav--sticky')
   }
 
   const sticky_mobile = () => {
     window.pageYOffset == 0 ? navigation.classList.remove('lpNav--stickyMobile') : navigation.classList.add('lpNav--stickyMobile')
-    console.log('Mobile')
   }
 
-  window.location.href.indexOf('www.alza.cz') != -1 ? sticky_desktop() : sticky_mobile()
+  if (window.location.href.indexOf('m.alza.cz') != -1) {
+    sticky_mobile()
+  } else if (window.location.href.indexOf('mbeta.alza.cz') != -1) {
+    sticky_mobile()
+  } else if (window.location.href.indexOf('beta.alza.cz') != -1) {
+    sticky_desktop()
+  } else {
+    sticky_desktop()
+  }
 }
-window.addEventListener("scroll", run_sticky)
+window.addEventListener('scroll', run_sticky)

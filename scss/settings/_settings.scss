@@ -48,6 +48,10 @@ html{
     scroll-behavior: smooth;
 }
 
+.article-page .article ul li, .article-page .article ol li{
+    padding: 0;
+}
+
 // page settings
 #landingpage{
     font-size: 16px;

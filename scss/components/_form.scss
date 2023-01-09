@@ -233,3 +233,14 @@
         }
     }
 }
+
+// mobile
+@media only screen and (max-width: 980px){
+    .mobile #landingpage,
+    .mobileapp #landingpage{
+        .lpContact .lpForm__row input, 
+        .lpContact .lpForm__row textarea{
+            font-size: 14px;
+        }
+    }
+}

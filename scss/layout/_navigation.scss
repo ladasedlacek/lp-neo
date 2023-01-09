@@ -177,11 +177,11 @@
 
     .lpNav__items{
         flex-direction: column;
-        padding: 32px 0 24px;
+        padding: 32px 40px 24px;
 
         .lpNav__item{
             width: 100%;
-            margin: 0 auto;
+            margin: 0 auto 16px;
             max-width: 550px;
 
             &:last-of-type{
@@ -209,6 +209,16 @@
 
         .lpNav__left .lpNav__item .lpNav__button{
             margin-left: 0;
+        }
+    }
+}
+
+@media only screen and (max-width: 550px){
+    .mobile #landingpage,
+    .mobileapp #landingpage{
+        .lpNav__menu .lpNav__items, 
+        .lpNav__menu .lpNav__items{
+            padding: 32px 15px 24px;
         }
     }
 }
