@@ -1,13 +1,14 @@
 const links = document.querySelectorAll("#landingpage .scrollTo")
 links.forEach(element => {
     element.onclick = (event) => {
+        console.log('test scroll')
         event.preventDefault()
         const attr_href = element.getAttribute('href')
-        const target_element = document.querySelector(attr_href)
-        const target_position = target_element.getBoundingClientRect().top - 150
-        window.scrollTo({
-            top: target_position,
-            behavior: "smooth"
+        const element_target = document.querySelector(attr_href).offsetTop
+        window.scrollTo({ 
+            top: element_target -100, 
+            left: 0,
+            behavior: 'smooth'
         })
     }
 })

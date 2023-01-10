@@ -57,14 +57,6 @@ function run_sticky() {
     window.pageYOffset == 0 ? navigation.classList.remove('lpNav--stickyMobile') : navigation.classList.add('lpNav--stickyMobile')
   }
 
-  if (window.location.href.indexOf('m.alza.cz') != -1) {
-    sticky_mobile()
-  } else if (window.location.href.indexOf('mbeta.alza.cz') != -1) {
-    sticky_mobile()
-  } else if (window.location.href.indexOf('beta.alza.cz') != -1) {
-    sticky_desktop()
-  } else {
-    sticky_desktop()
-  }
+  window.location.href.indexOf('mbeta.alza.cz') != -1 || window.location.href.indexOf('m.alza.cz') != -1 ? sticky_mobile() : sticky_desktop()
 }
 window.addEventListener('scroll', run_sticky)

@@ -28,13 +28,13 @@ module.exports = function (grunt) {
         cwebp: {
             dynamic: {
                 options: {
-                    q: 80
+                    q: 99
                 },
                 
                 files: [{
                     expand: true,
                     cwd: 'img/',
-                    src: ['*.{png,jpg,gif}'],
+                    src: ['**/*.{png,jpg,gif}'],
                     dest: 'build/img'
                 }]
             }
@@ -119,6 +119,7 @@ module.exports = function (grunt) {
     grunt.registerTask('css', ['sass', 'postcss', 'cssnano']);
     grunt.registerTask('js', ['clean', 'babel', 'uglify']);
     grunt.registerTask('img', ['image', 'cwebp', 'svgstore']);
+    grunt.registerTask('webp', ['cwebp']);
     grunt.registerTask('sprite', ['svgstore']);
     grunt.registerTask('default', ['css', 'js', 'watch']);
 };
