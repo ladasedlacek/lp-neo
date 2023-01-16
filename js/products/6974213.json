@@ -1,0 +1,3717 @@
+{
+  "data": {
+    "self": {
+      "href": "https://www.alza.cz/api/router/legacy/catalog/product/6974213?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+      "appLink": "catalogProductDetail",
+      "enabled": true
+    },
+    "action_info": null,
+    "actions": [
+      {
+        "imageUrl": "https://cdn.alza.cz/Foto/Labels/StickerMedium/12CZ.png",
+        "name": "Slevy, kódy, cashbacky"
+      },
+      {
+        "imageUrl": "https://cdn.alza.cz/Foto/Labels/StickerMedium/12CZ.png",
+        "name": "Na splátky"
+      },
+      {
+        "imageUrl": "https://cdn.alza.cz/Foto/Labels/StickerMedium/12CZ.png",
+        "name": "NEO pronájem"
+      }
+    ],
+    "actions_cnt": 3,
+    "artist": null,
+    "availabilityDesc": null,
+    "commodityLife": null,
+    "links": [],
+    "links_cnt": "0",
+    "extendedWarranty": null,
+    "gaCategory": "Samsung",
+    "gaPrice": 21999.00,
+    "genre": null,
+    "imgs": [
+      {
+        "big_url": "https://cdn.alza.cz/Foto/f3/SA/SAMO0228b2.jpg",
+        "id": "SAMO0228b2",
+        "order": 1,
+        "origUrl": "https://cdn.alza.cz/Foto/f4/SA/SAMO0228b2.jpg",
+        "url": "https://cdn.alza.cz/Foto/f1/SA/SAMO0228b2.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-01.jpg",
+        "id": "SAMO0228b2-01",
+        "order": 2,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-01.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-01.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-02.jpg",
+        "id": "SAMO0228b2-02",
+        "order": 3,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-02.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-02.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-03.jpg",
+        "id": "SAMO0228b2-03",
+        "order": 4,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-03.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-03.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-04.jpg",
+        "id": "SAMO0228b2-04",
+        "order": 5,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-04.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-04.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-05.jpg",
+        "id": "SAMO0228b2-05",
+        "order": 6,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-05.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-05.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-06.jpg",
+        "id": "SAMO0228b2-06",
+        "order": 7,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-06.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-06.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-07.jpg",
+        "id": "SAMO0228b2-07",
+        "order": 8,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-07.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-07.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-08.jpg",
+        "id": "SAMO0228b2-08",
+        "order": 9,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-08.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-08.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-09.jpg",
+        "id": "SAMO0228b2-09",
+        "order": 10,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-09.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-09.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-10.jpg",
+        "id": "SAMO0228b2-10",
+        "order": 11,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-10.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-10.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-11.jpg",
+        "id": "SAMO0228b2-11",
+        "order": 12,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-11.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-11.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-12.jpg",
+        "id": "SAMO0228b2-12",
+        "order": 13,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-12.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-12.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/SA/SAMO0228b2-13.jpg",
+        "id": "SAMO0228b2-13",
+        "order": 14,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/SA/SAMO0228b2-13.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/SA/SAMO0228b2-13.jpg"
+      }
+    ],
+    "imgs_cnt": 14,
+    "info_bottom": "<span role=\"listitem\"> &raquo; Všechny <a href=\"/samsung-galaxy-s/18891113.htm\">telefony Samsung Galaxy S</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/mobilni-telefony-s-bezdratovym-nabijenim/18876479.htm\">chytré telefony s bezdrátovým nabíjením</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/mobilni-telefony-s-nfc/18876476.htm\">chytré mobilní telefony s NFC</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/5g-telefony/18872199.htm\">5G telefony</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/firemni-telefony/18865099.htm\">chytré firemní telefony</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/telefony-se-cteckou-otisku-prstu/18865090.htm\">chytré telefony se čtečkou otisku prstů</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/vodeodolne-telefony/18860893.htm\">voděodolné telefony</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/telefony-s-rychlonabijenim/18860670.htm\">chytré telefony s rychlým nabíjením</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/fotomobily/18856153.htm\">fotomobily</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/dotykove-mobilni-telefony/18855072.htm\">dotykové mobilní telefony</a> </span>\r\n<br /><p>\r\n\t<a href=\"/samsung-knox\"><img src=\"https://i.alza.cz/Foto/ImgGalery/Image/AlzaB2B_Banner.png\" width=\"100%\" /></a>\r\n</p>\r\n<span role=\"listitem\"> &raquo; Všechny <a href=\"/mobily-samsung/18855066.htm\">mobily Samsung</a> </span>\r\n<br /><p>\n\t<a href=\"/kurz-foceni-mobilem-on-line-zaklady-foceni-a-kompozice\"><img src=\"https://i.alza.cz/Foto/ImgGalery/Image/Fotokurz-banner-cz.jpg\" width=\"100%\" /></a>\n</p>\n\n<span role=\"listitem\"> » Všechny <a href=\"/mobilni-telefony-android/18851259.htm\">chytré mobilní telefony Android</a> </span>\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/dual-sim-telefony/18850171.htm\">chytré dual SIM telefony</a> </span>\r\n<br /><ul>\n\t<li>Všechny&nbsp;<a href=\"/dotykove-mobilni-telefony/18855072.htm\">dotykové mobilní telefony</a>,&nbsp;<a href=\"/chytre-telefony/18845588.htm\">chytré telefony (smartphone)</a>&nbsp;a <a href=\"/firemni-telefony/18865099.htm\">firemní telefony</a></li>\n</ul>\n\n<p>Na baterii či akumulátor, které mohou být součástí produktu, se vztahuje doba životnosti v délce šesti měsíců, protože se jedná o spotřební materiál.</p>\n\n<span role=\"listitem\"> &raquo; Všechny <a href=\"/chytre-telefony/18845588.htm\">chytré telefony</a> </span>\n<br /><p>\r\n\t<a href=\"/jak-vybrat-mobil\">Jak vybrat mobil</a> | <a href=\"/nejlepsi-telefony\">Nejlepší telefony</a> | <a href=\"/nejlepsi-herni-telefony\">Nejlepší herní telefony</a> | <a href=\"/cinske-telefony\">Čínské telefony</a> | <a href=\"/inovace-posledniho-roku\">Inovace posledního roku</a> | <a href=\"/zaloha-dat-telefonu\">Záloha a obnova dat telefonu</a>&nbsp;|&nbsp;<a href=\"/telefon-do-tovarniho-nastaveni\">Vrácení telefonu do továrního nastavení</a> | <a href=\"/nfc-platby-mobilem\">NFC platby mobilem</a> | <a href=\"/5g-sit\">5G mobilní sítě</a> | <a href=\"/dualni-fotoaparaty-mobilnich-telefonu\">Duální fotoaparáty mobilních telefonů</a> | <a href=\"/tipy-a-triky-jak-fotit-mobilnim-telefonem\">Tipy a triky, jak fotit mobilním telefonem</a> | <a href=\"/bezpecne-smazani-dat\">Bezpečné smazání dat</a> | <a href=\"/nejmensi-mobilni-telefony\">Nejmenší mobilní telefony</a> |\r\n\t<a href=\"/ai-umela-inteligence\">AI - Umělá inteligence</a> | <a href=\"/personalizace-telefonu\">Personalizace telefonu</a>&nbsp;|&nbsp;<a href=\"/jak-zachazet-s-mobilem-ve-vedru\">Jak zacházet s mobilem ve vedru</a>&nbsp;|&nbsp;<a href=\"/iphone-11-recenze\">Apple iPhone 11</a>&nbsp;| <a href=\"/iphone-se-2020-recenze\">Apple iPhone SE 2020</a>&nbsp;| <a href=\"/repasovane-iphony-renewd\">Repasované iPhony</a>&nbsp;| <a href=\"/samsung-galaxy-s20-recenze\">Samsung Galaxy S20</a>&nbsp;| <a href=\"/samsung-galaxy-note10-recenze\">Samsung Galaxy Note10</a>&nbsp;| <a href=\"/samsung-galaxy-note20-recenze\">Samsung Galaxy Note20</a>&nbsp;| <a href=\"/samsung-galaxy-a-recenze\">Samsung Galaxy A</a>&nbsp;| <a href=\"/huawei-p40-recenze\">Huawei P40</a>&nbsp;| <a href=\"/huawei-mobile-services\">Huawei Mobile Services</a>&nbsp;| <a href=\"/android\">Android</a>.&nbsp;\r\n</p>\r\n\r\n<span role=\"listitem\"> &raquo; Všechny <a href=\"mobily/18843445.htm\">mobily</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/odolne-telefony/18852018.htm\">odolné telefony</a> </span>\r\n",
+    "info_top": "<p>\r\n\t<a href=\"/prislusenstvi-k-mobilum-samsung/samsung/18856474-v1299.htm\"><img src=\"https://i.alza.cz/Foto/ImgGalery/Image/Samsung-adapter-CZ.jpg\" width=\"100%\" /></a>\r\n</p>\r\n<br /><!--\n<p><a href=\"https://www.alza.cz/youtube-premium-zdarma-samsung\"><img src=\"https://i.alza.cz/Foto/ImgGalery/Image/samsung-youtube-zdarma.jpg\" style=\"width: 100%;\" \"=\"\"></a></p>\n...>-->\n\n",
+    "isFav": false,
+    "favListsIds": [],
+    "is_in_stock": true,
+    "labels": [],
+    "desc": null,
+    "parameterGroups": [
+      {
+        "groupId": 5184,
+        "name": "Snadný výběr",
+        "hierarchic": false,
+        "params": [],
+        "params_cnt": 0,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 2660,
+        "name": "Základní parametry",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 13023,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Úhlopříčka displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687446,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "6,1\"",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13024,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239275648,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2340 × 1080",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13025,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Operační systém",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218636651,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Android",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 12493,
+            "art": null,
+            "artId": 33723,
+            "artTitle": null,
+            "name": "Konfigurace karet",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239275173,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Single SIM + eSIM",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13028,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Slot na paměťovou kartu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218637613,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Ne",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 389,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ paměťové karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239674137,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Nemá",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13029,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení zadní kamery",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687452,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "50 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13030,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení přední kamery",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687466,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "10 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13031,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Funkce",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 219732424,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Rychlé nabíjení",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 219747293,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bezdrátové nabíjení",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239453218,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Čtečka otisků prstů v displeji",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239797117,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Podpora MMS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239456333,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Reverzní bezdrátové nabíjení",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239707790,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Desktop režim (Samsung Dex)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 6,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 24207,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rok představení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239840482,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2022",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 10,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 145,
+        "name": "Konstrukce",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 380,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 1317,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Dotykový displej",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 22229,
+            "art": null,
+            "artId": 19926,
+            "artTitle": null,
+            "name": "Stupeň krytí",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239809337,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "IP68",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13033,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Výška",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687460,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "146 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13034,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Šířka",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687451,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "70,6 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13035,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Hloubka",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687453,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "7,6 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13036,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Hmotnost",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687470,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "167 g",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13032,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Barva",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218638378,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Černá",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 7,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 151,
+        "name": "Displej",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 387,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Úhlopříčka displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687469,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "6,1 \" (15,49 cm)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 838,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 3894,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "AMOLED",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 24993,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Vlastnosti displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239850581,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Gorilla Glass",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239850582,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "HDR 10+",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 2,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 19533,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Obnovovací frekvence displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687471,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "120 Hz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 12001,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Jemnost displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687463,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "425 PPI",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 14122,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Tvar výřezu v displeji",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239453219,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Kruh",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 6,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 150,
+        "name": "Fotoaparát",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 18498,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239737840,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Širokoúhlý",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239737841,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Teleobjektiv",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 2,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13957,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Počet objektivů zadního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687468,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "3 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13956,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Počet objektivů předního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687465,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1659,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení hlavního zadního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687467,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "50 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 15475,
+            "art": null,
+            "artId": 4707,
+            "artTitle": null,
+            "name": "Světelnost zadního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687464,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "f/1,8",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13542,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení fotoaparátu s teleobjektivem",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687462,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "10 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 15476,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Světelnost fotoaparátu s teleobjektivem",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687448,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "f/2,4",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 14591,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení širokoúhlého fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687447,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "12 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 15477,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Světelnost širokoúhlého fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687456,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "f/2,2",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1660,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení předního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687449,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "10 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 15478,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Světelnost předního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687461,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "f/2,2",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1658,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Maximální světelnost",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687454,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "f/1,8",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 12492,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Stabilizace obrazu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 45959272,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Optická",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 18499,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Optický zoom",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239737844,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "3×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1657,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Maximální rozlišení videa",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239737126,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "7680 × 4320 (8K Ultra HD)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 16529,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Podporovaná rozlišení videa",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239808486,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "4320p 24fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709114,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2160p 60fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709115,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2160p 30fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709117,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1080p 60fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709118,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1080p 30fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709120,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1080p 240fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 6,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 386,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Funkce fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239456331,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Optický zoom",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 1340,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Přisvětlovací dioda",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 2,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13037,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Zaostřování",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218203156,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Ostření detekcí fázového posuvu (PDAF)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 18,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 153,
+        "name": "Výdrž a výkon",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 13038,
+            "art": null,
+            "artId": 12664,
+            "artTitle": null,
+            "name": "Kapacita baterie",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687457,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "3 700 mAh",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 3258,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Uživatelsky vyměnitelná baterie",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 40740,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Vestavěná baterie",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 16323,
+            "art": null,
+            "artId": 33216,
+            "artTitle": null,
+            "name": "Max. výkon drátového nabíjení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687450,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "25 W",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13026,
+            "art": null,
+            "artId": 28190,
+            "artTitle": null,
+            "name": "Operační paměť",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687455,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "8 GB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13027,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Vnitřní paměť",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687459,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "128 GB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 12022,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Značka procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 203629,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Samsung  ",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 393,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Počet jader procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 416687458,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "8 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 14513,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Označení procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239868388,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Samsung Exynos 2200",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 8,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 154,
+        "name": "Komunikace a porty",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 395,
+            "art": null,
+            "artId": 12659,
+            "artTitle": null,
+            "name": "Konektory",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 31108,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "USB-C",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13040,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Bezdrátové technologie",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218652461,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "WiFi",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652463,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bluetooth",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652466,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "GPS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652467,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "NFC",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652468,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "GLONASS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652469,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "A-GPS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652472,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Galileo",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239263895,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "BeiDou",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 8,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 394,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Datové služby",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239710075,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "5G",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 1355,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "LTE (4G)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 1352,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "UMTS/CDMA (3G)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 1350,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "GSM/GPRS (2G)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 4,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13041,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Senzory",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218644671,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Digitální kompas (magnetický senzor)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218644656,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Pohybový senzor (akcelerometr, G-senzor)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218644677,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Gyroskop",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218644684,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Senzor přiblížení (proximity)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218644739,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Barometr",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 5,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 832,
+            "art": null,
+            "artId": 12658,
+            "artTitle": null,
+            "name": "Typ hlavní SIM karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 3722,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Nano SIM",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 3413,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ vedlejší SIM karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239737642,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "eSIM",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13049,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Frekvence LTE",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218645111,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2600 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645104,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2100 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645095,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1900 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645089,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1800 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645083,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "900 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645061,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "800 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 6,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 7,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 159,
+        "name": "Obsah balení",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 15430,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Příslušenství v balení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239877634,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bez nabíjecího adaptéru (nutné dokoupit zvlášť)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239795093,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Nabíjecí kabel",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 2,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 148,
+        "name": "Software",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 828,
+            "art": null,
+            "artId": 14595,
+            "artTitle": null,
+            "name": "Verze operačního systému",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239850520,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Android 12",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 14519,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Nástavba",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239464142,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Samsung One UI",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 2,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 1800,
+        "name": "Vyberte si značku/model telefonu",
+        "hierarchic": true,
+        "params": [
+          {
+            "id": 10912,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Značka telefonu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 3933,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Samsung",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 10914,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Model zařízení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239868396,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Galaxy S22 5G",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 2,
+        "isGeoParam": false
+      }
+    ],
+    "parameterGroupsCount": 10,
+    "rating_list": [
+      {
+        "count": 20,
+        "id": 69742129,
+        "order": 0,
+        "rating": 5
+      },
+      {
+        "count": 8,
+        "id": 69742130,
+        "order": 1,
+        "rating": 4
+      },
+      {
+        "count": 6,
+        "id": 69742131,
+        "order": 2,
+        "rating": 3
+      },
+      {
+        "count": 1,
+        "id": 69742132,
+        "order": 3,
+        "rating": 2
+      },
+      {
+        "count": 3,
+        "id": 69742133,
+        "order": 4,
+        "rating": 1
+      }
+    ],
+    "rcmCredits": 1100,
+    "related_commodity_cnt": 16,
+    "related_commodity": [
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6976224?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Samsung Galaxy S22 5G...",
+        "canignoretesco": false,
+        "code": "SP051mc251",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6976224,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SP/SP051mc251.jpg",
+        "name": "Kryt na mobil Samsung Galaxy S22 5G Silikonový zadní kryt černý",
+        "price_default": "399 Kč",
+        "producerId": 1299,
+        "typ": "Related",
+        "url": "https://www.alza.cz/samsung-galaxy-s22-5g-silikonovy-zadni-kryt-cerny-d6976224.htm",
+        "userOwns": null,
+        "rating": 3.770000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6976213?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Samsung Galaxy S22 5G...",
+        "canignoretesco": false,
+        "code": "SP051mc243",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6976213,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SP/SP051mc243.jpg",
+        "name": "Kryt na mobil Samsung Galaxy S22 5G Kožený zadní kryt černý",
+        "price_default": "699 Kč",
+        "producerId": 1299,
+        "typ": "Related",
+        "url": "https://www.alza.cz/samsung-galaxy-s22-5g-kozeny-zadni-kryt-cerny-d6976213.htm",
+        "userOwns": null,
+        "rating": 4.927000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6976265?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Pouzdro na mobil Samsung Galaxy S22...",
+        "canignoretesco": false,
+        "code": "SB811c22",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6976265,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SB/SB811c22.jpg",
+        "name": "Pouzdro na mobil Samsung Galaxy S22 5G Flipové pouzdro LED View černé",
+        "price_default": "899 Kč",
+        "producerId": 1299,
+        "typ": "Related",
+        "url": "https://www.alza.cz/samsung-galaxy-s22-5g-flipove-pouzdro-led-view-cerne-d6976265.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6980451?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Spigen Liquid Air...",
+        "canignoretesco": false,
+        "code": "SPICc687",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6980451,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SP/SPICc687.jpg",
+        "name": "Kryt na mobil Spigen Liquid Air Matte Black Samsung Galaxy S22 5G",
+        "price_default": "369 Kč",
+        "producerId": 3928,
+        "typ": "Related",
+        "url": "https://www.alza.cz/spigen-liquid-air-matte-black-samsung-galaxy-s22-5g-d6980451.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6980445?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Spigen Thin Fit Black...",
+        "canignoretesco": false,
+        "code": "SPICc680",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6980445,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SP/SPICc680.jpg",
+        "name": "Kryt na mobil Spigen Thin Fit Black Samsung Galaxy S22 5G",
+        "price_default": "509 Kč",
+        "producerId": 3928,
+        "typ": "Related",
+        "url": "https://www.alza.cz/spigen-thin-fit-black-samsung-galaxy-s22-5g-d6980445.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7187308?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Ochranné sklo FIXED FullGlue-Cover...",
+        "canignoretesco": false,
+        "code": "PP899vg492",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7187308,
+        "image_url": "https://cdn.alza.cz/Foto/f8/PP/PP899vg492.jpg",
+        "name": "Ochranné sklo FIXED FullGlue-Cover pro Samsung Galaxy S22 5G s podporou čtečky v displeji černé",
+        "price_default": "369 Kč",
+        "producerId": 5961,
+        "typ": "Related",
+        "url": "https://www.alza.cz/fixed-fullglue-cover-pro-samsung-galaxy-s22-5g-s-podporou-ctecky-v-displeji-cerne-d7187308.htm",
+        "userOwns": null,
+        "rating": 1.187000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6922083?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Pouzdro na mobil FIXED Opus pro...",
+        "canignoretesco": false,
+        "code": "PP899ve652",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6922083,
+        "image_url": "https://cdn.alza.cz/Foto/f8/PP/PP899ve652.jpg",
+        "name": "Pouzdro na mobil FIXED Opus pro Samsung Galaxy S22 černé",
+        "price_default": "409 Kč",
+        "producerId": 5961,
+        "typ": "Related",
+        "url": "https://www.alza.cz/fixed-opus-pro-samsung-galaxy-s22-cerne-d6922083.htm",
+        "userOwns": null,
+        "rating": 0.000000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6976225?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Samsung Galaxy S22 5G...",
+        "canignoretesco": false,
+        "code": "SP051mc256",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6976225,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SP/SP051mc256.jpg",
+        "name": "Kryt na mobil Samsung Galaxy S22 5G Průhledný zadní kryt se stojánkem průhledný",
+        "price_default": "359 Kč",
+        "producerId": 1299,
+        "typ": "Related",
+        "url": "https://www.alza.cz/samsung-galaxy-s22-5g-pruhledny-zadni-kryt-se-stojankem-pruhledny-d6976225.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6899836?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Pouzdro na mobil Epico Elite Flip...",
+        "canignoretesco": false,
+        "code": "EPICO99c520",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6899836,
+        "image_url": "https://cdn.alza.cz/Foto/f8/EP/EPICO99c520.jpg",
+        "name": "Pouzdro na mobil Epico Elite Flip Case Samsung Galaxy S22 5G - černá",
+        "price_default": "449 Kč",
+        "producerId": 6213,
+        "typ": "Related",
+        "url": "https://www.alza.cz/epico-elite-flip-case-samsung-galaxy-s22-cerna-d6899836.htm",
+        "userOwns": null,
+        "rating": 0.000000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6976222?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Samsung Galaxy S22 5G...",
+        "canignoretesco": false,
+        "code": "SP051mc253",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6976222,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SP/SP051mc253.jpg",
+        "name": "Kryt na mobil Samsung Galaxy S22 5G Silikonový zadní kryt korálový",
+        "price_default": "449 Kč",
+        "producerId": 1299,
+        "typ": "Related",
+        "url": "https://www.alza.cz/samsung-galaxy-s22-5g-silikonovy-zadni-kryt-koralovy-d6976222.htm",
+        "userOwns": null,
+        "rating": 3.770000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7002987?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Ochranná fólie Screenshield SAMSUNG...",
+        "canignoretesco": false,
+        "code": "SSH005m1352",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7002987,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SS/SSH005m1352.jpg",
+        "name": "Ochranná fólie Screenshield SAMSUNG Galaxy S22 5G na displej",
+        "price_default": "169 Kč",
+        "producerId": 3063,
+        "typ": "Related",
+        "url": "https://www.alza.cz/screenshield-samsung-galaxy-s22-5g-na-displej-d7002987.htm",
+        "userOwns": null,
+        "rating": 2.151000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6980374?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Ochranné sklo Spigen Glas.tR EZ Fit...",
+        "canignoretesco": false,
+        "code": "SP061a129",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6980374,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SP/SP061a129.jpg",
+        "name": "Ochranné sklo Spigen Glas.tR EZ Fit 2 Pack Samsung Galaxy S22 5G",
+        "price_default": "359 Kč",
+        "producerId": 3928,
+        "typ": "Related",
+        "url": "https://www.alza.cz/spigen-glas-tr-ez-fit-2-pack-samsung-galaxy-s22-5g-d6980374.htm",
+        "userOwns": null,
+        "rating": 3.653000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7363091?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Ochranné sklo Tempered Glass...",
+        "canignoretesco": false,
+        "code": "TGPd824",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7363091,
+        "image_url": "https://cdn.alza.cz/Foto/f8/TG/TGPd824.jpg",
+        "name": "Ochranné sklo Tempered Glass Protector rámečkové pro Samsung Galaxy S22 5G + sklo na kameru",
+        "price_default": "399 Kč",
+        "producerId": 4712,
+        "typ": "Related",
+        "url": "https://www.alza.cz/tempered-glass-protector-rameckove-pro-samsung-galaxy-s22-5g-sklo-na-kameru-d7363091.htm",
+        "userOwns": null,
+        "rating": 2.576000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6976221?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Samsung Galaxy S22 5G...",
+        "canignoretesco": false,
+        "code": "SP051mc252",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6976221,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SP/SP051mc252.jpg",
+        "name": "Kryt na mobil Samsung Galaxy S22 5G Silikonový zadní kryt tmavě zelený",
+        "price_default": "359 Kč",
+        "producerId": 1299,
+        "typ": "Related",
+        "url": "https://www.alza.cz/samsung-galaxy-s22-5g-silikonovy-zadni-kryt-tmave-zeleny-d6976221.htm",
+        "userOwns": null,
+        "rating": 3.770000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7002989?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Ochranná fólie Screenshield SAMSUNG...",
+        "canignoretesco": false,
+        "code": "SSH005m1353",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7002989,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SS/SSH005m1353.jpg",
+        "name": "Ochranná fólie Screenshield SAMSUNG Galaxy S22 5G na celé tělo",
+        "price_default": "329 Kč",
+        "producerId": 3063,
+        "typ": "Related",
+        "url": "https://www.alza.cz/screenshield-samsung-galaxy-s22-5g-na-cele-telo-d7002989.htm",
+        "userOwns": null,
+        "rating": 4.000000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6980446?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Spigen Rugged Armor...",
+        "canignoretesco": false,
+        "code": "SPICc683",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6980446,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SP/SPICc683.jpg",
+        "name": "Kryt na mobil Spigen Rugged Armor Matte Black Samsung Galaxy S22 5G",
+        "price_default": "439 Kč",
+        "producerId": 3928,
+        "typ": "Related",
+        "url": "https://www.alza.cz/spigen-rugged-armor-matte-black-samsung-galaxy-s22-5g-d6980446.htm",
+        "userOwns": null,
+        "rating": 0.000000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      }
+    ],
+    "reliability": 0.0,
+    "reliabilityText": "",
+    "reviews": [
+      {
+        "author": "Milan, Říčany",
+        "date": "27.12.2022",
+        "gender": "Male",
+        "id": 3954541,
+        "neg": "Cena není zcela friendly",
+        "order": 1,
+        "pos": "Více jak den na nabití\r\nRychlé odezvy\r\nOtisky fungují když jsem se naučil trénovat :-)\r\nBT, WiFi, Google pay ... vše ok\r\nTradičně super foto na všechny objektivy",
+        "rating": 5.0,
+        "text": "Náhrada za S10.\nAku není tak slabá jak se píše, mně vydrží více než den.\nZahřívá se občas a nikoliv nadměrně (méně než S7, více než S10)"
+      },
+      {
+        "author": "Aleš, Praha 5",
+        "date": "06.08.2022",
+        "gender": "Male",
+        "id": 3846356,
+        "neg": "zahřívání telefonu při náročnějších aplikacích\r\npro výdrž baterie je nutné vypnout 5G (stejně je k ničemu, 4G+ má zatím lepší odezvu i rychlosti)\r\npro výdrž baterie musíte po koupi vydržet 10-14 dní než se baterie zapracuje a vydrží to co má\r\nfoťák neumí makro režim, i Huawei P30 několik let starý telefon ho uměl!!!",
+        "order": 2,
+        "pos": "rychlost a plynulost UI\r\ndostatečný výkon úplně na vše\r\nrozměry - takový telefon jsem hledal už dlouho, ale protože nemám rád Assus telefony tak až Samsung mě oslovil\r\ndesign\r\nneklouže v ruce, což je u compactniho telefonu důležité, protože ho většinu času držíte jednou rukou\r\nodolnost proti nárazům, již několik pádu má za sebou a je bez jediného škrábance\r\nvýdrž baterie 1,5 dne\r\nskvělý display se 120hz a slušným jasem\r\nsuper foťák až na absenci makro režimu",
+        "rating": 5.0,
+        "text": "Pro výdrž baterie musíte vypnout spoustu věcí co jsou v nastavení různě schovaná, hlavne 5G, rychlost zpracování na optimalizováno, mít zapnutý úsporný režim WiFi, nepoužívám žádný Cloud, jen Fotky Google, display mám na 120hz - bez něj ten telefon nemá smysl. Prostě si pohrát s nastavením."
+      },
+      {
+        "author": "Zákazník, Kladno",
+        "date": "26.06.2022",
+        "gender": "Male",
+        "id": 3819538,
+        "neg": "Baterie",
+        "order": 3,
+        "pos": "Skvely kompakt",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Zákazník, Vřesina",
+        "date": "16.06.2022",
+        "gender": "Male",
+        "id": 3814095,
+        "neg": "",
+        "order": 4,
+        "pos": "Kompaktní rozměry\r\nfoťák\r\ndesign, výbava\r\n120Hz Displej",
+        "rating": 5.0,
+        "text": "Před tímto telefonem jsem měl několik let Sony Xperia XZ1 Compact, se kterým jsem byl poměrně spokojen(kompaktní velikost, skvělá výdrž baterie, foťák byl trochu slabší). S22 byla tedy po dlouhé době jedna z velice mála možností na trhu v menších rozměrech. Z koupi S22 jsem měl obavy, hlavně po spoustě recenzí kritizujících Exynos procesory(evropská varianta) a baterii. Nicméně telefon je skvělý, je rychlejší, má spoustu nových funkcí, Samsung One UI Android jsem si rychle oblíbil, fotí skvěle a výdrž baterie .... alespoň pro mě je podobná jako u Xperie, kterou jsem měl. Celkově je to opravdu výborný upgrade, s telefonem jsem zatím neměl žádné problémy. Co se týče baterie ... mám stále zapnuté mobilní data, gps, bluetooth, wi-fi, 120Hz display(zkoušel jsem 60Hz, která údajně méně žere baterii, ale nelíbilo se mi to - obraz se více trhá hlavně v menu ...), tmavý vzhled android a zapnutou ochranu baterie(telefon se nabíjí pouze do 85%). I přesto jsem do teď žádné problémy s baterií neměl, vydrží mi v pohodě celý den(hovory, poslech hudby, procházení dokumentů a mailů, navigace v autě - zde ovšem většinou v nabíječce)."
+      },
+      {
+        "author": "Pavel, Ostrava - Poruba",
+        "date": "27.04.2022",
+        "gender": "Male",
+        "id": 3783538,
+        "neg": "bohužel bez jacku velké mínus \r\nbaterie - po týdnu užívání lepší, ale i tak by to chtělo větší kapacitu ",
+        "order": 5,
+        "pos": "Foťák je skvělý \r\nRychlý a bez problému\r\nkompaktní, ale přesto hrubší než s10",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Zákazník, Pardubice",
+        "date": "31.03.2022",
+        "gender": "Male",
+        "id": 3764866,
+        "neg": "Fotomodul by mohl být  zároveň  s tělem \r\n1x denně  nabíjet\r\nCena \r\nDobíjení  mohlo být  rychlejší a kapacitně větší  baterie",
+        "order": 6,
+        "pos": "Velikost  \r\nDisplej  \r\nRychlost a plynulost systému \r\nFotí  skvěle \r\nVelmi kvalitní zpracování \r\nVýkon \r\nNejlepší  malý  telefon na trhu \r\nV balení není  nabíječka \r\nVětšina  nepotřebných  doplňků  jde odinstalovat\r\nRychlost  přenosu USB \r\nWiFi6",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Ferdinand, Žatec 1",
+        "date": "23.03.2022",
+        "gender": "Male",
+        "id": 3758959,
+        "neg": "zmena stylu oproti predchudcum - telefon je sirsi , docela nezvyk od predchudcu S8, S20,\r\nnelze zvetsit pamet pomoci sd karty.",
+        "order": 7,
+        "pos": "5g\r\ndesign\r\nfotaky\r\nprijatelne velky display\r\nplynulost\r\ndual sim, esim",
+        "rating": 5.0,
+        "text": "varianta S22, 256gb cerna. Skoda ze nebyl zachovan tvar predchudcu - sirsi tvar telefonu, uzsi byl lepsi na drzeni i ovladani. Tel zvlada vse plynule, pouzivam na kancelarskou cinnost. Obcas nejaka hra. Baterka pri beznem pouziti vydrzi den vpoode. "
+      },
+      {
+        "author": "Bohumil, Praha",
+        "date": "23.03.2022",
+        "gender": "Male",
+        "id": 3758260,
+        "neg": "zatim žádné",
+        "order": 8,
+        "pos": "celkově vše",
+        "rating": 5.0,
+        "text": "Pořídil jsem jako upgrade místo s10e a ve všech ohledech je to viditelný upgrade a tak mi nevadí ani menší baterie protože v porovnání s s10e je kapacita vyšší."
+      },
+      {
+        "author": "Pavel, Brno",
+        "date": "06.03.2022",
+        "gender": "Male",
+        "id": 3746001,
+        "neg": "až na menší baterku , ale dá se s tím den vydržet :)",
+        "order": 9,
+        "pos": "Všechno super , doporučuji .",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Karel, Praha 4",
+        "date": "15.10.2022",
+        "gender": "Male",
+        "id": 3888511,
+        "neg": "S10+ měla delší výdrž baterie",
+        "order": 10,
+        "pos": "Kompaktní\r\nRychlost dodání alza expres",
+        "rating": 4.0,
+        "text": ""
+      },
+      {
+        "author": "Filip, Brno 37",
+        "date": "02.10.2022",
+        "gender": "Male",
+        "id": 3880281,
+        "neg": "baterka (vydrz)",
+        "order": 11,
+        "pos": "maly\nskvele fotaky\ncashback",
+        "rating": 4.0,
+        "text": ""
+      },
+      {
+        "author": "Lukáš, Praha 10 - Strašnice",
+        "date": "29.08.2022",
+        "gender": "Male",
+        "id": 3858758,
+        "neg": "Slabá baterka. Vydrží tak max jeden pracovní den. Nemá moc možností jak si usnadnit ovládání jako má třeba Huawei nebo Xiaomi. Pohybové gesta přes obrazovku jsou jen ty základní. U takového telefonu bych očekával víc vychytávek. Například přejetí po skle zpráva do levá pro přechod zpět. Otisk prstů funguje špatně. Mám tam Ochraně sklo od Alzy aplikované a otisk to přečte jednou z pěti pokusů. Nevím zda je to tím sklem nebo všeobecně slabou čtečkou otisků.",
+        "order": 12,
+        "pos": "Moc hezky displej\nRYchle odezvy na vsechny aplikace\nFotoaparát taky vypada solidně. Zatím jsem s ním tolik nefotil.",
+        "rating": 4.0,
+        "text": ""
+      },
+      {
+        "author": "Tomáš, Varnsdorf",
+        "date": "15.06.2022",
+        "gender": "Male",
+        "id": 3813547,
+        "neg": "Slabší výdrž baterie (cca 1 den a kousek)\nBalení neobsahuje nabíječku (musí se dokoupit), pouze kabel USB-C",
+        "order": 13,
+        "pos": "Skvělý foťák\nRychlé nabíjení (cca hodinu)\nRychlost a výkon",
+        "rating": 4.0,
+        "text": ""
+      },
+      {
+        "author": "Veronika, Oldřichov v Hájích",
+        "date": "25.04.2022",
+        "gender": "Female",
+        "id": 3781727,
+        "neg": "pomalejší nabíjení",
+        "order": 14,
+        "pos": "snadná instalace\r\nkompaktní\r\ndobrý fotoaparát",
+        "rating": 4.0,
+        "text": ""
+      },
+      {
+        "author": "Firma, Praha 8",
+        "date": "11.04.2022",
+        "gender": "Firm",
+        "id": 3772310,
+        "neg": "pekelně špatná výdrž baterky",
+        "order": 15,
+        "pos": "nové vychytávky, nové aplikace, super foťák",
+        "rating": 4.0,
+        "text": ""
+      },
+      {
+        "author": "Firma, Liberec",
+        "date": "22.03.2022",
+        "gender": "Firm",
+        "id": 3758212,
+        "neg": "Výdrž baterie\r\nVelikost. Raději bych menší\r\nCena",
+        "order": 16,
+        "pos": "Rozsah funkcí",
+        "rating": 4.0,
+        "text": ""
+      },
+      {
+        "author": "Zákazník, Praha 10",
+        "date": "11.05.2022",
+        "gender": "Male",
+        "id": 3791975,
+        "neg": "baterie nutí majitele neustále do stresu v tom, zda mu vydrží, pokud bude telefon využívat tak, jak by chtěl. A nakonec to nikdy nevyjde. A pokud to vyjde, byl to stejně z pohledu telefonu den na nic\r\nnepřijde mi, že by byl chod telefonu tak plynulý, jak by mělo odpovídat parametrům hardwaru, srovnával jsem s iphone 13 pro a tam byl chod telefonu plynulejší. Bohužel nejsem Frankenstein, abych dokázal držet iphone 13 v ruce bez mozolu v dlani a navzdory vyčerpaným svalům na předloktí. \r\ndohromady asi bez power banky nepoužitelné, pokud jede člověk třeba na výlet",
+        "order": 17,
+        "pos": "jas, který uchvátí\r\nbarvy, které uchvátí\r\nváha, která netlačí\r\nrozměr, který se dá pokrýt jednu rukou",
+        "rating": 3.0,
+        "text": ""
+      },
+      {
+        "author": "Petr, Příbram",
+        "date": "11.04.2022",
+        "gender": "Male",
+        "id": 3772649,
+        "neg": "baterie = tragedie\r\nna rovnem povrchu telefon telefon cvaka pri doteku, kvuli fotakum\r\n-3,5mm jack",
+        "order": 18,
+        "pos": "S-klassa\r\nrychle, svižné, displej prostě klasika Samsung\r\naž na ty mínusy TOP\r\nvelikost",
+        "rating": 3.0,
+        "text": "Baterii o této kapacitě, mohl navrhnout jen .... :-D Bez bonusů od Samsungu bych to toho nešel."
+      },
+      {
+        "author": "Martin, Žulová",
+        "date": "11.04.2022",
+        "gender": "Male",
+        "id": 3772524,
+        "neg": "Někdy není možné se na telefon dovolat (známý problém popsaný v médiích, který zatím nevyřešila ani velká aktualizace)",
+        "order": 19,
+        "pos": "Na současné poměry příjemně \"malý\" telefon",
+        "rating": 3.0,
+        "text": ""
+      },
+      {
+        "author": "Zákazník, Konárovice",
+        "date": "09.04.2022",
+        "gender": "Female",
+        "id": 3770836,
+        "neg": "Absolutně tragická barerka!!! 2 - 3x denně nabíjet při běžném provozu (stejně jako 5 let stará s7, kterou jsem kvůli poklesu výdrže barerky chtěla vyměnit, a jsem na tom nakonec s nabíjením stejně). Přes výše uvedené klady vinou toho uvažuji o vrácení! \r\nChybí 3,5 jack na sluchátka.",
+        "order": 20,
+        "pos": "vynikající foťáky\r\nkompaktní velikost, skvěle se drží,  v bílo-stříbrném provedení vypadá skvěle\r\nsvižnost systému \r\nmožnost odinstalovat většinu předinstalovaných aplikací",
+        "rating": 3.0,
+        "text": ""
+      },
+      {
+        "author": "Radek, Krokočín",
+        "date": "04.04.2022",
+        "gender": "Male",
+        "id": 3767370,
+        "neg": "Slabá baterie , nevydrží skoro nic.\nRychlost nabíjení s originál Samsung nabíječkou 25w trvá hodinu. \nMám problém s originál redukcí usb-c na jack 3,5 jednou to připojí normálně podruhé to píše hlášku \" Nabíjení připojeného zařízení přes USB. Přitom tam mám sluchátka a zvuk nejde do sluchátek ale hraje s reproduktorů z telefonu. \r\nDostanete za ty peníze je  telefon a 1x kabel",
+        "order": 21,
+        "pos": "Fakt padne dobře do ruky \nFoťák za tmy fotí výborně ",
+        "rating": 3.0,
+        "text": ""
+      },
+      {
+        "author": "Jan, Praha 8",
+        "date": "09.05.2022",
+        "gender": "Male",
+        "id": 3790418,
+        "neg": "Jeden z nejhorších battery managementů ever\r\nBaterie vydrží cca 12 -14 hodin. Když fotíte a navigujete, tak cca 6 hodin. Strašný. Asi budu reklamovat.",
+        "order": 22,
+        "pos": null,
+        "rating": 2.0,
+        "text": ""
+      },
+      {
+        "author": "Martin, Frýdek-Místek",
+        "date": "09.07.2022",
+        "gender": "Male",
+        "id": 3828747,
+        "neg": "Hrozně slabá výdrž baterie - nabíjím přes noc a pak ještě 2x denně (výdrž tak 7-8h při aktivnější používání). Při opravdu velkém používání tak 3-4h jen.\r\nCena neodpovídá tomu, co telefon zvládá\r\nNeskutečně se přehřívá. Při focení nebo natáčení videa nejde skoro udržet v ruce. A to nemluvím o hraní her, na to je nepoužitelný (zvládá všechny hry co si vzpomenete, ale museli byste mít rukavice aby vát to nepálilo)\r\nAbsence slotu na paměťové karty. Vždy jsem dával přednost Samsungu přes Iphonem i kvůli tomu, že tam nebyl slot na paměťovou kartu, nyní je už to jedno, i Samsung ho už nemá). Jen programy a aplikace mi zabírají přes 60BG místa, pak něco zabere hudba a na fotky a videa zůstane kolik - 50BG? To je strašně málo při té kvalitě fotek a videí. Pár videí v plné kvalitě a telefon je plný.",
+        "order": 23,
+        "pos": "Krásný design a použité materiály\r\nNádherné fotografie",
+        "rating": 1.0,
+        "text": "Špatná zkušenost. Rozhodně NEDOPORUČUJI!!!\nVždy jsem měl Samsung, a to řady Samsung Galaxy S1, S2, S4, S6 edge, S8, S20 a nyní S22 a ten je asi nejhorší, který jsem měl."
+      },
+      {
+        "author": "Marek, Dolní Bělá",
+        "date": "29.04.2022",
+        "gender": "Male",
+        "id": 3784287,
+        "neg": "Za 22000 k tomu není ani nabíječka \r\nNení slot na paměťovou kartu\r\nBaterka katastrofa\r\nNevím proč, ale stále se mi odhlašuje WiFi pripojeni",
+        "order": 24,
+        "pos": null,
+        "rating": 1.0,
+        "text": "Už nikdy více,  teď mě přesvědčili,  že si koupím raději jablko."
+      }
+    ],
+    "reviews_cnt": 24,
+    "reviews_count": 38,
+    "salePercentage": null,
+    "sales": 881,
+    "seo_categories": [
+      {
+        "id": 18894013,
+        "name": "Nejprodávanější, nejlepší samsung Galaxy S22",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18894013,
+        "name": "Samsung galaxy s22 recenze",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18894013,
+        "name": "Levné samsung Galaxy S22",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18843445,
+        "name": "Mobily",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18843445,
+        "name": "Mobily Samsung",
+        "catType": "PRODUCER",
+        "catTypeId": 1299
+      },
+      {
+        "id": 18855072,
+        "name": "Dotykové mobilní telefony",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18855072,
+        "name": "Dotykové mobilní telefony Samsung",
+        "catType": "PRODUCER",
+        "catTypeId": 1299
+      }
+    ],
+    "seo_categories_cnt": 7,
+    "showBuyExpres": true,
+    "technologies": null,
+    "technologiesCount": 0,
+    "tracks": null,
+    "tracks_cnt": 0,
+    "video_list": [],
+    "videos_cnt": 0,
+    "warranty": "24 měsíců",
+    "pubYear": 0,
+    "previewEpub": null,
+    "previewKindle": null,
+    "previewPdf": null,
+    "previewPdfReader": null,
+    "previewAudioBook": null,
+    "previewTrackOrder": 0,
+    "albumName": null,
+    "interpretName": null,
+    "trackLength": null,
+    "trackGenres": null,
+    "previewTrack": null,
+    "isResponsive": true,
+    "eshop": "Alza",
+    "children": [],
+    "cpriceNoCurrency": null,
+    "currency": "Kč",
+    "quantityDiscountsCnt": 0,
+    "quantityDiscounts": null,
+    "availabilityStatus": 1,
+    "variantsParams": [
+      {
+        "id": 0,
+        "art": null,
+        "artId": 0,
+        "artTitle": null,
+        "name": "Vnitřní paměť",
+        "renderType": "Checkbox",
+        "tId": 13175,
+        "values": [
+          {
+            "v": 219732339.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 5,
+            "desc": "128 GB",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/pamet-5.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": true,
+            "visibility": false
+          },
+          {
+            "v": 239737091.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 5,
+            "desc": "256 GB",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/pamet-6.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          }
+        ],
+        "values_cnt": 2,
+        "next_param_tId": null,
+        "visibility": null
+      },
+      {
+        "id": 0,
+        "art": null,
+        "artId": 0,
+        "artTitle": null,
+        "name": "Barva",
+        "renderType": "Checkbox",
+        "tId": 13032,
+        "values": [
+          {
+            "v": 218638378.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 2,
+            "desc": "Černá",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/parametry/barva/ico-black.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": true,
+            "visibility": false
+          },
+          {
+            "v": 218638383.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 2,
+            "desc": "Růžová",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/parametry/barva/ico-pink.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          },
+          {
+            "v": 218638384.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 2,
+            "desc": "Bílá",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/parametry/barva/ico-white.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          },
+          {
+            "v": 218638388.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 2,
+            "desc": "Zelená",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/parametry/barva/ico-green.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          },
+          {
+            "v": 218638389.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 2,
+            "desc": "Fialová",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/parametry/barva/ico-violet.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          }
+        ],
+        "values_cnt": 5,
+        "next_param_tId": null,
+        "visibility": null
+      }
+    ],
+    "isDailySlasher": false,
+    "bundleInfo": null,
+    "productVariantsInfo": null,
+    "hasHistoryIssues": false,
+    "recommendedForRent": {
+      "title": "Pronajmout přes Alza NEO",
+      "buttonDescription": "Na 24 měsíců",
+      "imageUrl": "https://cdn.alza.cz/images/alza-neo-icon-detail.png",
+      "backgroundImageUrl": null,
+      "backgroundGradientStartColor": "#696969",
+      "backgroundGradientEndColor": "#000000",
+      "commodityId": 6994639,
+      "priceWithVat": "474 Kč",
+      "dailyPriceWithVat": "15,58 Kč",
+      "bannerTitle": "Chci to nové každý rok",
+      "screenTitle": "Žádný úvěr, splátky ani poplatky. Jen 15,58 Kč denně.",
+      "screenInfoItems": [
+        "Pravidelně dostáváte nový model",
+        "Součástí pronájmu je i rozšířená záruka proti rozbití a krádeži",
+        "Již od 6. měsíce lze zařízení vrátit"
+      ],
+      "productImageUrl": "https://cdn.alza.cz/ImgW.ashx?fd=f5&cd=SAMO0228b2",
+      "termsUrl": "https://m.alza.cz/neo"
+    },
+    "discussionPostCount": 25,
+    "accessories_cnt": 3,
+    "accessories": [
+      {
+        "gaPrice": 0.0,
+        "articleId": 3716,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 5,
+        "orderitemid": null,
+        "Name": "Záruka okamžité výměny",
+        "Price": "2 640 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty-okamzitaVymena.png",
+        "GroupName": "Záruka okamžité výměny",
+        "ShortMobileName": "Okamžitá výměna",
+        "GroupId": 2,
+        "GroupArticleUrl": "https://www.alza.cz/okamzita-vymena-art3716.htm",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "2 640 Kč"
+      },
+      {
+        "gaPrice": 0.0,
+        "articleId": 18046,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 292,
+        "orderitemid": null,
+        "Name": "Aplikovat ochrannou profi fólii",
+        "Price": "460 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty_folie_bw.png",
+        "GroupName": "Aplikace ochrany displeje",
+        "ShortMobileName": "Ochranná profi fólie",
+        "GroupId": 34,
+        "GroupArticleUrl": "https://www.alza.cz/instalace-ochrannych-folii-a-skel",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "460 Kč"
+      },
+      {
+        "gaPrice": 0.0,
+        "articleId": 3996,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 138,
+        "orderitemid": null,
+        "Name": "Pojištění proti rozbití a krádeži na 2 roky",
+        "Price": "3 349 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty-insurance-3.png",
+        "GroupName": "Pojištění proti rozbití a krádeži",
+        "ShortMobileName": "Pojištění na 2 roky",
+        "GroupId": 3,
+        "GroupArticleUrl": "https://www.alza.cz/pojisteni-proti-rozbiti-a-kradezi",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "3 349 Kč"
+      }
+    ],
+    "avail_postfix_delivery": null,
+    "currentIssueId": null,
+    "showGuaranteedShoppingLists": false,
+    "freeDeliveryType": 0,
+    "model": null,
+    "threeDimensionalModel": {
+      "urlObjectGlb": "https://cdn.alza.cz/Foto/f_3d_android/SA/SAMO0228b2.glb",
+      "urlObjectUsdz": "https://cdn.alza.cz/Foto/f_3d_ios/SA/SAMO0228b2.usdz",
+      "tooltip": {
+        "text": "Zobrazte si zboží u sebe doma! <action name=\"moreInfo\" />",
+        "actions": {
+          "moreInfo": {
+            "href": "https://www.alza.cz/rozsirena-realita-3d-produkty-v-aplikaci-navod",
+            "appLink": "webView",
+            "name": "Více info",
+            "enabled": true
+          }
+        }
+      }
+    },
+    "awards": [
+      {
+        "imgUrl": "https://cdn.alza.cz//Foto/ImgGalery/awards/samsung-uzijte-si-3-mesice-spotify-akce-akce.jpg",
+        "altText": null,
+        "awardType": 1
+      },
+      {
+        "imgUrl": "https://cdn.alza.cz//Foto/ImgGalery/awards/S22%20youtube_1.JPG",
+        "altText": null,
+        "awardType": 3
+      },
+      {
+        "imgUrl": "https://cdn.alza.cz/",
+        "altText": null,
+        "awardType": 5
+      }
+    ],
+    "articles": [
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/36314?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      },
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/36489?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      },
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/34537?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      }
+    ],
+    "showDelayedPaymentButton": true,
+    "isScoreUserLevelOk": false,
+    "delayedPaymentPriceWithVat": "7 333 Kč",
+    "delayedPaymentRemainingPriceWithVat": "14 666 Kč",
+    "deliveryAvailabilities": {
+      "fastestDeliveryAvailability": "Můžete mít ihned na <span class=\"link\">6 prodejnách</span>",
+      "meta": {
+        "href": "https://www.alza.cz//api/catalog/v1/products/6974213/deliveryAvailabilities",
+        "rel": [
+          "self"
+        ]
+      }
+    },
+    "showUpsellDialog": true,
+    "isMobileDevice": true,
+    "descriptionBeforeDiscount": "Nejnižší cena za 30 dní předcházejících zlevnění. <a href=\"/obchodni-podminky-art10.htm#ceny\" style=\"text-decoration: underline;\">Podmínky a podrobnější informace</a>.",
+    "descriptionBeforeDiscountRichText": {
+      "text": "Nejnižší cena za 30 dní předcházejících zlevnění. <action name=\"terms\" />",
+      "actions": {
+        "terms": {
+          "href": "https://www.alza.cz/obchodni-podminky-art10.htm",
+          "appLink": "webView",
+          "name": "Podmínky a podrobnější informace",
+          "enabled": true
+        }
+      }
+    },
+    "producerId": 1299,
+    "cashBackArticleUrl": "https://www.novysamsung.cz/galaxy-s22-s-bonusem-az-3000-kc",
+    "descPageUrl": "https://m.alza.cz/descriptionpage?cCode=SAMO0228b2&culture=cs-CZ",
+    "breadcrumb": [
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/api/catalog/v1/homePage/categories/18890259?pgri=mAAI&ui=HAAGAQ",
+            "appLink": "catalogLocalTitlePage",
+            "enabled": true
+          },
+          "name": "Mobily, chytré hodinky, tablety",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18890259?t=SECTION",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18843445?t=FLOOR",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "Mobilní telefony",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18843445?t=FLOOR",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18855066?t=PRODUCERCATEGORY",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "Samsung",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18855066?t=PRODUCERCATEGORY",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18891113?t=PRODUCTLINE",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "Galaxy S",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18891113?t=PRODUCTLINE",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18894013?t=PRODUCTLINE",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "Galaxy S22",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18894013?t=PRODUCTLINE",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      }
+    ],
+    "variantGroups": null,
+    "buyerInfo": {
+      "name": "Martin Štefek",
+      "phone": "+420739249700"
+    },
+    "ingredients": null,
+    "ingredientsPageUrl": null,
+    "legalClause": null,
+    "productVariants": {
+      "self": {
+        "href": "https://www.alza.cz/api/catalog/v1/products/6974212/variants?pgrik=mAAI&ucik=HAAGAQ&countryId=0",
+        "appLink": "catalogProductVariants",
+        "enabled": true
+      },
+      "priceRangeText": "21 999,- až 22 999,-",
+      "img": "https://cdn.alza.cz/Foto/f8/SA/SAMO0228b2.jpg",
+      "name": "Na výběr 10 variant",
+      "linkedAction": null
+    },
+    "manuals": {
+      "href": "https://webapi.alza.cz/api/commodity/v1/6974213/manuals",
+      "appLink": "commodityManuals",
+      "enabled": true
+    },
+    "purchasedTogetherCarouselAction": {
+      "href": "https://www.alza.cz/api/carousels/v1/commodities/6974213/purchasedTogether?country=CZ&pgrik=mAAI&ucik=HAAGAQ",
+      "appLink": "carousel",
+      "enabled": true
+    },
+    "commodityDetail": {
+      "href": "https://www.alza.cz/api/catalog/commodities/6974213?ucik=HAAGAQ&pgrik=mAAI&country=CZ",
+      "appLink": "commodityDetail",
+      "enabled": true
+    },
+    "reviewStats": {
+      "href": "https://webapi.alza.cz/api/catalog/commodities/6974213/reviewStats?country=CZ",
+      "appLink": "reviewStats",
+      "enabled": true
+    },
+    "reviewsDetail": {
+      "href": "https://webapi.alza.cz/api/catalog/commodities/6974213/reviews?country=CZ",
+      "appLink": "reviewsDetail",
+      "enabled": true
+    },
+    "priceGuaranteeTooltip": {
+      "href": "https://www.alza.cz/api/users/4688140/catalog/products/6974213/priceGuarantee/tooltip?country=CZ&pgrik=mAAI",
+      "appLink": "priceGuaranteeTooltip",
+      "enabled": true
+    },
+    "priceGuaranteeDialog": {
+      "href": "https://www.alza.cz/api/users/4688140/catalog/products/6974213/priceGuarantee/dialog?country=CZ&pgrik=mAAI",
+      "appLink": "priceGuaranteeDialog",
+      "name": "Garance nejlepší ceny",
+      "enabled": true
+    },
+    "buyback": {
+      "href": "https://www.alza.cz/alza-vykup",
+      "appLink": "webView",
+      "enabled": true
+    },
+    "priceInfo": {
+      "priceWithoutVat": "18 181 Kč",
+      "priceWithVat": "21 999 Kč",
+      "comparePrice": null,
+      "discountRate": null,
+      "pricePrefix": null,
+      "pricePostfix": null,
+      "discountReason": null,
+      "gaPriceWithoutVat": 18180.9917,
+      "priceNoCurrency": 21999.00,
+      "delayedPaymentPriceWithVat": "7 333 Kč"
+    },
+    "priceInfoV2": {
+      "priceWithoutVat": "18 181 Kč",
+      "delayedPaymentPriceWithVat": "7 333 Kč",
+      "delayedPaymentRemainingPriceWithVat": "14 666 Kč",
+      "instalmentPrice": "731 Kč",
+      "instalmentCount": 48,
+      "neoPriceWithVat": "měsíčně od 474 Kč",
+      "priceWithVat": "21 999 Kč",
+      "comparePrice": null,
+      "pricePrefix": null,
+      "pricePostfix": null,
+      "priceDescription": null,
+      "priceType": 1,
+      "headerText": null,
+      "headerIconUrl": null,
+      "priceSave": null,
+      "explanationPriceAction": null,
+      "unitPriceWithVat": "21 999 Kč",
+      "unitName": "ks",
+      "priceWithoutVatNoCurrency": 18180.9917,
+      "priceNoCurrency": 21999.00
+    },
+    "cpriceTotal": null,
+    "is_comparable": true,
+    "priceTotal": null,
+    "promosWorth": "v hodnotě 3 189,-",
+    "ratingCount": 0,
+    "specParent": "Mobilní telefon -  6,1\" AMOLED 2340 × 1080,  120Hz,  procesor Samsung Exynos 2200 8jádrový,  RAM 8 GB,  zadní fotoaparát s optickým zoomem 50 Mpx (f/1,8) + 10 Mpx (f/2,4) + 12 Mpx (f/2,2),  přední fotoaparát 10 Mpx,  optická stabilizace,  GPS,  Glonass,  NFC,  LTE, 5G,  USB-C,  čtečka otisků v displeji,  voděodolný dle IP68,  single SIM + eSIM,  neblokovaný,  rychlé nabíjení 25W,  bezdrátové nabíjení, reverzní nabíjení,  baterie 3700 mAh,  Android 12 ",
+    "userOwns": false,
+    "userOwnedContentId": null,
+    "navigationUrl": null,
+    "canChangeQuantity": true,
+    "canCashBack": true,
+    "cashBackType": 3,
+    "cashBackPriceLabel": "S využitím šrotovného",
+    "cashBackDialog": {
+      "title": "Šrotovné",
+      "titleImgUrl": "https://m.alza.cz/Mvc/Areas/Mobile/Images/Icons/cashback.svg",
+      "conditionsUrl": "https://m.alza.cz/galaxy-s22-s-bonusem-az-3000-kc?direct=1",
+      "conditions": "Podrobné podmínky akce",
+      "descriptionUrl": "https://m.alza.cz/cashbackannotationpage?cCode=SAMO0228b2",
+      "type": 3,
+      "discountCode": "",
+      "iconUrl": null,
+      "absoluteCommodityDiscount": "3 000 Kč",
+      "validUntil": "2023-01-31T10:10:43.0000000+01:00"
+    },
+    "cashBackPrice": "18 999 Kč",
+    "cashBackPercent": 0.14,
+    "giftAdvisor": null,
+    "catalog_number": "SM-S901BZKDEUE",
+    "actionCategoryIconsUrl": [
+      "https://i.alza.cz/Foto/CommodityIcons/neo-cz.svg"
+    ],
+    "count": 0,
+    "onChangeItemCountClick": null,
+    "icons": [
+      {
+        "text": "NEO pronájem",
+        "image": "https://i.alza.cz/Foto/CommodityIcons/neo-cz.svg",
+        "clickAction": null
+      },
+      {
+        "text": "Showroom",
+        "image": "https://webapi.alza.cz/api/catalog/icons/dynamicIcon?path=https%3a%2f%2fcdn.alza.cz%2fFoto%2fCommodityIcons%2fdynamic-icon-exposed-cz.svg&value=6x",
+        "clickAction": {
+          "href": "https://www.alza.cz/api/branches/v1/names?ids=0;16;39;4255;17;8",
+          "appLink": "branchList",
+          "enabled": true
+        }
+      },
+      {
+        "text": "Podpora 5G",
+        "image": "https://cdn.alza.cz/Foto/CommodityIcons/icon-5g.svg",
+        "clickAction": null
+      }
+    ],
+    "viewerProductInfo": {
+      "href": "https://www.alza.cz/api/%7BidentityType%7D/%7BidentityId%7D/catalog/products/6974213",
+      "appLink": "viewerProductInfo",
+      "enabled": true
+    },
+    "id": 6974213,
+    "code": "SAMO0228b2",
+    "img": "https://cdn.alza.cz/Foto/f8/SA/SAMO0228b2.jpg",
+    "name": "Samsung Galaxy S22 5G 128GB černá",
+    "spec": "Mobilní telefon -  6,1\" AMOLED 2340 × 1080,  120Hz,  procesor Samsung Exynos 2200 8jádrový,  RAM 8 GB,  interní paměť 128 GB,  zadní fotoaparát s optickým zoomem 50 Mpx (f/1,8) + 10 Mpx (f/2,4) + 12 Mpx (f/2,2),  přední fotoaparát 10 Mpx,  optická stabilizace,  GPS,  Glonass,  NFC,  LTE, 5G,  USB-C,  čtečka otisků v displeji,  voděodolný dle IP68,  single SIM + eSIM,  neblokovaný,  rychlé nabíjení 25W,  bezdrátové nabíjení, reverzní nabíjení,  baterie 3700 mAh,  Android 12 ",
+    "price": "21 999 Kč",
+    "cprice": null,
+    "priceWithoutVat": "18 181 Kč",
+    "avail": "Skladem > 5 ks",
+    "avail_postfix": "Můžete mít ihned na <span class=\"link\">6 prodejnách</span>",
+    "avail_postfix2": "",
+    "availLegend": null,
+    "avail_color": "398000",
+    "is_action": true,
+    "action_name": "",
+    "rating": 4.126000,
+    "promo_cnt": 2,
+    "promos": [
+      {
+        "self": {
+          "href": "https://www.alza.cz/api/router/legacy/catalog/product/7580235?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "count": 1,
+        "id": 7580235,
+        "img": "https://cdn.alza.cz/Foto/f1/xx/xxHN2023CZ.jpg",
+        "is_enabled": true,
+        "name": "Digitální předplatné Digitální předplatné Hospodářské noviny - 12 měsíců",
+        "order": 1,
+        "price": "2 739,-"
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz/api/router/legacy/catalog/product/6922592?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "count": 1,
+        "id": 6922592,
+        "img": "https://cdn.alza.cz/Foto/f1/XX/XXTellyMT.jpg",
+        "is_enabled": true,
+        "name": "Poukaz Předplatné digitální TV Telly na 30 dní",
+        "order": 2,
+        "price": "450,-"
+      }
+    ],
+    "order": 0,
+    "is_special_service": false,
+    "type": 0,
+    "year": 0,
+    "can_buy": true,
+    "orderItemId": null,
+    "iType": 0,
+    "maxCanBuy": 10,
+    "eshopType": 0,
+    "url": "https://www.alza.cz/samsung-galaxy-s22-5g?dq=6974213",
+    "canStream": false,
+    "canUserStream": false,
+    "supplierCode": "SAMO0228b2",
+    "parentId": 0,
+    "minimumAmount": 1.0000,
+    "amountInPack": 1.0000,
+    "start_time": null,
+    "end_time": null,
+    "variant_type": 2,
+    "advertisements": [],
+    "priceNoCurrency": 21999.00,
+    "categoryId": 18894013,
+    "categoryName": "Galaxy S22",
+    "inBasket": 0.0
+  },
+  "err": 0,
+  "favCnt": 0,
+  "basket_cnt": 0,
+  "basket_total_cnt": 0,
+  "msg": null,
+  "user_name": "Ladislav Sedlacek",
+  "user_id": 4688140,
+  "vzt": 6447710812,
+  "countryID": 0,
+  "countryPhonePrefix": "420",
+  "premiumBooks": 0,
+  "premiumDelivery": 0,
+  "premiumValidTo": null,
+  "premiumRenew": false,
+  "serverTime": 1673887324
+}

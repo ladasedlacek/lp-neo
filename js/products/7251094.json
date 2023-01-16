@@ -1,0 +1,3199 @@
+{
+  "data": {
+    "self": {
+      "href": "https://www.alza.cz/api/router/legacy/catalog/product/7251094?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+      "appLink": "catalogProductDetail",
+      "enabled": true
+    },
+    "action_info": null,
+    "actions": [
+      {
+        "imageUrl": "https://cdn.alza.cz/Foto/Labels/StickerMedium/12CZ.png",
+        "name": "Na splátky"
+      },
+      {
+        "imageUrl": "https://cdn.alza.cz/Foto/Labels/StickerMedium/12CZ.png",
+        "name": "NEO pronájem"
+      }
+    ],
+    "actions_cnt": 2,
+    "artist": null,
+    "availabilityDesc": null,
+    "commodityLife": null,
+    "links": [],
+    "links_cnt": "0",
+    "extendedWarranty": null,
+    "gaCategory": "Notebooky",
+    "gaPrice": 29989.00,
+    "genre": null,
+    "imgs": [
+      {
+        "big_url": "https://cdn.alza.cz/Foto/f3/NT/NT379t71j3b.jpg",
+        "id": "NT379t71j3b",
+        "order": 1,
+        "origUrl": "https://cdn.alza.cz/Foto/f4/NT/NT379t71j3b.jpg",
+        "url": "https://cdn.alza.cz/Foto/f1/NT/NT379t71j3b.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NT/NT379t71j3b-01.jpg",
+        "id": "NT379t71j3b-01",
+        "order": 2,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NT/NT379t71j3b-01.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NT/NT379t71j3b-01.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NT/NT379t71j3b-03.jpg",
+        "id": "NT379t71j3b-03",
+        "order": 3,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NT/NT379t71j3b-03.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NT/NT379t71j3b-03.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NT/NT379t71j3b-04.jpg",
+        "id": "NT379t71j3b-04",
+        "order": 4,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NT/NT379t71j3b-04.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NT/NT379t71j3b-04.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NT/NT379t71j3b-05.jpg",
+        "id": "NT379t71j3b-05",
+        "order": 5,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NT/NT379t71j3b-05.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NT/NT379t71j3b-05.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NT/NT379t71j3b-06.jpg",
+        "id": "NT379t71j3b-06",
+        "order": 6,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NT/NT379t71j3b-06.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NT/NT379t71j3b-06.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NT/NT379t71j3b-07.jpg",
+        "id": "NT379t71j3b-07",
+        "order": 7,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NT/NT379t71j3b-07.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NT/NT379t71j3b-07.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NT/NT379t71j3b-08.jpg",
+        "id": "NT379t71j3b-08",
+        "order": 8,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NT/NT379t71j3b-08.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NT/NT379t71j3b-08.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NT/NT379t71j3b-09.jpg",
+        "id": "NT379t71j3b-09",
+        "order": 9,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NT/NT379t71j3b-09.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NT/NT379t71j3b-09.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NT/NT379t71j3b-10.jpg",
+        "id": "NT379t71j3b-10",
+        "order": 10,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NT/NT379t71j3b-10.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NT/NT379t71j3b-10.jpg"
+      }
+    ],
+    "imgs_cnt": 10,
+    "info_bottom": "<div class=\"awards\" contenteditable=\"false\">\n\t<div class=\"awardBnr\" contenteditable=\"false\">\n\t\t<a href=\"https://www.alza.cz/servis-a-instalace/18872356.htm\"><img alt=\"\" src=\"https://i.alza.cz/Foto/ImgGalery/Image/_banner_128741_1195x220_B2B_Sluzby.jpg\" /> </a>\n\t</div>\n</div>\n<p>Na baterii či akumulátor, které mohou být součástí produktu, se vztahuje doba životnosti v délce šesti měsíců, protože se jedná o spotřební materiál.</p>\n<br /><img\r\n\tsrc=\"https://i.alza.cz/Foto/ImgGalery/Image/intel_11.jpg\"\r\n\twidth=\"100%\"\r\n/>\r\n<br /><p>Na baterii či akumulátor, které mohou být součástí produktu, se vztahuje doba životnosti v délce šesti měsíců, protože se jedná o spotřební materiál.</p>",
+    "info_top": null,
+    "isFav": false,
+    "favListsIds": [],
+    "is_in_stock": true,
+    "labels": [],
+    "desc": null,
+    "parameterGroups": [
+      {
+        "groupId": 23,
+        "name": "Displej",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 316,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Úhlopříčka displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598985,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "15,6 \"",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 81,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Poměr stran",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 102,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "16:9",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 102,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ panelu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 33811,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "IPS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 79,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Maximální rozlišení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 4670,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2560 × 1440 px",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 17957,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Obnovovací frekvence displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599004,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "165 Hz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 82,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 109,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Antireflexní",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 16849,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Svítivost",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599002,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "300 Nits",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 7,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 3834,
+        "name": "Typ zásuvky",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 16811,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Země",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239710563,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Česko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710564,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Slovensko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710565,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Maďarsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710566,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Německo",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710568,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Rusko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710570,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Rakousko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710571,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Chorvatsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710572,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Francie",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710573,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Polsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710574,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Rumunsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710575,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Slovinsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 11,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 20,
+        "name": "Procesor",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 65,
+            "art": null,
+            "artId": 12715,
+            "artTitle": null,
+            "name": "Typ procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 157,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Intel Core i5",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 68,
+            "art": null,
+            "artId": 12718,
+            "artTitle": null,
+            "name": "Počet jader procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598986,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "6 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13629,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Generace procesoru Intel",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239785248,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Tiger Lake (11. generace)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 66,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Modelové označení procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239829154,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Intel Core i5 11400H Tiger Lake",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 69,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Frekvence procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598987,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2,7 GHz (2 700 MHz)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 883,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Core Boost Frekvence",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598999,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "4,5 GHz (4 500 MHz)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 74,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "TDP",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598991,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "45 W",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 882,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Cache procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598998,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "12 MB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 67,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Funkce procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 90,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Automatické přetaktování",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 91,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "HyperThreading",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 93,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Podpora Virtualizace",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 3,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 9,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 22,
+        "name": "Grafická karta",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 3286,
+            "art": null,
+            "artId": 17422,
+            "artTitle": null,
+            "name": "Typ",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239760529,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Herní",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 77,
+            "art": null,
+            "artId": 12693,
+            "artTitle": null,
+            "name": "Paměť grafické karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598992,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "6 GB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 22318,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Maximální grafický příkon (TGP)",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599011,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "130 W",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 22319,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Boost frekvence",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599012,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1 702 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 75,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Čip grafické karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239805804,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "NVIDIA GeForce RTX 3060",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 5,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 21,
+        "name": "Operační paměť",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 70,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Velikost operační paměti RAM",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598988,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "16 GB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 73,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ paměti",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 97,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "DDR4",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 71,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Frekvence paměti",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598989,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "3 200 MHz (3,2 GHz)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 3012,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Počet osazených slotů",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599001,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 72,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Celkový počet slotů",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598990,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 5,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 8,
+        "name": "Barva",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 16597,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Barva",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 67,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Černá  ",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 38,
+        "name": "Operační systém",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 132,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Operační systém",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239842994,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Windows 11 Home",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 467,
+        "name": "Pevný disk",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 1224,
+            "art": null,
+            "artId": 12672,
+            "artTitle": null,
+            "name": "Kapacita úložiště",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598993,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "512 GB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1223,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ úložiště",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 114,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "SSD",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1225,
+            "art": null,
+            "artId": 12674,
+            "artTitle": null,
+            "name": "Rozhraní disku",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239718246,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "PCIe NVMe",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1228,
+            "art": null,
+            "artId": 12672,
+            "artTitle": null,
+            "name": "SSD Kapacita",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599000,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "512 GB (0,51 TB)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 20683,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Počet osazených slotů 2.5\"",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599005,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "0 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 20684,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Celkový počet slotů 2.5\"",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599006,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "0 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 20685,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Počet osazených slotů M.2",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599007,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 20709,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Celkový počet slotů M.2",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599008,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 8,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 5544,
+        "name": "Certifikace",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 21954,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Certifikace",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239834913,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Windows 11 kompatibilní",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 26,
+        "name": "Výbava",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 163,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Výbava",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 145,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Numerická klávesnice",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239879211,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "MUX Switch",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239835576,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "TPM 2.0",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 4503,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Operační systém",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 220780131,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Nvidia G-SYNC",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239800154,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "RGB podsvícená klávesnice",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 6,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 98,
+            "art": null,
+            "artId": 12368,
+            "artTitle": null,
+            "name": "Webkamera",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598996,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "720 px",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 2,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 92,
+        "name": "Hmotnost",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 253,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Hmotnost",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598984,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2,4 kg",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 27,
+        "name": "Baterie",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 88,
+            "art": null,
+            "artId": 12662,
+            "artTitle": null,
+            "name": "Maximální výdrž baterie",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598994,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "7,5 h",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13889,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Nabíjení přes USB-C",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239265317,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Lze nabíjet přes USB-C",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 21547,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Nabíjecí konektor",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239802592,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Lenovo Slim Tip",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 21640,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Nabíjecí příkon",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599010,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "300 W",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 4,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 461,
+        "name": "Konstrukce",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 1214,
+            "art": null,
+            "artId": 13510,
+            "artTitle": null,
+            "name": "Konvertibilita",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239111202,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Pevný (klasický notebook)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 25,
+        "name": "Rozhraní",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 23831,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Thunderbolt",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429599003,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2 ks",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 94,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "USB 3.2 Gen 1 (USB 3.0)",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598995,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "4 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 24410,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Datové",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239843351,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Thunderbolt 4",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 96,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Grafické výstupy",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 132,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "HDMI",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239847893,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "USB-C",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 2,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 24414,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Audio",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239843377,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Combo Audio Jack",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 24449,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Síťové",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239847620,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "RJ-45 (LAN)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 165,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Bluetooth",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239707791,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bluetooth v5.1",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 164,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "WiFi",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239707278,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "802.11ax",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 18979,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Verze WiFi",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239747782,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "WiFi 6",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 100,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Optická mechanika",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 168,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bez mechaniky",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 10,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 4,
+        "name": "Rozměry",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 6,
+            "art": null,
+            "artId": 12665,
+            "artTitle": null,
+            "name": "Šířka",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598982,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "362,56 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 108,
+            "art": null,
+            "artId": 13895,
+            "artTitle": null,
+            "name": "Výška maximální",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598997,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "25,75 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 7,
+            "art": null,
+            "artId": 12667,
+            "artTitle": null,
+            "name": "Hloubka",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 429598983,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "260,61 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 3,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 490,
+        "name": "Jazyk klávesnice",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 1307,
+            "art": null,
+            "artId": 13696,
+            "artTitle": null,
+            "name": "Jazyk klávesnice",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 18684,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "CZ",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 18685,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "SK",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 2,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 2814,
+        "name": "Produktová řada",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 13376,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Řada notebooku",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 236913994,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Lenovo Legion",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 3148,
+        "name": "Záruka",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 14511,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozšířená záruka",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239321058,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bez rozšířené záruky",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 487,
+        "name": "Obsah balení",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 1302,
+            "art": null,
+            "artId": 13411,
+            "artTitle": null,
+            "name": "Balení obsahuje ",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 18467,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Napájecí adaptér",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      }
+    ],
+    "parameterGroupsCount": 19,
+    "rating_list": [
+      {
+        "count": 10,
+        "id": 72510939,
+        "order": 0,
+        "rating": 5
+      },
+      {
+        "count": 2,
+        "id": 72510940,
+        "order": 1,
+        "rating": 4
+      },
+      {
+        "count": 1,
+        "id": 72510941,
+        "order": 2,
+        "rating": 3
+      },
+      {
+        "count": 0,
+        "id": 72510942,
+        "order": 3,
+        "rating": 2
+      },
+      {
+        "count": 1,
+        "id": 72510943,
+        "order": 4,
+        "rating": 1
+      }
+    ],
+    "rcmCredits": 1500,
+    "related_commodity_cnt": 16,
+    "related_commodity": [
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5591195?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Batoh na notebook Lenovo Legion...",
+        "canignoretesco": true,
+        "code": "NT497o5b",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5591195,
+        "image_url": "https://cdn.alza.cz/Foto/f8/NT/NT497o5b.jpg",
+        "name": "Batoh na notebook Lenovo Legion Recon Gaming Backpack 15.6\"",
+        "price_default": "1 179 Kč",
+        "producerId": 1776,
+        "typ": "Related",
+        "url": "https://www.alza.cz/lenovo-legion-recon-gaming-backpack-15-6-d5591195.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5354311?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Chladící podložka C-Tech CLP-140",
+        "canignoretesco": false,
+        "code": "MD539y503",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5354311,
+        "image_url": "https://cdn.alza.cz/Foto/f8/MD/MD539y503.jpg",
+        "name": "Chladící podložka C-Tech CLP-140",
+        "price_default": "369 Kč",
+        "producerId": 1748,
+        "typ": "Related",
+        "url": "https://www.alza.cz/c-tech-clp-140-d5354311.htm",
+        "userOwns": null,
+        "rating": 4.537000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5285988?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Herní myš Logitech G305 Recoil...",
+        "canignoretesco": false,
+        "code": "MG137a8f01",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5285988,
+        "image_url": "https://cdn.alza.cz/Foto/f8/MG/MG137a8f01.jpg",
+        "name": "Herní myš Logitech G305 Recoil černá",
+        "price_default": "999 Kč",
+        "producerId": 1335,
+        "typ": "Related",
+        "url": "https://www.alza.cz/logitech-g305-recoil-cerna-d5285988.htm",
+        "userOwns": null,
+        "rating": 4.694000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5833423?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Herní myš Logitech G102 Lightsync,...",
+        "canignoretesco": false,
+        "code": "MG137a4x1",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5833423,
+        "image_url": "https://cdn.alza.cz/Foto/f8/MG/MG137a4x1.jpg",
+        "name": "Herní myš Logitech G102 Lightsync, black",
+        "price_default": "749 Kč",
+        "producerId": 1335,
+        "typ": "Related",
+        "url": "https://www.alza.cz/logitech-g102-lightsync-black-d5833423.htm",
+        "userOwns": null,
+        "rating": 4.846000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5234275?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Brašna na notebook Lenovo Toploader...",
+        "canignoretesco": false,
+        "code": "NT496c5o8h",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5234275,
+        "image_url": "https://cdn.alza.cz/Foto/f8/NT/NT496c5o8h.jpg",
+        "name": "Brašna na notebook Lenovo Toploader T210 15.6\" zelená",
+        "price_default": "489 Kč",
+        "producerId": 1776,
+        "typ": "Related",
+        "url": "https://www.alza.cz/lenovo-toploader-t210-15-6-zelena-d5234275.htm",
+        "userOwns": null,
+        "rating": 4.721000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6199234?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Herní myš Lenovo Legion M300 RGB...",
+        "canignoretesco": false,
+        "code": "NT486r8j2",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6199234,
+        "image_url": "https://cdn.alza.cz/Foto/f8/NT/NT486r8j2.jpg",
+        "name": "Herní myš Lenovo Legion M300 RGB Gaming Mouse",
+        "price_default": "569 Kč",
+        "producerId": 1776,
+        "typ": "Related",
+        "url": "https://www.alza.cz/gaming/lenovo-legion-m300-rgb-gaming-mouse-d6199234.htm",
+        "userOwns": null,
+        "rating": 4.887000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5876149?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Herní sluchátka JBL Quantum 200",
+        "canignoretesco": true,
+        "code": "JJ097q200",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5876149,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JJ/JJ097q200.jpg",
+        "name": "Herní sluchátka JBL Quantum 200",
+        "price_default": "1 190 Kč",
+        "producerId": 1714,
+        "typ": "Related",
+        "url": "https://www.alza.cz/jbl-quantum-200-d5876149.htm",
+        "userOwns": null,
+        "rating": 4.540000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6159934?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "WiFi router TP-LINK Archer AX20",
+        "canignoretesco": true,
+        "code": "TP633m69",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6159934,
+        "image_url": "https://cdn.alza.cz/Foto/f8/TP/TP633m69.jpg",
+        "name": "WiFi router TP-LINK Archer AX20",
+        "price_default": "1 839 Kč",
+        "producerId": 2756,
+        "typ": "Related",
+        "url": "https://www.alza.cz/tp-link-archer-ax20-d6159934.htm",
+        "userOwns": null,
+        "rating": 4.938000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5838598?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Herní podložka pod myš Sades...",
+        "canignoretesco": false,
+        "code": "SADEa13",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5838598,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SA/SADEa13.jpg",
+        "name": "Herní podložka pod myš Sades Hailstrom",
+        "price_default": "349 Kč",
+        "producerId": 11577,
+        "typ": "Related",
+        "url": "https://www.alza.cz/sades-hailstrom-d5838598.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5833323?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Herní podložka pod myš Lenovo...",
+        "canignoretesco": false,
+        "code": "NT486r8m3",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5833323,
+        "image_url": "https://cdn.alza.cz/Foto/f8/NT/NT486r8m3.jpg",
+        "name": "Herní podložka pod myš Lenovo Legion Gaming XL Cloth Mouse Pad",
+        "price_default": "289 Kč",
+        "producerId": 1776,
+        "typ": "Related",
+        "url": "https://www.alza.cz/lenovo-legion-gaming-xl-cloth-mouse-pad-d5833323.htm",
+        "userOwns": null,
+        "rating": 4.889000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5728672?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Batoh na notebook YENKEE YBB 1501...",
+        "canignoretesco": true,
+        "code": "YEE005a5",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5728672,
+        "image_url": "https://cdn.alza.cz/Foto/f8/YE/YEE005a5.jpg",
+        "name": "Batoh na notebook YENKEE YBB 1501 NOMAD Anti-theft",
+        "price_default": "1 059 Kč",
+        "producerId": 5864,
+        "typ": "Related",
+        "url": "https://www.alza.cz/yenkee-ybb-1501-nomad-anti-theft-d5728672.htm",
+        "userOwns": null,
+        "rating": 4.555000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5851630?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Herní myš SteelSeries Rival 3",
+        "canignoretesco": false,
+        "code": "MX060a30",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5851630,
+        "image_url": "https://cdn.alza.cz/Foto/f8/MX/MX060a30.jpg",
+        "name": "Herní myš SteelSeries Rival 3",
+        "price_default": "690 Kč",
+        "producerId": 2279,
+        "typ": "Related",
+        "url": "https://www.alza.cz/steelseries-rival-3-d5851630.htm",
+        "userOwns": null,
+        "rating": 4.847000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5717003?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Čisticí roztok CLEAN IT čistící...",
+        "canignoretesco": false,
+        "code": "JD790l1",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5717003,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JD/JD790l1.jpg",
+        "name": "Čisticí roztok CLEAN IT čistící roztok na obrazovky s utěrkou ve víčku",
+        "price_default": "129 Kč",
+        "producerId": 3117,
+        "typ": "Related",
+        "url": "https://www.alza.cz/clean-it-cistici-roztok-na-obrazovky-s-uterkou-ve-vicku-d5717003.htm",
+        "userOwns": null,
+        "rating": 4.533000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5871674?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Video kabel AlzaPower Premium HDMI...",
+        "canignoretesco": false,
+        "code": "APWCB501k",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5871674,
+        "image_url": "https://cdn.alza.cz/Foto/f8/AP/APWCB501k.jpg",
+        "name": "Video kabel AlzaPower Premium HDMI 2.0 High Speed 4K 5m bílý",
+        "price_default": "359 Kč",
+        "producerId": 12363,
+        "typ": "Related",
+        "url": "https://www.alza.cz/alzapower-premium-hdmi-2-0-high-speed-4k?dq=5871674",
+        "userOwns": null,
+        "rating": 4.851000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/497038?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Herní myš A4tech Bloody V7 V-Track...",
+        "canignoretesco": false,
+        "code": "ME409v7c",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 497038,
+        "image_url": "https://cdn.alza.cz/Foto/f8/ME/ME409v7c.jpg",
+        "name": "Herní myš A4tech Bloody V7 V-Track Core 2 kovové pojezdy",
+        "price_default": "589 Kč",
+        "producerId": 1367,
+        "typ": "Related",
+        "url": "https://www.alza.cz/a4tech-bloody-v7-v-track-core-2-kovove-pojezdy-d497038.htm",
+        "userOwns": null,
+        "rating": 4.725000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5674230?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "USB Hub Orico W6PH4-U3-V1-BK",
+        "canignoretesco": false,
+        "code": "ORI007",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5674230,
+        "image_url": "https://cdn.alza.cz/Foto/f8/OR/ORI007.jpg",
+        "name": "USB Hub Orico W6PH4-U3-V1-BK",
+        "price_default": "299 Kč",
+        "producerId": 14596,
+        "typ": "Other",
+        "url": "https://www.alza.cz/orico-w6ph4-u3-v1-bk-d5674230.htm",
+        "userOwns": null,
+        "rating": 4.687000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      }
+    ],
+    "reliability": 0.0,
+    "reliabilityText": "",
+    "reviews": [
+      {
+        "author": "Michal, Uherský Brod 1",
+        "date": "11.11.2022",
+        "gender": "Male",
+        "id": 3906185,
+        "neg": "nabíječka (zbytečně těžká pro přenos)\r\nkvalita povrchu (pant obrazovky má oloupanou barvu po prvních pár zavření)\r\nWindows 11 (mně vyhovuje, ale asi by byla lepší možnost volby)",
+        "order": 1,
+        "pos": "výkon (zvládne většinu her na vysoké detaily se spojením 2.5k rozlišení)\r\nvzhled\r\n2,5K 165Hz displej\r\nklávesnice (tichá, pro občasné hraní na cestách dostačující)\r\nporty (umístění zezadu v pěkném \"HUBu\" a dostačující počet)\r\nLenovo Vantage pro nastavení modů tichosti, úsporného režimu, podsvícení klávesnice atd...",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Firma, Chrudim IV",
+        "date": "03.11.2022",
+        "gender": "Firm",
+        "id": 3900281,
+        "neg": "",
+        "order": 2,
+        "pos": "Úžasný displej\r\nSkvělý výkon",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Lukáš, Bohumín",
+        "date": "26.08.2022",
+        "gender": "Male",
+        "id": 3857376,
+        "neg": "těžký adapter\r\nwindows 11",
+        "order": 3,
+        "pos": "výkon - CPU a GPU zvladají vše\r\nkrásný displej\r\nu GPU MUX switch\r\ndalší NVME slot, již obsazen 2 Tb ssd\r\ndobrá konektivita, spousta portů\r\ndobrá a pevná konstrukce\r\nvýborné chlazení",
+        "rating": 5.0,
+        "text": "Výkoný stroj na krerém rozjedete veškeré hry na vysoké detaily. Dobře zvládá i práci se 4k videem a fotkami. Krásný dispej, dobré pozorovací úhly. Skvělá konektivita."
+      },
+      {
+        "author": "Jakub, Praha 5 - Smíchov",
+        "date": "25.08.2022",
+        "gender": "Male",
+        "id": 3856666,
+        "neg": "Konfigurace např. rpm větráků není k dispozici\r\nTěžká nabíječka",
+        "order": 4,
+        "pos": "Dostatečný pro plynulý chod i těch nejnáročnejších her/grafických programů/složitějších výpočtů\r\nSuper displej\r\nVelký výběr portů",
+        "rating": 4.0,
+        "text": ""
+      },
+      {
+        "author": "Vladimír, Praha 1",
+        "date": "15.09.2022",
+        "gender": "Male",
+        "id": 3868037,
+        "neg": "Bluetooth moc nefunguje, myš se seká (vyzkoušeno na jiném PC funguje v pořádku) , o zvuku ani nemluvě .. Airpods Pro se ihned po spárování odpojí a nejdou již znovu připojit, Marshall Minor 3 zůstávájí po několika pokusech a nadávkách připojená ale zvuke se seká, herní ovladač pro XBOX ( na PC a předchozím NTB funguje bezvadně , na tomto kousku má strašně dlouhou prodlevu ( i několik vteřin)",
+        "order": 5,
+        "pos": "poměr cena / výkon super.\r\ndobré chlazení\r\ndostatečně výkonný pro hraní na vysoké detaily v 2k rozlišení\r\n500Gb SSD se může někomu zdát málo",
+        "rating": 3.0,
+        "text": "vzheldově i výkonově mi NTB vyhovuje , jen Bluetooth nefunguje jak má,"
+      }
+    ],
+    "reviews_cnt": 5,
+    "reviews_count": 14,
+    "salePercentage": null,
+    "sales": 1110,
+    "seo_categories": [
+      {
+        "id": 18842920,
+        "name": "Nejprodávanější, nejlepší notebooky",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18842920,
+        "name": "Notebooky recenze",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18842920,
+        "name": "Levné notebooky",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18842920,
+        "name": "Levné notebooky Lenovo",
+        "catType": "PRODUCER",
+        "catTypeId": 1776
+      },
+      {
+        "id": 18842920,
+        "name": "Notebooky",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18842920,
+        "name": "Notebooky Lenovo",
+        "catType": "PRODUCER",
+        "catTypeId": 1776
+      },
+      {
+        "id": 18848814,
+        "name": "Herní notebooky",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18848814,
+        "name": "Herní notebooky Lenovo",
+        "catType": "PRODUCER",
+        "catTypeId": 1776
+      }
+    ],
+    "seo_categories_cnt": 8,
+    "showBuyExpres": true,
+    "technologies": null,
+    "technologiesCount": 0,
+    "tracks": null,
+    "tracks_cnt": 0,
+    "video_list": [],
+    "videos_cnt": 0,
+    "warranty": "36 měsíců",
+    "pubYear": 0,
+    "previewEpub": null,
+    "previewKindle": null,
+    "previewPdf": null,
+    "previewPdfReader": null,
+    "previewAudioBook": null,
+    "previewTrackOrder": 0,
+    "albumName": null,
+    "interpretName": null,
+    "trackLength": null,
+    "trackGenres": null,
+    "previewTrack": null,
+    "isResponsive": true,
+    "eshop": "Alza",
+    "children": [],
+    "cpriceNoCurrency": null,
+    "currency": "Kč",
+    "quantityDiscountsCnt": 0,
+    "quantityDiscounts": null,
+    "availabilityStatus": 7,
+    "variantsParams": null,
+    "isDailySlasher": false,
+    "bundleInfo": null,
+    "productVariantsInfo": null,
+    "hasHistoryIssues": false,
+    "recommendedForRent": {
+      "title": "Pronajmout přes Alza NEO",
+      "buttonDescription": "Na 36 měsíců",
+      "imageUrl": "https://cdn.alza.cz/images/alza-neo-icon-detail.png",
+      "backgroundImageUrl": null,
+      "backgroundGradientStartColor": null,
+      "backgroundGradientEndColor": null,
+      "commodityId": 7577291,
+      "priceWithVat": "674 Kč",
+      "dailyPriceWithVat": "22 Kč",
+      "bannerTitle": "Chci to nové každý rok",
+      "screenTitle": "Žádný úvěr, splátky ani poplatky. Jen 22 Kč denně.",
+      "screenInfoItems": [
+        "Pravidelně dostáváte nový model",
+        "Součástí pronájmu je i rozšířená záruka proti rozbití a krádeži",
+        "Již od 6. měsíce lze zařízení vrátit"
+      ],
+      "productImageUrl": "https://cdn.alza.cz/ImgW.ashx?fd=f5&cd=NT379t71j3b",
+      "termsUrl": "https://m.alza.cz/neo"
+    },
+    "discussionPostCount": 30,
+    "accessories_cnt": 3,
+    "accessories": [
+      {
+        "gaPrice": 0.0,
+        "articleId": 34118,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 475,
+        "orderitemid": null,
+        "Name": "Microsoft 365 Personal, 12 měsíců + instalace",
+        "Price": "799 Kč",
+        "ImageUrl": "https://cdn.alza.cz//ImgW.ashx?fd=f4&cd=SWOFFAe&i=1.jpg",
+        "GroupName": "Kancelářský balík",
+        "ShortMobileName": "Microsoft 365 Personal, 12 měsíců + instalace",
+        "GroupId": 17,
+        "GroupArticleUrl": "https://www.alza.cz/media/kod/SWOFPEe_NT",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "799 Kč"
+      },
+      {
+        "gaPrice": 0.0,
+        "articleId": 3716,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 5,
+        "orderitemid": null,
+        "Name": "Záruka okamžité výměny",
+        "Price": "3 599 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty-okamzitaVymena.png",
+        "GroupName": "Záruka okamžité výměny",
+        "ShortMobileName": "Okamžitá výměna",
+        "GroupId": 2,
+        "GroupArticleUrl": "https://www.alza.cz/okamzita-vymena-art3716.htm",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "3 599 Kč"
+      },
+      {
+        "gaPrice": 0.0,
+        "articleId": 3996,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 137,
+        "orderitemid": null,
+        "Name": "Pojištění proti rozbití a krádeži na 2 roky",
+        "Price": "3 931 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty-insurance-3.png",
+        "GroupName": "Pojištění proti rozbití a krádeži",
+        "ShortMobileName": "Pojištění na 2 roky",
+        "GroupId": 3,
+        "GroupArticleUrl": "https://www.alza.cz/pojisteni-proti-rozbiti-a-kradezi",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "3 931 Kč"
+      }
+    ],
+    "avail_postfix_delivery": null,
+    "currentIssueId": null,
+    "showGuaranteedShoppingLists": false,
+    "freeDeliveryType": 0,
+    "model": null,
+    "threeDimensionalModel": {
+      "urlObjectGlb": null,
+      "urlObjectUsdz": null,
+      "tooltip": null
+    },
+    "awards": [],
+    "articles": [
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/37533?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      },
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/22265?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      },
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/36611?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      }
+    ],
+    "showDelayedPaymentButton": true,
+    "isScoreUserLevelOk": false,
+    "delayedPaymentPriceWithVat": "9 996 Kč",
+    "delayedPaymentRemainingPriceWithVat": "19 993 Kč",
+    "deliveryAvailabilities": {
+      "fastestDeliveryAvailability": "Můžete mít ihned na <span class=\"link\">21 prodejnách</span>",
+      "meta": {
+        "href": "https://www.alza.cz//api/catalog/v1/products/7251094/deliveryAvailabilities",
+        "rel": [
+          "self"
+        ]
+      }
+    },
+    "showUpsellDialog": true,
+    "isMobileDevice": false,
+    "descriptionBeforeDiscount": "Nejnižší cena za 30 dní předcházejících zlevnění. <a href=\"/obchodni-podminky-art10.htm#ceny\" style=\"text-decoration: underline;\">Podmínky a podrobnější informace</a>.",
+    "descriptionBeforeDiscountRichText": {
+      "text": "Nejnižší cena za 30 dní předcházejících zlevnění. <action name=\"terms\" />",
+      "actions": {
+        "terms": {
+          "href": "https://www.alza.cz/obchodni-podminky-art10.htm",
+          "appLink": "webView",
+          "name": "Podmínky a podrobnější informace",
+          "enabled": true
+        }
+      }
+    },
+    "producerId": 1776,
+    "cashBackArticleUrl": null,
+    "descPageUrl": "https://m.alza.cz/descriptionpage?cCode=NT379t71j3b&culture=cs-CZ",
+    "breadcrumb": [
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/api/catalog/v1/homePage/categories/18890188?pgri=mAAI&ui=HAAGAQ",
+            "appLink": "catalogLocalTitlePage",
+            "enabled": true
+          },
+          "name": "Počítače a notebooky",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18890188?t=SECTION",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18842920?t=FLOOR",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "Notebooky",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18842920?t=FLOOR",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      }
+    ],
+    "variantGroups": null,
+    "buyerInfo": {
+      "name": "Robert Veselý",
+      "phone": "+420777319534"
+    },
+    "ingredients": null,
+    "ingredientsPageUrl": null,
+    "legalClause": null,
+    "productVariants": null,
+    "manuals": null,
+    "purchasedTogetherCarouselAction": {
+      "href": "https://www.alza.cz/api/carousels/v1/commodities/7251094/purchasedTogether?country=CZ&pgrik=mAAI&ucik=HAAGAQ",
+      "appLink": "carousel",
+      "enabled": true
+    },
+    "commodityDetail": {
+      "href": "https://www.alza.cz/api/catalog/commodities/7251094?ucik=HAAGAQ&pgrik=mAAI&country=CZ",
+      "appLink": "commodityDetail",
+      "enabled": true
+    },
+    "reviewStats": {
+      "href": "https://webapi.alza.cz/api/catalog/commodities/7251094/reviewStats?country=CZ",
+      "appLink": "reviewStats",
+      "enabled": true
+    },
+    "reviewsDetail": {
+      "href": "https://webapi.alza.cz/api/catalog/commodities/7251094/reviews?country=CZ",
+      "appLink": "reviewsDetail",
+      "enabled": true
+    },
+    "priceGuaranteeTooltip": null,
+    "priceGuaranteeDialog": null,
+    "buyback": null,
+    "priceInfo": {
+      "priceWithoutVat": "24 784 Kč",
+      "priceWithVat": "29 989 Kč",
+      "comparePrice": null,
+      "discountRate": null,
+      "pricePrefix": null,
+      "pricePostfix": null,
+      "discountReason": null,
+      "gaPriceWithoutVat": 24784.2975,
+      "priceNoCurrency": 29989.00,
+      "delayedPaymentPriceWithVat": "9 996 Kč"
+    },
+    "priceInfoV2": {
+      "priceWithoutVat": "24 784 Kč",
+      "delayedPaymentPriceWithVat": "9 996 Kč",
+      "delayedPaymentRemainingPriceWithVat": "19 993 Kč",
+      "instalmentPrice": "997 Kč",
+      "instalmentCount": 48,
+      "neoPriceWithVat": "měsíčně od 674 Kč",
+      "priceWithVat": "29 989 Kč",
+      "comparePrice": null,
+      "pricePrefix": null,
+      "pricePostfix": null,
+      "priceDescription": null,
+      "priceType": 1,
+      "headerText": null,
+      "headerIconUrl": null,
+      "priceSave": null,
+      "explanationPriceAction": null,
+      "unitPriceWithVat": "29 989 Kč",
+      "unitName": "ks",
+      "priceWithoutVatNoCurrency": 24784.2975,
+      "priceNoCurrency": 29989.00
+    },
+    "cpriceTotal": null,
+    "is_comparable": true,
+    "priceTotal": null,
+    "promosWorth": "v hodnotě 1 687,-",
+    "ratingCount": 0,
+    "specParent": "Herní notebook - Intel Core i5 11400H Tiger Lake,  15.6\" IPS antireflexní 2560 × 1440 165Hz,  RAM  16GB DDR4,  NVIDIA GeForce RTX 3060 6GB 130 W (MUX Switch),  SSD  512GB,  numerická klávesnice, podsvícená RGB klávesnice ,  webkamera,  USB 3.2 Gen 1, WiFi 6, Hmotnost 2,4 kg,  Windows 11 Home ",
+    "userOwns": false,
+    "userOwnedContentId": null,
+    "navigationUrl": null,
+    "canChangeQuantity": true,
+    "canCashBack": false,
+    "cashBackType": 0,
+    "cashBackPriceLabel": null,
+    "cashBackPrice": null,
+    "cashBackPercent": null,
+    "giftAdvisor": null,
+    "catalog_number": "82JH00KYCK",
+    "actionCategoryIconsUrl": [
+      "https://i.alza.cz/Foto/CommodityIcons/neo-cz.svg"
+    ],
+    "count": 0,
+    "onChangeItemCountClick": null,
+    "icons": [
+      {
+        "text": null,
+        "image": "https://cdn.alza.cz/Foto/CommodityIcons/exclusivity-cz.svg",
+        "clickAction": null
+      },
+      {
+        "text": "NEO pronájem",
+        "image": "https://i.alza.cz/Foto/CommodityIcons/neo-cz.svg",
+        "clickAction": null
+      },
+      {
+        "text": "Showroom",
+        "image": "https://webapi.alza.cz/api/catalog/icons/dynamicIcon?path=https%3a%2f%2fcdn.alza.cz%2fFoto%2fCommodityIcons%2fdynamic-icon-exposed-cz.svg&value=2x",
+        "clickAction": {
+          "href": "https://www.alza.cz/api/branches/v1/names?ids=0;39",
+          "appLink": "branchList",
+          "enabled": true
+        }
+      }
+    ],
+    "viewerProductInfo": {
+      "href": "https://www.alza.cz/api/%7BidentityType%7D/%7BidentityId%7D/catalog/products/7251094",
+      "appLink": "viewerProductInfo",
+      "enabled": true
+    },
+    "id": 7251094,
+    "code": "NT379t71j3b",
+    "img": "https://cdn.alza.cz/Foto/f8/NT/NT379t71j3b.jpg",
+    "name": "Lenovo Legion 5 15ITH6H Phantom Blue/Shadow Black (záruka 3 roky)",
+    "spec": "Herní notebook - Intel Core i5 11400H Tiger Lake,  15.6\" IPS antireflexní 2560 × 1440 165Hz,  RAM  16GB DDR4,  NVIDIA GeForce RTX 3060 6GB 130 W (MUX Switch),  SSD  512GB,  numerická klávesnice, podsvícená RGB klávesnice ,  webkamera,  USB 3.2 Gen 1, WiFi 6, Hmotnost 2,4 kg,  Windows 11 Home ",
+    "price": "29 989 Kč",
+    "cprice": null,
+    "priceWithoutVat": "24 784 Kč",
+    "avail": "Skladem > 5 ks",
+    "avail_postfix": "Můžete mít ihned na <span class=\"link\">21 prodejnách</span>",
+    "avail_postfix2": "",
+    "availLegend": null,
+    "avail_color": "398000",
+    "is_action": true,
+    "action_name": "Na splátky",
+    "rating": 4.480000,
+    "promo_cnt": 2,
+    "promos": [
+      {
+        "self": {
+          "href": "https://www.alza.cz/api/router/legacy/catalog/product/6711929?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "count": 1,
+        "id": 6711929,
+        "img": "https://cdn.alza.cz/Foto/f1/XX/XXNTZONER21.jpg",
+        "is_enabled": true,
+        "name": "Grafický software Lenovo Zoner Photo Studio X  - nutná registrace na www.lenovo.cz/zoner - www.lenovo.sk/zoner",
+        "order": 1,
+        "price": "1 188,-"
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz/api/router/legacy/catalog/product/6996763?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "count": 1,
+        "id": 6996763,
+        "img": "https://cdn.alza.cz/Foto/f1/LP/LPREMIUM3M.jpg",
+        "is_enabled": true,
+        "name": "Elektronická licence Lenovo Premium Care 3 měsíce - bez nutnosti registrace, předaktivováno",
+        "order": 2,
+        "price": "499,-"
+      }
+    ],
+    "order": 0,
+    "is_special_service": false,
+    "type": 0,
+    "year": 0,
+    "can_buy": true,
+    "orderItemId": null,
+    "iType": 0,
+    "maxCanBuy": 5,
+    "eshopType": 0,
+    "url": "https://www.alza.cz/lenovo-legion-5-15ith6h-phantom-blue-shadow-black-d7251094.htm",
+    "canStream": false,
+    "canUserStream": false,
+    "parentId": 0,
+    "minimumAmount": 1.0000,
+    "amountInPack": 1.0000,
+    "start_time": null,
+    "end_time": null,
+    "variant_type": 0,
+    "advertisements": [],
+    "priceNoCurrency": 29989.00,
+    "categoryId": 18842920,
+    "categoryName": "Notebooky",
+    "inBasket": 0.0
+  },
+  "err": 0,
+  "favCnt": 0,
+  "basket_cnt": 0,
+  "basket_total_cnt": 0,
+  "msg": null,
+  "user_name": "Ladislav Sedlacek",
+  "user_id": 4688140,
+  "vzt": 6447710812,
+  "countryID": 0,
+  "countryPhonePrefix": "420",
+  "premiumBooks": 0,
+  "premiumDelivery": 0,
+  "premiumValidTo": null,
+  "premiumRenew": false,
+  "serverTime": 1673887339
+}

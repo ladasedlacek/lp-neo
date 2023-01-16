@@ -1,0 +1,3390 @@
+{
+  "data": {
+    "self": {
+      "href": "https://www.alza.cz/api/router/legacy/catalog/product/7403175?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+      "appLink": "catalogProductDetail",
+      "enabled": true
+    },
+    "action_info": null,
+    "actions": [
+      {
+        "imageUrl": "https://cdn.alza.cz/Foto/Labels/StickerMedium/12CZ.png",
+        "name": "Na splátky"
+      },
+      {
+        "imageUrl": "https://cdn.alza.cz/Foto/Labels/StickerMedium/12CZ.png",
+        "name": "NEO pronájem"
+      }
+    ],
+    "actions_cnt": 2,
+    "artist": null,
+    "availabilityDesc": null,
+    "commodityLife": null,
+    "links": [],
+    "links_cnt": "0",
+    "extendedWarranty": null,
+    "gaCategory": "iPhone",
+    "gaPrice": 24990.00,
+    "genre": null,
+    "imgs": [
+      {
+        "big_url": "https://cdn.alza.cz/Foto/f3/RI/RI041b1.jpg",
+        "id": "RI041b1",
+        "order": 1,
+        "origUrl": "https://cdn.alza.cz/Foto/f4/RI/RI041b1.jpg",
+        "url": "https://cdn.alza.cz/Foto/f1/RI/RI041b1.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-01.jpg",
+        "id": "RI041b1-01",
+        "order": 2,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-01.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-01.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-02.jpg",
+        "id": "RI041b1-02",
+        "order": 3,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-02.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-02.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-03.jpg",
+        "id": "RI041b1-03",
+        "order": 4,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-03.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-03.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-04.jpg",
+        "id": "RI041b1-04",
+        "order": 5,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-04.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-04.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-05.jpg",
+        "id": "RI041b1-05",
+        "order": 6,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-05.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-05.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-06.jpg",
+        "id": "RI041b1-06",
+        "order": 7,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-06.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-06.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-07.jpg",
+        "id": "RI041b1-07",
+        "order": 8,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-07.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-07.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-08.jpg",
+        "id": "RI041b1-08",
+        "order": 9,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-08.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-08.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-09.jpg",
+        "id": "RI041b1-09",
+        "order": 10,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-09.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-09.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/RI/RI041b1-10.jpg",
+        "id": "RI041b1-10",
+        "order": 11,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/RI/RI041b1-10.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/RI/RI041b1-10.jpg"
+      }
+    ],
+    "imgs_cnt": 11,
+    "info_bottom": "<p>\r\n\t<a href=\"/iphone-obsah-baleni\"><img src=\"https://i.alza.cz/Foto/ImgGalery/Image/AppleCZ_1.jpg\" width=\"100%\" /></a>\r\n</p>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/herni-telefony-iphone/18881748.htm\">herní telefony iOS</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/mobilni-telefony-s-bezdratovym-nabijenim/18876479.htm\">chytré telefony s bezdrátovým nabíjením</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/mobilni-telefony-s-nfc/18876476.htm\">chytré mobilní telefony s NFC</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/5g-telefony/18872199.htm\">5G telefony</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/firemni-telefony/18865099.htm\">chytré firemní telefony</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/vodeodolne-telefony/18860893.htm\">voděodolné telefony</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/telefony-s-rychlonabijenim/18860670.htm\">chytré telefony s rychlým nabíjením</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/fotomobily/18856153.htm\">fotomobily</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/dotykove-mobilni-telefony/18855072.htm\">dotykové mobilní telefony</a> </span>\r\n<br />\r\n\r\n<h3>Pokud chcete zabránit poškození tekutinou, vyhýbejte se těmto situacím:</h3>\r\n<ul>\r\n\t<li>Plavání nebo koupání se s iPhonem.</li>\r\n\t<li>Vystavování iPhonu natlakované vodě nebo silnému proudu vody, například při sprchování, na vodních lyžích, na wakeboardu, při surfování, jízdě na vodním skútru a podobných činnostech.</li>\r\n\t<li>Používání iPhonu v sauně nebo páře.</li>\r\n\t<li>Záměrné ponořování iPhonu do vody.</li>\r\n\t<li>Práce s iPhonem v teplotách mimo doporučený rozsah nebo v extrémním vlhku.</li>\r\n\t<li>Upuštění iPhonu a další nárazy.</li>\r\n\t<li>Rozebírání iPhonu včetně odšroubovávání šroubků.</li>\r\n</ul>\r\n\r\n<div class=\"article-bulletin\">\r\n\t<p>i</p>\r\n\t<p>Odolnost proti polití, vodě a prachu není trvalá a může se v důsledku normálního opotřebení postupem času snížit. Záruční podmínky <a href=\"https://www.apple.com/legal/warranty/products/czech-universal-warranty.html<\">najdete zde</a>.</p>\r\n</div>\r\n\r\n<link rel=\"stylesheet\" href=\"https://i.alza.cz/Foto/LegendFoto/EN/Files/css/_or_nastroje.css\" />\r\n\r\n<span role=\"listitem\"> &raquo; Všechny <a href=\"/iphone/18851638.htm\">telefony Apple iPhone</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/dual-sim-telefony/18850171.htm\">chytré dual SIM telefony</a> </span>\r\n<br /><ul>\n\t<li>Všechny&nbsp;<a href=\"/dotykove-mobilni-telefony/18855072.htm\">dotykové mobilní telefony</a>,&nbsp;<a href=\"/chytre-telefony/18845588.htm\">chytré telefony (smartphone)</a>&nbsp;a <a href=\"/firemni-telefony/18865099.htm\">firemní telefony</a></li>\n</ul>\n\n<p>Na baterii či akumulátor, které mohou být součástí produktu, se vztahuje doba životnosti v délce šesti měsíců, protože se jedná o spotřební materiál.</p>\n\n<span role=\"listitem\"> &raquo; Všechny <a href=\"/chytre-telefony/18845588.htm\">chytré telefony</a> </span>\n<br /><p>\r\n\t<a href=\"/jak-vybrat-mobil\">Jak vybrat mobil</a> | <a href=\"/nejlepsi-telefony\">Nejlepší telefony</a> | <a href=\"/nejlepsi-herni-telefony\">Nejlepší herní telefony</a> | <a href=\"/cinske-telefony\">Čínské telefony</a> | <a href=\"/inovace-posledniho-roku\">Inovace posledního roku</a> | <a href=\"/zaloha-dat-telefonu\">Záloha a obnova dat telefonu</a>&nbsp;|&nbsp;<a href=\"/telefon-do-tovarniho-nastaveni\">Vrácení telefonu do továrního nastavení</a> | <a href=\"/nfc-platby-mobilem\">NFC platby mobilem</a> | <a href=\"/5g-sit\">5G mobilní sítě</a> | <a href=\"/dualni-fotoaparaty-mobilnich-telefonu\">Duální fotoaparáty mobilních telefonů</a> | <a href=\"/tipy-a-triky-jak-fotit-mobilnim-telefonem\">Tipy a triky, jak fotit mobilním telefonem</a> | <a href=\"/bezpecne-smazani-dat\">Bezpečné smazání dat</a> | <a href=\"/nejmensi-mobilni-telefony\">Nejmenší mobilní telefony</a> |\r\n\t<a href=\"/ai-umela-inteligence\">AI - Umělá inteligence</a> | <a href=\"/personalizace-telefonu\">Personalizace telefonu</a>&nbsp;|&nbsp;<a href=\"/jak-zachazet-s-mobilem-ve-vedru\">Jak zacházet s mobilem ve vedru</a>&nbsp;|&nbsp;<a href=\"/iphone-11-recenze\">Apple iPhone 11</a>&nbsp;| <a href=\"/iphone-se-2020-recenze\">Apple iPhone SE 2020</a>&nbsp;| <a href=\"/repasovane-iphony-renewd\">Repasované iPhony</a>&nbsp;| <a href=\"/samsung-galaxy-s20-recenze\">Samsung Galaxy S20</a>&nbsp;| <a href=\"/samsung-galaxy-note10-recenze\">Samsung Galaxy Note10</a>&nbsp;| <a href=\"/samsung-galaxy-note20-recenze\">Samsung Galaxy Note20</a>&nbsp;| <a href=\"/samsung-galaxy-a-recenze\">Samsung Galaxy A</a>&nbsp;| <a href=\"/huawei-p40-recenze\">Huawei P40</a>&nbsp;| <a href=\"/huawei-mobile-services\">Huawei Mobile Services</a>&nbsp;| <a href=\"/android\">Android</a>.&nbsp;\r\n</p>\r\n\r\n<span role=\"listitem\"> &raquo; Všechny <a href=\"mobily/18843445.htm\">mobily</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/herni-telefony/18867506.htm\">herní telefony</a> </span>\r\n<br /><span role=\"listitem\"> &raquo; Všechny <a href=\"/odolne-telefony/18852018.htm\">odolné telefony</a> </span>\r\n",
+    "info_top": "<p>\n\t<a href=\"/prejit-na-iphone-je-hracka\"><img src=\"https://i.alza.cz/Foto/ImgGalery/Image/APPLECZ_3.jpg\" width=\"100%\" /></a>\n</p>\n",
+    "isFav": false,
+    "favListsIds": [],
+    "is_in_stock": true,
+    "labels": [],
+    "desc": null,
+    "parameterGroups": [
+      {
+        "groupId": 5184,
+        "name": "Snadný výběr",
+        "hierarchic": false,
+        "params": [],
+        "params_cnt": 0,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 2660,
+        "name": "Základní parametry",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 13023,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Úhlopříčka displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142345,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "6,1\"",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13024,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239792911,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2532 × 1170",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13025,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Operační systém",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218636661,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "iOS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 12493,
+            "art": null,
+            "artId": 33723,
+            "artTitle": null,
+            "name": "Konfigurace karet",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239275173,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Single SIM + eSIM",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13028,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Slot na paměťovou kartu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218637613,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Ne",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 389,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ paměťové karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239674137,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Nemá",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13029,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení zadní kamery",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142350,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "12 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13030,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení přední kamery",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142362,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "12 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13031,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Funkce",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 219732424,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Rychlé nabíjení",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 219747293,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bezdrátové nabíjení",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239277355,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Odemykání tváří",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239797117,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Podpora MMS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239850508,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "MagSafe",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239715731,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Rychlé bezdrátové nabíjení",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 6,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 24207,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rok představení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239840482,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2022",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 10,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 3834,
+        "name": "Typ zásuvky",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 16811,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Země",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239710563,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Česko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710564,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Slovensko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710565,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Maďarsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710566,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Německo",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710568,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Rusko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710570,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Rakousko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710571,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Chorvatsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710572,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Francie",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710573,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Polsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710574,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Rumunsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239710575,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Slovinsko",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 11,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 145,
+        "name": "Konstrukce",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 380,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 1317,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Dotykový displej",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 22229,
+            "art": null,
+            "artId": 19926,
+            "artTitle": null,
+            "name": "Stupeň krytí",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239809337,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "IP68",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13033,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Výška",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142356,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "146,7 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13034,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Šířka",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142349,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "71,5 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13035,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Hloubka",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142351,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "7,8 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13036,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Hmotnost",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142366,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "172 g",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13032,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Barva",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218638378,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Černá",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 7,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 151,
+        "name": "Displej",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 387,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Úhlopříčka displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142365,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "6,1 \" (15,49 cm)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 838,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239682268,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "OLED",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 24993,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Vlastnosti displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239850583,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Adaptivní frekvence",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 12001,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Jemnost displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142359,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "460 PPI",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 14122,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Tvar výřezu v displeji",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239274618,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Obdélník",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 5,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 150,
+        "name": "Fotoaparát",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 18498,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239737840,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Širokoúhlý",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13957,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Počet objektivů zadního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142364,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13956,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Počet objektivů předního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142361,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1659,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení hlavního zadního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142363,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "12 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 15475,
+            "art": null,
+            "artId": 4707,
+            "artTitle": null,
+            "name": "Světelnost zadního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142360,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "f/1,5",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 14591,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení širokoúhlého fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142346,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "12 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 15477,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Světelnost širokoúhlého fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142353,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "f/2,4",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1660,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Rozlišení předního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142347,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "12 Mpx",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 15478,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Světelnost předního fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142358,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "f/1,9",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1658,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Maximální světelnost",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142352,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "f/1,5",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 12492,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Stabilizace obrazu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 45959272,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Optická",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 18499,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Optický zoom",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239737843,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1657,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Maximální rozlišení videa",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 24550,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "3840 × 2160 (4K Ultra HD)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 16529,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Podporovaná rozlišení videa",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239709114,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2160p 60fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709115,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2160p 30fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709116,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2160p 24fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709117,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1080p 60fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709118,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1080p 30fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239709122,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "720p 30fps",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 6,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 386,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Funkce fotoaparátu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239456331,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Optický zoom",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 1340,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Přisvětlovací dioda",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 2,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13037,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Zaostřování",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 219328785,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Focus pixels",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 16,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 153,
+        "name": "Výdrž a výkon",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 16323,
+            "art": null,
+            "artId": 33216,
+            "artTitle": null,
+            "name": "Max. výkon drátového nabíjení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142348,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "15 W",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 16324,
+            "art": null,
+            "artId": 33217,
+            "artTitle": null,
+            "name": "Doba nabíjení na 50 %",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142357,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1 800 s",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13027,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Vnitřní paměť",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437142354,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "128 GB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 12022,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Značka procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 203631,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Apple  ",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 393,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Počet jader procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 437759014,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "6 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 14513,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Označení procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239842975,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Apple A15 Bionic",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 6,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 154,
+        "name": "Komunikace a porty",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 395,
+            "art": null,
+            "artId": 12659,
+            "artTitle": null,
+            "name": "Konektory",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 3890,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Lightning port",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13040,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Bezdrátové technologie",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218652461,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "WiFi",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652463,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bluetooth",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652466,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "GPS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652467,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "NFC",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652468,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "GLONASS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218652472,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Galileo",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239263895,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "BeiDou",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 7,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 394,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Datové služby",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239710075,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "5G",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 1355,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "LTE (4G)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 1352,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "UMTS/CDMA (3G)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 1350,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "GSM/GPRS (2G)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 4,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13041,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Senzory",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218644671,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Digitální kompas (magnetický senzor)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218644656,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Pohybový senzor (akcelerometr, G-senzor)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218644677,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Gyroskop",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218644679,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Světelný senzor",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218644739,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Barometr",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 5,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 832,
+            "art": null,
+            "artId": 12658,
+            "artTitle": null,
+            "name": "Typ hlavní SIM karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 3722,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Nano SIM",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 3413,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ vedlejší SIM karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239737642,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "eSIM",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13049,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Frekvence LTE",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 218645111,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2600 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645104,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2100 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645095,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1900 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645089,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1800 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645083,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "900 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239673275,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "850 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 218645061,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "800 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239673451,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "700 MHz",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 8,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 7,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 159,
+        "name": "Obsah balení",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 15430,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Příslušenství v balení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239795093,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Nabíjecí kabel",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 148,
+        "name": "Software",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 828,
+            "art": null,
+            "artId": 14595,
+            "artTitle": null,
+            "name": "Verze operačního systému",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239892265,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "iOS 16",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 1800,
+        "name": "Vyberte si značku/model telefonu",
+        "hierarchic": true,
+        "params": [
+          {
+            "id": 10912,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Značka telefonu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 3929,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Apple",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 10914,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Model zařízení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239883008,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "iPhone 14",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 2,
+        "isGeoParam": false
+      }
+    ],
+    "parameterGroupsCount": 11,
+    "rating_list": [
+      {
+        "count": 16,
+        "id": 74031749,
+        "order": 0,
+        "rating": 5
+      },
+      {
+        "count": 0,
+        "id": 74031750,
+        "order": 1,
+        "rating": 4
+      },
+      {
+        "count": 0,
+        "id": 74031751,
+        "order": 2,
+        "rating": 3
+      },
+      {
+        "count": 0,
+        "id": 74031752,
+        "order": 3,
+        "rating": 2
+      },
+      {
+        "count": 0,
+        "id": 74031753,
+        "order": 4,
+        "rating": 1
+      }
+    ],
+    "rcmCredits": 1250,
+    "related_commodity_cnt": 16,
+    "related_commodity": [
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403124?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Apple iPhone 14...",
+        "canignoretesco": true,
+        "code": "JA071a72",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403124,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA071a72.jpg",
+        "name": "Kryt na mobil Apple iPhone 14 Silikonový kryt s MagSafe temně inkoustový",
+        "price_default": "1 129 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-iphone-14-silikonovy-kryt-s-magsafe-temne-inkoustovy-d7403124.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403119?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Apple iPhone...",
+        "canignoretesco": true,
+        "code": "JA071a69",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403119,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA071a69.jpg",
+        "name": "Kryt na mobil Apple iPhone 14 Silikonový kryt s MagSafe bouřkově modrý",
+        "price_default": "1 490 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-iphone-14-silikonovy-kryt-s-magsafe-bourkove-modry-d7403119.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403155?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Apple...",
+        "canignoretesco": true,
+        "code": "JA071a42",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403155,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA071a42.jpg",
+        "name": "Kryt na mobil Apple iPhone 14 Kožený kryt s MagSafe piniově zelený",
+        "price_default": "1 790 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-iphone-14-kozeny-kryt-s-magsafe-piniove-zeleny-d7403155.htm",
+        "userOwns": null,
+        "rating": 0.000000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403108?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Apple iPhone 14...",
+        "canignoretesco": true,
+        "code": "JA071a22",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403108,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA071a22.jpg",
+        "name": "Kryt na mobil Apple iPhone 14 Průhledný kryt s MagSafe",
+        "price_default": "1 490 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-iphone-14-pruhledny-kryt-s-magsafe-d7403108.htm",
+        "userOwns": null,
+        "rating": 0.000000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403160?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kryt na mobil Apple iPhone 14...",
+        "canignoretesco": true,
+        "code": "JA071a48",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403160,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA071a48.jpg",
+        "name": "Kryt na mobil Apple iPhone 14 Kožený kryt s MagSafe temně inkoustový",
+        "price_default": "1 790 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-iphone-14-kozeny-kryt-s-magsafe-temne-inkoustovy-d7403160.htm",
+        "userOwns": null,
+        "rating": 0.000000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6217985?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Nabíječka do sítě Apple 20W USB-C...",
+        "canignoretesco": false,
+        "code": "RI012i1b48",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6217985,
+        "image_url": "https://cdn.alza.cz/Foto/f8/RI/RI012i1b48.jpg",
+        "name": "Nabíječka do sítě Apple 20W USB-C napájecí adaptér",
+        "price_default": "599 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-20w-usb-c-napajeci-adapter-d6217985.htm",
+        "userOwns": null,
+        "rating": 4.844000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6216400?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "MagSafe bezdrátová nabíječka Apple...",
+        "canignoretesco": true,
+        "code": "RI012i1b32",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6216400,
+        "image_url": "https://cdn.alza.cz/Foto/f8/RI/RI012i1b32.jpg",
+        "name": "MagSafe bezdrátová nabíječka Apple Nabíječka MagSafe",
+        "price_default": "1 190 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-nabijecka-magsafe-d6216400.htm",
+        "userOwns": null,
+        "rating": 4.673000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7402601?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Bezdrátová sluchátka Apple AirPods...",
+        "canignoretesco": true,
+        "code": "JA940i4b",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7402601,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA940i4b.jpg",
+        "name": "Bezdrátová sluchátka Apple AirPods Pro 2022",
+        "price_default": "7 290 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-airpods-pro-2022-d7402601.htm",
+        "userOwns": null,
+        "rating": 4.895000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403371?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Bezdrátová sluchátka Apple AirPods...",
+        "canignoretesco": true,
+        "code": "JA940i3d0",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403371,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA940i3d0.jpg",
+        "name": "Bezdrátová sluchátka Apple AirPods 2021 s nabíjecím pouzdrem Lightning",
+        "price_default": "4 790 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-airpods-2021-s-nabijecim-pouzdrem-lightning-d7403371.htm",
+        "userOwns": null,
+        "rating": 4.708000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403300?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Chytré hodinky Apple Watch Series 8...",
+        "canignoretesco": true,
+        "code": "JA080a41n2",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403300,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA080a41n2.jpg",
+        "name": "Chytré hodinky Apple Watch Series 8 41mm Hvězdně bílý hliník s hvězdně bílým sportovním řemínkem",
+        "price_default": "11 690 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-watch-series-8-41mm-hvezdne-bily-hlinik-s-hvezdne-bilym-sportovnim-reminkem-d7403300.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5812249?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Datový kabel Apple Lightning to...",
+        "canignoretesco": false,
+        "code": "JA904j21a",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5812249,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA904j21a.jpg",
+        "name": "Datový kabel Apple Lightning to USB-C Cable 1m",
+        "price_default": "469 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-usb-c-to-lightning-cable-1-m-d5812249.htm",
+        "userOwns": null,
+        "rating": 4.848000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6792935?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Bezdrátová sluchátka Apple AirPods...",
+        "canignoretesco": true,
+        "code": "JA940i3d",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6792935,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA940i3d.jpg",
+        "name": "Bezdrátová sluchátka Apple AirPods 2021 s nabíjecím pouzdrem Magsafe",
+        "price_default": "4 890 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-airpods-2021-d6792935.htm",
+        "userOwns": null,
+        "rating": 4.716000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403289?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Chytré hodinky Apple Watch Series 8...",
+        "canignoretesco": true,
+        "code": "JA080a45c1",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403289,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA080a45c1.jpg",
+        "name": "Chytré hodinky Apple Watch Series 8 45mm Cellular Temně inkoustový hliník s temně inkoustovým sportovním řemínkem",
+        "price_default": "15 790 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-watch-series-8-45mm-cellular-temne-inkoustovy-hlinik-s-temne-inkoustovym-sportovnim-reminkem-d7403289.htm",
+        "userOwns": null,
+        "rating": 5.0,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/4535002?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Datový kabel Apple USB-C nabíjecí...",
+        "canignoretesco": false,
+        "code": "NL824t5d",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 4535002,
+        "image_url": "https://cdn.alza.cz/Foto/f8/NL/NL824t5d.jpg",
+        "name": "Datový kabel Apple USB-C nabíjecí kabel 2m",
+        "price_default": "589 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-usb-c-nabijeci-kabel-2m-d4535002.htm",
+        "userOwns": null,
+        "rating": 4.876000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5114176?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Datový kabel Apple Lightning to USB...",
+        "canignoretesco": false,
+        "code": "JA904h8",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5114176,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA904h8.jpg",
+        "name": "Datový kabel Apple Lightning to USB Cable 0.5m",
+        "price_default": "599 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-lightning-to-usb-cable?dq=5114176",
+        "userOwns": null,
+        "rating": 4.773000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403294?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Chytré hodinky Apple Watch Series 8...",
+        "canignoretesco": true,
+        "code": "JA080a45c10",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403294,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA080a45c10.jpg",
+        "name": "Chytré hodinky Apple Watch Series 8 45mm Temně inkoustový hliník s temně inkoustovým sportovním řemínkem",
+        "price_default": "12 590 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-watch-series-8-45mm-temne-inkoustovy-hlinik-s-temne-inkoustovym-sportovnim-reminkem-d7403294.htm",
+        "userOwns": null,
+        "rating": 4.653000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      }
+    ],
+    "reliability": 0.0,
+    "reliabilityText": "",
+    "reviews": [
+      {
+        "author": "Václav, Běšiny",
+        "date": "15.01.2023",
+        "gender": "Male",
+        "id": 3969915,
+        "neg": "iOS 16.2 má své mouchy\r\nZa nízkého osvětlení ne vždy super fotky - oba body by se snad daly vyřešit sw opravami",
+        "order": 1,
+        "pos": "Výdrž baterie 2 dny\r\nFace ID\r\niOS",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Petr, Přerov 4",
+        "date": "12.01.2023",
+        "gender": "Male",
+        "id": 3967746,
+        "neg": "nic",
+        "order": 2,
+        "pos": "vse jednoduche a prehledne",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Firma, Hradec Králové Slezské Předměstí",
+        "date": "19.12.2022",
+        "gender": "Firm",
+        "id": 3947058,
+        "neg": "",
+        "order": 3,
+        "pos": "našlapaný stroj\r\nvýdrž baterie",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Kateřina, Praha",
+        "date": "01.12.2022",
+        "gender": "Female",
+        "id": 3926331,
+        "neg": "",
+        "order": 4,
+        "pos": "Krásná barva\r\nDlouhá výdrž baterie\r\nRychlé doručení",
+        "rating": 5.0,
+        "text": ""
+      }
+    ],
+    "reviews_cnt": 4,
+    "reviews_count": 16,
+    "salePercentage": null,
+    "sales": 1423,
+    "seo_categories": [
+      {
+        "id": 18900505,
+        "name": "Nejprodávanější, nejlepší mobilní telefony Apple iPhone 14",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18900505,
+        "name": "Mobilní telefony apple iphone 14 recenze",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18900505,
+        "name": "Levné mobilní telefony Apple iPhone 14",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18843445,
+        "name": "Mobily",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18843445,
+        "name": "Mobily Apple",
+        "catType": "PRODUCER",
+        "catTypeId": 1627
+      },
+      {
+        "id": 18855072,
+        "name": "Dotykové mobilní telefony",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18855072,
+        "name": "Dotykové mobilní telefony Apple",
+        "catType": "PRODUCER",
+        "catTypeId": 1627
+      }
+    ],
+    "seo_categories_cnt": 7,
+    "showBuyExpres": true,
+    "technologies": null,
+    "technologiesCount": 0,
+    "tracks": null,
+    "tracks_cnt": 0,
+    "video_list": [],
+    "videos_cnt": 0,
+    "warranty": "24 měsíců(IČ 12 měsíců)",
+    "pubYear": 0,
+    "previewEpub": null,
+    "previewKindle": null,
+    "previewPdf": null,
+    "previewPdfReader": null,
+    "previewAudioBook": null,
+    "previewTrackOrder": 0,
+    "albumName": null,
+    "interpretName": null,
+    "trackLength": null,
+    "trackGenres": null,
+    "previewTrack": null,
+    "isResponsive": true,
+    "eshop": "Alza",
+    "children": [],
+    "cpriceNoCurrency": null,
+    "currency": "Kč",
+    "quantityDiscountsCnt": 0,
+    "quantityDiscounts": null,
+    "availabilityStatus": 1,
+    "variantsParams": [
+      {
+        "id": 0,
+        "art": null,
+        "artId": 0,
+        "artTitle": null,
+        "name": "Vnitřní paměť",
+        "renderType": "Checkbox",
+        "tId": 13175,
+        "values": [
+          {
+            "v": 219732339.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 5,
+            "desc": "128 GB",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/pamet-5.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": true,
+            "visibility": false
+          },
+          {
+            "v": 239737091.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 5,
+            "desc": "256 GB",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/pamet-6.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          },
+          {
+            "v": 239276287.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 5,
+            "desc": "512 GB a více",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/pamet-7.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          }
+        ],
+        "values_cnt": 3,
+        "next_param_tId": null,
+        "visibility": null
+      },
+      {
+        "id": 0,
+        "art": null,
+        "artId": 0,
+        "artTitle": null,
+        "name": "Barva",
+        "renderType": "Checkbox",
+        "tId": 13032,
+        "values": [
+          {
+            "v": 218638378.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 3,
+            "desc": "Černá",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/parametry/barva/ico-black.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": true,
+            "visibility": false
+          },
+          {
+            "v": 218638382.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 3,
+            "desc": "Modrá",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/parametry/barva/ico-blue.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          },
+          {
+            "v": 218638384.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 3,
+            "desc": "Bílá",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/parametry/barva/ico-white.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          },
+          {
+            "v": 218638385.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 3,
+            "desc": "Červená",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/red_1.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          },
+          {
+            "v": 218638389.0,
+            "id": 0,
+            "artId": 0,
+            "cnt": 3,
+            "desc": "Fialová",
+            "imgUrl": "https://cdn.alza.cz/Foto/ImgGalery/Ikony/parametry/barva/ico-violet.png",
+            "isImportant": false,
+            "note": null,
+            "enabled": true,
+            "selected": false,
+            "visibility": false
+          }
+        ],
+        "values_cnt": 5,
+        "next_param_tId": null,
+        "visibility": null
+      }
+    ],
+    "isDailySlasher": false,
+    "bundleInfo": null,
+    "productVariantsInfo": null,
+    "hasHistoryIssues": false,
+    "recommendedForRent": {
+      "title": "Pronajmout přes Alza NEO",
+      "buttonDescription": "Na 24 měsíců",
+      "imageUrl": "https://cdn.alza.cz/images/alza-neo-icon-detail.png",
+      "backgroundImageUrl": null,
+      "backgroundGradientStartColor": "#4998dc",
+      "backgroundGradientEndColor": "#42b5f0",
+      "commodityId": 7404011,
+      "priceWithVat": "599 Kč",
+      "dailyPriceWithVat": "19,69 Kč",
+      "bannerTitle": "Chci to nové každý rok",
+      "screenTitle": "Žádný úvěr, splátky ani poplatky. Jen 19,69 Kč denně.",
+      "screenInfoItems": [
+        "Pravidelně dostáváte nový model",
+        "Součástí pronájmu je i rozšířená záruka proti rozbití a krádeži",
+        "Již od 6. měsíce lze zařízení vrátit"
+      ],
+      "productImageUrl": "https://cdn.alza.cz/Foto/f5/RI/RI041b1.jpg",
+      "termsUrl": "https://m.alza.cz/neo"
+    },
+    "discussionPostCount": 8,
+    "accessories_cnt": 3,
+    "accessories": [
+      {
+        "gaPrice": 0.0,
+        "articleId": 3716,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 5,
+        "orderitemid": null,
+        "Name": "Záruka okamžité výměny",
+        "Price": "2 999 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty-okamzitaVymena.png",
+        "GroupName": "Záruka okamžité výměny",
+        "ShortMobileName": "Okamžitá výměna",
+        "GroupId": 2,
+        "GroupArticleUrl": "https://www.alza.cz/okamzita-vymena-art3716.htm",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "2 999 Kč"
+      },
+      {
+        "gaPrice": 0.0,
+        "articleId": 18046,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 292,
+        "orderitemid": null,
+        "Name": "Aplikovat ochrannou profi fólii",
+        "Price": "460 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty_folie_bw.png",
+        "GroupName": "Aplikace ochrany displeje",
+        "ShortMobileName": "Ochranná profi fólie",
+        "GroupId": 34,
+        "GroupArticleUrl": "https://www.alza.cz/instalace-ochrannych-folii-a-skel",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "460 Kč"
+      },
+      {
+        "gaPrice": 0.0,
+        "articleId": 3996,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 138,
+        "orderitemid": null,
+        "Name": "Pojištění proti rozbití a krádeži na 2 roky",
+        "Price": "3 799 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty-insurance-3.png",
+        "GroupName": "Pojištění proti rozbití a krádeži",
+        "ShortMobileName": "Pojištění na 2 roky",
+        "GroupId": 3,
+        "GroupArticleUrl": "https://www.alza.cz/pojisteni-proti-rozbiti-a-kradezi",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "3 799 Kč"
+      }
+    ],
+    "avail_postfix_delivery": null,
+    "currentIssueId": null,
+    "showGuaranteedShoppingLists": false,
+    "freeDeliveryType": 0,
+    "model": null,
+    "threeDimensionalModel": {
+      "urlObjectGlb": "https://cdn.alza.cz/Foto/f_3d_android/RI/RI041b1.glb",
+      "urlObjectUsdz": "https://cdn.alza.cz/Foto/f_3d_ios/RI/RI041b1.usdz",
+      "tooltip": {
+        "text": "Zobrazte si zboží u sebe doma! <action name=\"moreInfo\" />",
+        "actions": {
+          "moreInfo": {
+            "href": "https://www.alza.cz/rozsirena-realita-3d-produkty-v-aplikaci-navod",
+            "appLink": "webView",
+            "name": "Více info",
+            "enabled": true
+          }
+        }
+      }
+    },
+    "awards": [],
+    "articles": [
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/37028?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      },
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/37080?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      },
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/37027?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      },
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/37557?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      }
+    ],
+    "showDelayedPaymentButton": true,
+    "isScoreUserLevelOk": false,
+    "delayedPaymentPriceWithVat": "8 330 Kč",
+    "delayedPaymentRemainingPriceWithVat": "16 660 Kč",
+    "deliveryAvailabilities": {
+      "fastestDeliveryAvailability": "Můžete mít ihned na <span class=\"link\">6 prodejnách</span>",
+      "meta": {
+        "href": "https://www.alza.cz//api/catalog/v1/products/7403175/deliveryAvailabilities",
+        "rel": [
+          "self"
+        ]
+      }
+    },
+    "showUpsellDialog": true,
+    "isMobileDevice": true,
+    "descriptionBeforeDiscount": "Nejnižší cena za 30 dní předcházejících zlevnění. <a href=\"/obchodni-podminky-art10.htm#ceny\" style=\"text-decoration: underline;\">Podmínky a podrobnější informace</a>.",
+    "descriptionBeforeDiscountRichText": {
+      "text": "Nejnižší cena za 30 dní předcházejících zlevnění. <action name=\"terms\" />",
+      "actions": {
+        "terms": {
+          "href": "https://www.alza.cz/obchodni-podminky-art10.htm",
+          "appLink": "webView",
+          "name": "Podmínky a podrobnější informace",
+          "enabled": true
+        }
+      }
+    },
+    "producerId": 1627,
+    "cashBackArticleUrl": null,
+    "descPageUrl": "https://m.alza.cz/descriptionpage?cCode=RI041b1&culture=cs-CZ",
+    "breadcrumb": [
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/api/catalog/v1/homePage/categories/18890259?pgri=mAAI&ui=HAAGAQ",
+            "appLink": "catalogLocalTitlePage",
+            "enabled": true
+          },
+          "name": "Mobily, chytré hodinky, tablety",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18890259?t=SECTION",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18843445?t=FLOOR",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "Mobilní telefony",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18843445?t=FLOOR",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18851638?t=PRODUCERCATEGORY",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "iPhone",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18851638?t=PRODUCERCATEGORY",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18900505?t=PRODUCTLINE",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "iPhone 14",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18900505?t=PRODUCTLINE",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      }
+    ],
+    "variantGroups": null,
+    "buyerInfo": {
+      "name": "Tomáš Barcík",
+      "phone": "+420770103074"
+    },
+    "ingredients": null,
+    "ingredientsPageUrl": null,
+    "legalClause": null,
+    "productVariants": {
+      "self": {
+        "href": "https://www.alza.cz/api/catalog/v1/products/7403174/variants?pgrik=mAAI&ucik=HAAGAQ&countryId=0",
+        "appLink": "catalogProductVariants",
+        "enabled": true
+      },
+      "priceRangeText": "24 990,- až 33 990,-",
+      "img": "https://cdn.alza.cz/Foto/f8/RI/RI041b1.jpg",
+      "name": "Na výběr 15 variant",
+      "linkedAction": null
+    },
+    "manuals": null,
+    "purchasedTogetherCarouselAction": {
+      "href": "https://www.alza.cz/api/carousels/v1/commodities/7403175/purchasedTogether?country=CZ&pgrik=mAAI&ucik=HAAGAQ",
+      "appLink": "carousel",
+      "enabled": true
+    },
+    "commodityDetail": {
+      "href": "https://www.alza.cz/api/catalog/commodities/7403175?ucik=HAAGAQ&pgrik=mAAI&country=CZ",
+      "appLink": "commodityDetail",
+      "enabled": true
+    },
+    "reviewStats": {
+      "href": "https://webapi.alza.cz/api/catalog/commodities/7403175/reviewStats?country=CZ",
+      "appLink": "reviewStats",
+      "enabled": true
+    },
+    "reviewsDetail": {
+      "href": "https://webapi.alza.cz/api/catalog/commodities/7403175/reviews?country=CZ",
+      "appLink": "reviewsDetail",
+      "enabled": true
+    },
+    "priceGuaranteeTooltip": {
+      "href": "https://www.alza.cz/api/users/4688140/catalog/products/7403175/priceGuarantee/tooltip?country=CZ&pgrik=mAAI",
+      "appLink": "priceGuaranteeTooltip",
+      "enabled": true
+    },
+    "priceGuaranteeDialog": {
+      "href": "https://www.alza.cz/api/users/4688140/catalog/products/7403175/priceGuarantee/dialog?country=CZ&pgrik=mAAI",
+      "appLink": "priceGuaranteeDialog",
+      "name": "Garance nejlepší ceny",
+      "enabled": true
+    },
+    "buyback": {
+      "href": "https://www.alza.cz/alza-vykup",
+      "appLink": "webView",
+      "enabled": true
+    },
+    "priceInfo": {
+      "priceWithoutVat": "20 653 Kč",
+      "priceWithVat": "24 990 Kč",
+      "comparePrice": null,
+      "discountRate": null,
+      "pricePrefix": null,
+      "pricePostfix": null,
+      "discountReason": null,
+      "gaPriceWithoutVat": 20652.8926,
+      "priceNoCurrency": 24990.00,
+      "delayedPaymentPriceWithVat": "8 330 Kč"
+    },
+    "priceInfoV2": {
+      "priceWithoutVat": "20 653 Kč",
+      "delayedPaymentPriceWithVat": "8 330 Kč",
+      "delayedPaymentRemainingPriceWithVat": "16 660 Kč",
+      "instalmentPrice": "831 Kč",
+      "instalmentCount": 48,
+      "neoPriceWithVat": "měsíčně od 599 Kč",
+      "priceWithVat": "24 990 Kč",
+      "comparePrice": null,
+      "pricePrefix": null,
+      "pricePostfix": null,
+      "priceDescription": null,
+      "priceType": 1,
+      "headerText": null,
+      "headerIconUrl": null,
+      "priceSave": null,
+      "explanationPriceAction": null,
+      "unitPriceWithVat": "24 990 Kč",
+      "unitName": "ks",
+      "priceWithoutVatNoCurrency": 20652.8926,
+      "priceNoCurrency": 24990.00
+    },
+    "cpriceTotal": null,
+    "is_comparable": true,
+    "priceTotal": null,
+    "promosWorth": null,
+    "ratingCount": 0,
+    "specParent": "Mobilní telefon -  6,1\" OLED 2532 × 1170,  procesor Apple A15 Bionic 6jádrový,  zadní fotoaparát s optickým zoomem 12 Mpx (f/1,5) + 12 Mpx (f/2,4),  přední fotoaparát 12 Mpx,  optická stabilizace,  GPS,  Glonass,  NFC,  LTE, 5G,  Lightning port,  voděodolný dle IP68,  single SIM + eSIM,  neblokovaný,  rychlé nabíjení 15W,  bezdrátové nabíjení 15W,  iOS 16 ",
+    "userOwns": false,
+    "userOwnedContentId": null,
+    "navigationUrl": null,
+    "canChangeQuantity": true,
+    "canCashBack": false,
+    "cashBackType": 0,
+    "cashBackPriceLabel": null,
+    "cashBackPrice": null,
+    "cashBackPercent": null,
+    "giftAdvisor": null,
+    "catalog_number": "MPUF3YC/A",
+    "actionCategoryIconsUrl": [
+      "https://i.alza.cz/Foto/CommodityIcons/neo-cz.svg"
+    ],
+    "count": 0,
+    "onChangeItemCountClick": null,
+    "icons": [
+      {
+        "text": "NEO pronájem",
+        "image": "https://i.alza.cz/Foto/CommodityIcons/neo-cz.svg",
+        "clickAction": null
+      },
+      {
+        "text": "Showroom",
+        "image": "https://webapi.alza.cz/api/catalog/icons/dynamicIcon?path=https%3a%2f%2fcdn.alza.cz%2fFoto%2fCommodityIcons%2fdynamic-icon-exposed-cz.svg&value=2x",
+        "clickAction": {
+          "href": "https://www.alza.cz/api/branches/v1/names?ids=39;78",
+          "appLink": "branchList",
+          "enabled": true
+        }
+      },
+      {
+        "text": "Podpora 5G",
+        "image": "https://cdn.alza.cz/Foto/CommodityIcons/icon-5g.svg",
+        "clickAction": null
+      }
+    ],
+    "viewerProductInfo": {
+      "href": "https://www.alza.cz/api/%7BidentityType%7D/%7BidentityId%7D/catalog/products/7403175",
+      "appLink": "viewerProductInfo",
+      "enabled": true
+    },
+    "id": 7403175,
+    "code": "RI041b1",
+    "img": "https://cdn.alza.cz/Foto/f8/RI/RI041b1.jpg",
+    "name": "iPhone 14 128GB černá",
+    "spec": "Mobilní telefon -  6,1\" OLED 2532 × 1170,  procesor Apple A15 Bionic 6jádrový,  interní paměť 128 GB,  zadní fotoaparát s optickým zoomem 12 Mpx (f/1,5) + 12 Mpx (f/2,4),  přední fotoaparát 12 Mpx,  optická stabilizace,  GPS,  Glonass,  NFC,  LTE, 5G,  Lightning port,  voděodolný dle IP68,  single SIM + eSIM,  neblokovaný,  rychlé nabíjení 15W,  bezdrátové nabíjení,  iOS 16 ",
+    "price": "24 990 Kč",
+    "cprice": null,
+    "priceWithoutVat": "20 653 Kč",
+    "avail": "Skladem > 5 ks",
+    "avail_postfix": "Můžete mít ihned na <span class=\"link\">6 prodejnách</span>",
+    "avail_postfix2": "",
+    "availLegend": null,
+    "avail_color": "398000",
+    "is_action": true,
+    "action_name": "Na splátky",
+    "rating": 5.0,
+    "promo_cnt": 0,
+    "promos": null,
+    "order": 0,
+    "is_special_service": false,
+    "type": 0,
+    "year": 0,
+    "can_buy": true,
+    "orderItemId": null,
+    "iType": 0,
+    "maxCanBuy": 3,
+    "eshopType": 0,
+    "url": "https://www.alza.cz/iphone-14-128gb-cerna-d7403175.htm",
+    "canStream": false,
+    "canUserStream": false,
+    "supplierCode": "RI041b1",
+    "parentId": 0,
+    "minimumAmount": 1.0000,
+    "amountInPack": 1.0000,
+    "start_time": null,
+    "end_time": null,
+    "variant_type": 2,
+    "advertisements": [],
+    "priceNoCurrency": 24990.00,
+    "categoryId": 18900505,
+    "categoryName": "iPhone 14",
+    "inBasket": 0.0
+  },
+  "err": 0,
+  "favCnt": 0,
+  "basket_cnt": 0,
+  "basket_total_cnt": 0,
+  "msg": null,
+  "user_name": "Ladislav Sedlacek",
+  "user_id": 4688140,
+  "vzt": 6447710812,
+  "countryID": 0,
+  "countryPhonePrefix": "420",
+  "premiumBooks": 0,
+  "premiumDelivery": 0,
+  "premiumValidTo": null,
+  "premiumRenew": false,
+  "serverTime": 1673887315
+}

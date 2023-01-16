@@ -120,6 +120,10 @@
             &__paragraph{
                 padding: 0 16px 24px 32px;
                 height: auto;
+
+                .lpListItems__item{
+                    color: color(gray, 8);
+                }
             }
     
             .body-1{

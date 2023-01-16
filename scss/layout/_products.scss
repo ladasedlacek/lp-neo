@@ -32,7 +32,6 @@
 
                 .body-1{
                     color: color(gray, 0);
-                    min-height: 48px;
                     margin: 10px auto 0;
                     transition: .3s ease-in-out;
                     
@@ -61,10 +60,11 @@
             &__label{
                 background-color: color(gray, 0);
                 border-radius: 4px;
-                padding: 5px 10px;
+                padding: 5px;
                 text-align: center;
                 display: table;
                 margin: 20px auto 0;
+                width: 100%;
             }
 
             &__price{
@@ -83,6 +83,11 @@
             }
         }
     }
+}
+
+// layout 1
+.layout-1 #landingpage .lpMain .lpProducts__label{
+    max-width: 80%;
 }
 
 // layout 0

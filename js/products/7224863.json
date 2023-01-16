@@ -1,0 +1,2439 @@
+{
+  "data": {
+    "self": {
+      "href": "https://www.alza.cz/api/router/legacy/catalog/product/7224863?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+      "appLink": "catalogProductDetail",
+      "enabled": true
+    },
+    "action_info": null,
+    "actions": [
+      {
+        "imageUrl": "https://cdn.alza.cz/Foto/Labels/StickerMedium/12CZ.png",
+        "name": "Na splátky"
+      },
+      {
+        "imageUrl": "https://cdn.alza.cz/Foto/Labels/StickerMedium/12CZ.png",
+        "name": "NEO pronájem"
+      }
+    ],
+    "actions_cnt": 2,
+    "artist": null,
+    "availabilityDesc": null,
+    "commodityLife": null,
+    "links": [],
+    "links_cnt": "0",
+    "extendedWarranty": null,
+    "gaCategory": "Notebooky",
+    "gaPrice": 33990.00,
+    "genre": null,
+    "imgs": [
+      {
+        "big_url": "https://cdn.alza.cz/Foto/f3/NL/NL245b1c.jpg",
+        "id": "NL245b1c",
+        "order": 1,
+        "origUrl": "https://cdn.alza.cz/Foto/f4/NL/NL245b1c.jpg",
+        "url": "https://cdn.alza.cz/Foto/f1/NL/NL245b1c.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-01.jpg",
+        "id": "NL245b1c-01",
+        "order": 2,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-01.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-01.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-02.jpg",
+        "id": "NL245b1c-02",
+        "order": 3,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-02.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-02.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-03.jpg",
+        "id": "NL245b1c-03",
+        "order": 4,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-03.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-03.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-04.jpg",
+        "id": "NL245b1c-04",
+        "order": 5,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-04.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-04.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-05.jpg",
+        "id": "NL245b1c-05",
+        "order": 6,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-05.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-05.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-06.jpg",
+        "id": "NL245b1c-06",
+        "order": 7,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-06.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-06.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-07.jpg",
+        "id": "NL245b1c-07",
+        "order": 8,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-07.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-07.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-08.jpg",
+        "id": "NL245b1c-08",
+        "order": 9,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-08.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-08.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-09.jpg",
+        "id": "NL245b1c-09",
+        "order": 10,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-09.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-09.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-10.jpg",
+        "id": "NL245b1c-10",
+        "order": 11,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-10.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-10.jpg"
+      },
+      {
+        "big_url": "https://cdn.alza.cz/Foto/FotoAdd/NL/NL245b1c-11.jpg",
+        "id": "NL245b1c-11",
+        "order": 12,
+        "origUrl": "https://cdn.alza.cz/Foto/FotoAddOrig/NL/NL245b1c-11.jpg",
+        "url": "https://cdn.alza.cz/Foto/FotoAddSmall/NL/NL245b1c-11.jpg"
+      }
+    ],
+    "imgs_cnt": 12,
+    "info_bottom": "<p>\r\n\t<a href=\"/apple-dep\"><img src=\"https://i.alza.cz/Foto/ImgGalery/Image/depcz.jpg\" width=\"100%\" /></a>\r\n</p>\r\n<br /><div class=\"awards\" contenteditable=\"false\">\n\t<div class=\"awardBnr\" contenteditable=\"false\">\n\t\t<a href=\"https://www.alza.cz/servis-a-instalace/18872356.htm\"><img alt=\"\" src=\"https://i.alza.cz/Foto/ImgGalery/Image/_banner_128741_1195x220_B2B_Sluzby.jpg\" /> </a>\n\t</div>\n</div>\n<p>Na baterii či akumulátor, které mohou být součástí produktu, se vztahuje doba životnosti v délce šesti měsíců, protože se jedná o spotřební materiál.</p>\n",
+    "info_top": null,
+    "isFav": false,
+    "favListsIds": [],
+    "is_in_stock": true,
+    "labels": [],
+    "desc": null,
+    "parameterGroups": [
+      {
+        "groupId": 23,
+        "name": "Displej",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 316,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Úhlopříčka displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633086,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "13,6 \"",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 81,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Poměr stran",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 103,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "16:10",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 102,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ panelu",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 33811,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "IPS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 79,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Maximální rozlišení",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239882546,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2560 × 1664 px",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 82,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ displeje",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 107,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Lesklý",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 16849,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Svítivost",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633097,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "500 Nits",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 6,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 20,
+        "name": "Procesor",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 65,
+            "art": null,
+            "artId": 12715,
+            "artTitle": null,
+            "name": "Typ procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239797859,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Apple Silicon",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 68,
+            "art": null,
+            "artId": 12718,
+            "artTitle": null,
+            "name": "Počet jader procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633103,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "8 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 66,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Modelové označení procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239882543,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Apple M2",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 882,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Cache procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633116,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "4 MB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 67,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Funkce procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 90,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Automatické přetaktování",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 91,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "HyperThreading",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 92,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Model se sníženou spotřebou",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 93,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Podpora Virtualizace",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 4,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 5,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 22,
+        "name": "Grafická karta",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 3286,
+            "art": null,
+            "artId": 17422,
+            "artTitle": null,
+            "name": "Typ",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 41093,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Integrovaná",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 75,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Čip grafické karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239882545,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Apple M2 8jádrová GPU",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 2,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 21,
+        "name": "Operační paměť",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 70,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Velikost operační paměti RAM",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633143,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "8 GB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 8,
+        "name": "Barva",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 16597,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Barva",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239874652,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Tmavě šedá  ",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 38,
+        "name": "Operační systém",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 132,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Operační systém",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 187,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "macOS",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 467,
+        "name": "Pevný disk",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 1224,
+            "art": null,
+            "artId": 12672,
+            "artTitle": null,
+            "name": "Kapacita úložiště",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633155,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "256 GB",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1223,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Typ úložiště",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 114,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "SSD",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1225,
+            "art": null,
+            "artId": 12674,
+            "artTitle": null,
+            "name": "Rozhraní disku",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 41255,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "NVME",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 1228,
+            "art": null,
+            "artId": 12672,
+            "artTitle": null,
+            "name": "SSD Kapacita",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633163,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "256 GB (0,26 TB)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 4,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 26,
+        "name": "Výbava",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 163,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Výbava",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 142,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Podsvícená klávesnice",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 4503,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Operační systém",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 2,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 98,
+            "art": null,
+            "artId": 12368,
+            "artTitle": null,
+            "name": "Webkamera",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633179,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1 080 p",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 2,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 92,
+        "name": "Hmotnost",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 253,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Hmotnost",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633180,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "1,24 kg",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 27,
+        "name": "Baterie",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 88,
+            "art": null,
+            "artId": 12662,
+            "artTitle": null,
+            "name": "Maximální výdrž baterie",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633184,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "18 h",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13889,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Nabíjení přes USB-C",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239265317,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Lze nabíjet přes USB-C",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 2,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 461,
+        "name": "Konstrukce",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 1214,
+            "art": null,
+            "artId": 13510,
+            "artTitle": null,
+            "name": "Konvertibilita",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239111202,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Pevný (klasický notebook)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 13433,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Materiál konstrukce",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239113937,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Celokovový (unibody)",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 2,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 25,
+        "name": "Rozhraní",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 3007,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "USB-C",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633198,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2 ×",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 23831,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Thunderbolt",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633199,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "2 ks",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 165,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Bluetooth",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239264895,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bluetooth v5.0",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 164,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "WiFi",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 4588,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "802.11ac",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 122,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "802.11n",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 121,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "802.11g",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 120,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "802.11b",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 119,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "802.11a",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              },
+              {
+                "v": 0.0,
+                "id": 239707278,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "802.11ax",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 6,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 18979,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Verze WiFi",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239747782,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "WiFi 6",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 100,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Optická mechanika",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 168,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Bez mechaniky",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 6,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 4,
+        "name": "Rozměry",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 6,
+            "art": null,
+            "artId": 12665,
+            "artTitle": null,
+            "name": "Šířka",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633215,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "304 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 108,
+            "art": null,
+            "artId": 13895,
+            "artTitle": null,
+            "name": "Výška maximální",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633216,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "11,3 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          },
+          {
+            "id": 7,
+            "art": null,
+            "artId": 12667,
+            "artTitle": null,
+            "name": "Hloubka",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 428633217,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "215 mm",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 3,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 490,
+        "name": "Jazyk klávesnice",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 1307,
+            "art": null,
+            "artId": 13696,
+            "artTitle": null,
+            "name": "Jazyk klávesnice",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 18684,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "CZ",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 2157,
+        "name": "Pronájem",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 11894,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Pronájem",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 182470,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Ano",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 2814,
+        "name": "Produktová řada",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 13376,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Řada notebooku",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239738325,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "Apple MacBook Air",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 7213,
+        "name": "Model procesoru",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 26326,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Model procesoru",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239882547,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "M2",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      },
+      {
+        "groupId": 7214,
+        "name": "Model grafické karty",
+        "hierarchic": false,
+        "params": [
+          {
+            "id": 26327,
+            "art": null,
+            "artId": 0,
+            "artTitle": null,
+            "name": "Model grafické karty",
+            "renderType": null,
+            "tId": 0,
+            "values": [
+              {
+                "v": 0.0,
+                "id": 239882548,
+                "artId": 0,
+                "cnt": 0,
+                "desc": "M2 8jádrová",
+                "imgUrl": null,
+                "isImportant": false,
+                "note": null,
+                "enabled": null,
+                "selected": false,
+                "visibility": false
+              }
+            ],
+            "values_cnt": 1,
+            "next_param_tId": null,
+            "visibility": null
+          }
+        ],
+        "params_cnt": 1,
+        "isGeoParam": false
+      }
+    ],
+    "parameterGroupsCount": 18,
+    "rating_list": [
+      {
+        "count": 4,
+        "id": 72248629,
+        "order": 0,
+        "rating": 5
+      },
+      {
+        "count": 0,
+        "id": 72248630,
+        "order": 1,
+        "rating": 4
+      },
+      {
+        "count": 0,
+        "id": 72248631,
+        "order": 2,
+        "rating": 3
+      },
+      {
+        "count": 0,
+        "id": 72248632,
+        "order": 3,
+        "rating": 2
+      },
+      {
+        "count": 0,
+        "id": 72248633,
+        "order": 4,
+        "rating": 1
+      }
+    ],
+    "rcmCredits": 1700,
+    "related_commodity_cnt": 16,
+    "related_commodity": [
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/2420209?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Redukce Apple USB-C to USB Adapter",
+        "canignoretesco": false,
+        "code": "TL273w",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 2420209,
+        "image_url": "https://cdn.alza.cz/Foto/f8/TL/TL273w.jpg",
+        "name": "Redukce Apple USB-C to USB Adapter",
+        "price_default": "599 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/usb-c-to-usb-adapter-d2420209.htm",
+        "userOwns": null,
+        "rating": 4.860000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6669753?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Myš Apple Magic Mouse, bílá",
+        "canignoretesco": true,
+        "code": "JA068c24",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6669753,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA068c24.jpg",
+        "name": "Myš Apple Magic Mouse, bílá",
+        "price_default": "2 199 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-magic-mouse-d6669753.htm",
+        "userOwns": null,
+        "rating": 4.571000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7402601?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Bezdrátová sluchátka Apple AirPods...",
+        "canignoretesco": true,
+        "code": "JA940i4b",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7402601,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA940i4b.jpg",
+        "name": "Bezdrátová sluchátka Apple AirPods Pro 2022",
+        "price_default": "7 290 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-airpods-pro-2022-d7402601.htm",
+        "userOwns": null,
+        "rating": 4.895000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7059016?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Myš Apple Magic Mouse, černá",
+        "canignoretesco": true,
+        "code": "JA068c31",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7059016,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA068c31.jpg",
+        "name": "Myš Apple Magic Mouse, černá",
+        "price_default": "3 019 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-magic-mouse-cerna-d7059016.htm",
+        "userOwns": null,
+        "rating": 4.676000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5576607?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Bezdrátová sluchátka Apple AirPods...",
+        "canignoretesco": true,
+        "code": "JA940i1a",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5576607,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA940i1a.jpg",
+        "name": "Bezdrátová sluchátka Apple AirPods 2019",
+        "price_default": "3 290 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-airpods?dq=5576607",
+        "userOwns": null,
+        "rating": 4.867000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/4463858?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Redukce Apple Lightning to 3.5 mm...",
+        "canignoretesco": false,
+        "code": "NL209l1w",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 4463858,
+        "image_url": "https://cdn.alza.cz/Foto/f8/NL/NL209l1w.jpg",
+        "name": "Redukce Apple Lightning to 3.5 mm Headphone Jack Adapter",
+        "price_default": "299 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/lightning-to-3-5-mm-headphone-jack-adapter-d4463858.htm",
+        "userOwns": null,
+        "rating": 4.780000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5489754?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Redukce Apple USB-C to 3.5 mm...",
+        "canignoretesco": false,
+        "code": "NL209l1w5",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5489754,
+        "image_url": "https://cdn.alza.cz/Foto/f8/NL/NL209l1w5.jpg",
+        "name": "Redukce Apple USB-C to 3.5 mm Headphone Jack Adapter",
+        "price_default": "299 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-usb-c-to-3-5-mm-headphone-jack-adapter-d5489754.htm",
+        "userOwns": null,
+        "rating": 4.601000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6727052?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Kancelářský software Microsoft 365...",
+        "canignoretesco": true,
+        "code": "SWOFPECZbII",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6727052,
+        "image_url": "https://cdn.alza.cz/Foto/f8/SW/SWOFPECZbII.jpg",
+        "name": "Kancelářský software Microsoft 365 pro jednotlivce CZ (BOX)",
+        "price_default": "1 790 Kč",
+        "producerId": 1309,
+        "typ": "Other",
+        "url": "https://www.alza.cz/microsoft-365-pro-jednotlivce-cz-box-d6727052.htm",
+        "userOwns": null,
+        "rating": 4.774000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6669730?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Trackpad Apple Magic Trackpad",
+        "canignoretesco": true,
+        "code": "JA068c23",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6669730,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA068c23.jpg",
+        "name": "Trackpad Apple Magic Trackpad",
+        "price_default": "2 829 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-magic-trackpad-d6669730.htm",
+        "userOwns": null,
+        "rating": 4.901000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5812249?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Datový kabel Apple Lightning to...",
+        "canignoretesco": false,
+        "code": "JA904j21a",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5812249,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA904j21a.jpg",
+        "name": "Datový kabel Apple Lightning to USB-C Cable 1m",
+        "price_default": "469 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-usb-c-to-lightning-cable-1-m-d5812249.htm",
+        "userOwns": null,
+        "rating": 4.848000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/143920?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Redukce Apple Mini DisplayPort to...",
+        "canignoretesco": true,
+        "code": "TL273d",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 143920,
+        "image_url": "https://cdn.alza.cz/Foto/f8/TL/TL273d.jpg",
+        "name": "Redukce Apple Mini DisplayPort to DVI Adapter",
+        "price_default": "329 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-mini-displayport-to-dvi-adapter-d143920.htm",
+        "userOwns": null,
+        "rating": 4.623000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/7403371?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Bezdrátová sluchátka Apple AirPods...",
+        "canignoretesco": true,
+        "code": "JA940i3d0",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 7403371,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA940i3d0.jpg",
+        "name": "Bezdrátová sluchátka Apple AirPods 2021 s nabíjecím pouzdrem Lightning",
+        "price_default": "4 790 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-airpods-2021-s-nabijecim-pouzdrem-lightning-d7403371.htm",
+        "userOwns": null,
+        "rating": 4.708000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/6792935?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Bezdrátová sluchátka Apple AirPods...",
+        "canignoretesco": true,
+        "code": "JA940i3d",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 6792935,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA940i3d.jpg",
+        "name": "Bezdrátová sluchátka Apple AirPods 2021 s nabíjecím pouzdrem Magsafe",
+        "price_default": "4 890 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-airpods-2021-d6792935.htm",
+        "userOwns": null,
+        "rating": 4.716000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/4535002?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Datový kabel Apple USB-C nabíjecí...",
+        "canignoretesco": false,
+        "code": "NL824t5d",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 4535002,
+        "image_url": "https://cdn.alza.cz/Foto/f8/NL/NL824t5d.jpg",
+        "name": "Datový kabel Apple USB-C nabíjecí kabel 2m",
+        "price_default": "589 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-usb-c-nabijeci-kabel-2m-d4535002.htm",
+        "userOwns": null,
+        "rating": 4.876000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5812248?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Datový kabel Apple Lightning to USB...",
+        "canignoretesco": false,
+        "code": "JA904i2a",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5812248,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA904i2a.jpg",
+        "name": "Datový kabel Apple Lightning to USB Cable 1 m",
+        "price_default": "590 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-lightning-to-usb-cable-1-m-d5812248.htm",
+        "userOwns": null,
+        "rating": 4.834000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      },
+      {
+        "self": {
+          "href": "https://www.alza.cz//api/router/legacy/catalog/product/5114176?pgrik=mAAI&ucik=HAAGAQ&country=CZ&electronicContentOnly=False",
+          "appLink": "catalogProductDetail",
+          "enabled": true
+        },
+        "anotation": "Datový kabel Apple Lightning to USB...",
+        "canignoretesco": false,
+        "code": "JA904h8",
+        "commoditytype": "Commodity",
+        "iType": 0,
+        "id": 5114176,
+        "image_url": "https://cdn.alza.cz/Foto/f8/JA/JA904h8.jpg",
+        "name": "Datový kabel Apple Lightning to USB Cable 0.5m",
+        "price_default": "599 Kč",
+        "producerId": 1627,
+        "typ": "Related",
+        "url": "https://www.alza.cz/apple-lightning-to-usb-cable?dq=5114176",
+        "userOwns": null,
+        "rating": 4.773000,
+        "minimumAmount": 1.0,
+        "start_time": null,
+        "end_time": null,
+        "advertising": null
+      }
+    ],
+    "reliability": 0.0,
+    "reliabilityText": "",
+    "reviews": [
+      {
+        "author": "Slavomír, Olomouc",
+        "date": "15.01.2023",
+        "gender": "Male",
+        "id": 3969555,
+        "neg": "Na nový MagSafe nepasuje starý MagSafe",
+        "order": 1,
+        "pos": "Lehký\nTenký\nVýkonný\nKrásný\nMá MagSafe nabíjecí konektor",
+        "rating": 5.0,
+        "text": ""
+      },
+      {
+        "author": "Firma, Ostrava - Moravská Ostrava",
+        "date": "13.01.2023",
+        "gender": "Firm",
+        "id": 3968332,
+        "neg": "Nic",
+        "order": 2,
+        "pos": "Perfektní zpracování\nRychlý\nProstě Apple",
+        "rating": 5.0,
+        "text": ""
+      }
+    ],
+    "reviews_cnt": 2,
+    "reviews_count": 4,
+    "salePercentage": null,
+    "sales": 424,
+    "seo_categories": [
+      {
+        "id": 18854758,
+        "name": "Nejprodávanější, nejlepší macBook",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18854758,
+        "name": "Macbook recenze",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18854758,
+        "name": "Levné macBook",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18842920,
+        "name": "Levné macBook",
+        "catType": "PRODUCER",
+        "catTypeId": 1627
+      },
+      {
+        "id": 18854758,
+        "name": "MacBook",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18854758,
+        "name": "MacBook Apple",
+        "catType": "PRODUCER",
+        "catTypeId": 1627
+      },
+      {
+        "id": 18900519,
+        "name": "MacBook Air",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18900519,
+        "name": "MacBook Air Apple",
+        "catType": "PRODUCER",
+        "catTypeId": 1627
+      },
+      {
+        "id": 18842920,
+        "name": "Notebooky",
+        "catType": "CATEGORY",
+        "catTypeId": 0
+      },
+      {
+        "id": 18842920,
+        "name": "Notebooky Apple",
+        "catType": "PRODUCER",
+        "catTypeId": 1627
+      }
+    ],
+    "seo_categories_cnt": 10,
+    "showBuyExpres": true,
+    "technologies": null,
+    "technologiesCount": 0,
+    "tracks": null,
+    "tracks_cnt": 0,
+    "video_list": [],
+    "videos_cnt": 0,
+    "warranty": "24 měsíců(IČ 12 měsíců)",
+    "pubYear": 0,
+    "previewEpub": null,
+    "previewKindle": null,
+    "previewPdf": null,
+    "previewPdfReader": null,
+    "previewAudioBook": null,
+    "previewTrackOrder": 0,
+    "albumName": null,
+    "interpretName": null,
+    "trackLength": null,
+    "trackGenres": null,
+    "previewTrack": null,
+    "isResponsive": true,
+    "eshop": "Alza",
+    "children": [],
+    "cpriceNoCurrency": null,
+    "currency": "Kč",
+    "quantityDiscountsCnt": 0,
+    "quantityDiscounts": null,
+    "availabilityStatus": 1,
+    "variantsParams": null,
+    "isDailySlasher": false,
+    "bundleInfo": null,
+    "productVariantsInfo": null,
+    "hasHistoryIssues": false,
+    "recommendedForRent": {
+      "title": "Pronajmout přes Alza NEO",
+      "buttonDescription": "Na 36 měsíců",
+      "imageUrl": "https://cdn.alza.cz/images/alza-neo-icon-detail.png",
+      "backgroundImageUrl": null,
+      "backgroundGradientStartColor": "#4998dc",
+      "backgroundGradientEndColor": "#42b5f0",
+      "commodityId": 7282430,
+      "priceWithVat": "715 Kč",
+      "dailyPriceWithVat": "24 Kč",
+      "bannerTitle": "Chci to nové každý rok",
+      "screenTitle": "Žádný úvěr, splátky ani poplatky. Jen 24 Kč denně.",
+      "screenInfoItems": [
+        "Pravidelně dostáváte nový model",
+        "Součástí pronájmu je i rozšířená záruka proti rozbití a krádeži",
+        "Již od 6. měsíce lze zařízení vrátit"
+      ],
+      "productImageUrl": "https://cdn.alza.cz/Foto/f5/NL/NL245b1c.jpg",
+      "termsUrl": "https://m.alza.cz/neo"
+    },
+    "discussionPostCount": 5,
+    "accessories_cnt": 2,
+    "accessories": [
+      {
+        "gaPrice": 0.0,
+        "articleId": 2541,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 133,
+        "orderitemid": null,
+        "Name": "Pojistit prodlouženou záruku na +3 roky. Nejvýhodnější varianta.",
+        "Price": "5 490 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty-prodlouzenaZaruka.png",
+        "GroupName": "Pojištění prodloužené záruky",
+        "ShortMobileName": "+ 3 roky",
+        "GroupId": 1,
+        "GroupArticleUrl": "https://www.alza.cz/prodlouzena-zaruka",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "5 490 Kč"
+      },
+      {
+        "gaPrice": 0.0,
+        "articleId": 3996,
+        "code": null,
+        "description": null,
+        "isRegionLimited": false,
+        "isDiscounting": false,
+        "discountDetail": null,
+        "isCommodityDeliveryService": false,
+        "AccessoryId": 138,
+        "orderitemid": null,
+        "Name": "Pojištění proti rozbití a krádeži na 2 roky",
+        "Price": "5 153 Kč",
+        "ImageUrl": "https://cdn.alza.cz/Images/warranty-insurance-3.png",
+        "GroupName": "Pojištění proti rozbití a krádeži",
+        "ShortMobileName": "Pojištění na 2 roky",
+        "GroupId": 3,
+        "GroupArticleUrl": "https://www.alza.cz/pojisteni-proti-rozbiti-a-kradezi",
+        "Checked": false,
+        "Count": 0.0,
+        "PricePerItem": "5 153 Kč"
+      }
+    ],
+    "avail_postfix_delivery": null,
+    "currentIssueId": null,
+    "showGuaranteedShoppingLists": false,
+    "freeDeliveryType": 0,
+    "model": null,
+    "threeDimensionalModel": {
+      "urlObjectGlb": "https://cdn.alza.cz/Foto/f_3d_android/NL/NL245b1c.glb",
+      "urlObjectUsdz": "https://cdn.alza.cz/Foto/f_3d_ios/NL/NL245b1c.usdz",
+      "tooltip": {
+        "text": "Zobrazte si zboží u sebe doma! <action name=\"moreInfo\" />",
+        "actions": {
+          "moreInfo": {
+            "href": "https://www.alza.cz/rozsirena-realita-3d-produkty-v-aplikaci-navod",
+            "appLink": "webView",
+            "name": "Více info",
+            "enabled": true
+          }
+        }
+      }
+    },
+    "awards": [
+      {
+        "imgUrl": "https://cdn.alza.cz//Foto/ImgGalery/awards/09_banner_202043_do_popisku_1200x250_Apple_bezloga.jpg",
+        "altText": null,
+        "awardType": 1
+      }
+    ],
+    "articles": [
+      {
+        "href": "https://webapi.alza.cz/api/content/v1/articles/37171?country=CZ&allowForbiddenContent=true",
+        "appLink": "webView",
+        "enabled": true
+      }
+    ],
+    "showDelayedPaymentButton": true,
+    "isScoreUserLevelOk": false,
+    "delayedPaymentPriceWithVat": "11 330 Kč",
+    "delayedPaymentRemainingPriceWithVat": "22 660 Kč",
+    "deliveryAvailabilities": {
+      "fastestDeliveryAvailability": "Můžete mít ihned na <span class=\"link\">3 prodejnách</span>",
+      "meta": {
+        "href": "https://www.alza.cz//api/catalog/v1/products/7224863/deliveryAvailabilities",
+        "rel": [
+          "self"
+        ]
+      }
+    },
+    "showUpsellDialog": true,
+    "isMobileDevice": false,
+    "descriptionBeforeDiscount": "Nejnižší cena za 30 dní předcházejících zlevnění. <a href=\"/obchodni-podminky-art10.htm#ceny\" style=\"text-decoration: underline;\">Podmínky a podrobnější informace</a>.",
+    "descriptionBeforeDiscountRichText": {
+      "text": "Nejnižší cena za 30 dní předcházejících zlevnění. <action name=\"terms\" />",
+      "actions": {
+        "terms": {
+          "href": "https://www.alza.cz/obchodni-podminky-art10.htm",
+          "appLink": "webView",
+          "name": "Podmínky a podrobnější informace",
+          "enabled": true
+        }
+      }
+    },
+    "producerId": 1627,
+    "cashBackArticleUrl": null,
+    "descPageUrl": "https://m.alza.cz/descriptionpage?cCode=NL245b1c&culture=cs-CZ",
+    "breadcrumb": [
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/api/catalog/v1/homePage/categories/18890188?pgri=mAAI&ui=HAAGAQ",
+            "appLink": "catalogLocalTitlePage",
+            "enabled": true
+          },
+          "name": "Počítače a notebooky",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18890188?t=SECTION",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18842920?t=FLOOR",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "Notebooky",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18842920?t=FLOOR",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      },
+      {
+        "category": {
+          "clientAction": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18854758?t=CATEGORY",
+            "appLink": "catalogCategory",
+            "enabled": true
+          },
+          "name": "MacBook",
+          "meta": {
+            "href": "https://www.alza.cz/services/restservice.svc/v1/category/18854758?t=CATEGORY",
+            "rel": [
+              "self"
+            ],
+            "method": "GET"
+          }
+        }
+      }
+    ],
+    "variantGroups": null,
+    "buyerInfo": {
+      "name": "Vojtěch Májek",
+      "phone": "+420737229391"
+    },
+    "ingredients": null,
+    "ingredientsPageUrl": null,
+    "legalClause": null,
+    "productVariants": null,
+    "manuals": null,
+    "purchasedTogetherCarouselAction": {
+      "href": "https://www.alza.cz/api/carousels/v1/commodities/7224863/purchasedTogether?country=CZ&pgrik=mAAI&ucik=HAAGAQ",
+      "appLink": "carousel",
+      "enabled": true
+    },
+    "commodityDetail": {
+      "href": "https://www.alza.cz/api/catalog/commodities/7224863?ucik=HAAGAQ&pgrik=mAAI&country=CZ",
+      "appLink": "commodityDetail",
+      "enabled": true
+    },
+    "reviewStats": {
+      "href": "https://webapi.alza.cz/api/catalog/commodities/7224863/reviewStats?country=CZ",
+      "appLink": "reviewStats",
+      "enabled": true
+    },
+    "reviewsDetail": {
+      "href": "https://webapi.alza.cz/api/catalog/commodities/7224863/reviews?country=CZ",
+      "appLink": "reviewsDetail",
+      "enabled": true
+    },
+    "priceGuaranteeTooltip": {
+      "href": "https://www.alza.cz/api/users/4688140/catalog/products/7224863/priceGuarantee/tooltip?country=CZ&pgrik=mAAI",
+      "appLink": "priceGuaranteeTooltip",
+      "enabled": true
+    },
+    "priceGuaranteeDialog": {
+      "href": "https://www.alza.cz/api/users/4688140/catalog/products/7224863/priceGuarantee/dialog?country=CZ&pgrik=mAAI",
+      "appLink": "priceGuaranteeDialog",
+      "name": "Garance nejlepší ceny",
+      "enabled": true
+    },
+    "buyback": {
+      "href": "https://www.alza.cz/alza-vykup",
+      "appLink": "webView",
+      "enabled": true
+    },
+    "priceInfo": {
+      "priceWithoutVat": "28 091 Kč",
+      "priceWithVat": "33 990 Kč",
+      "comparePrice": null,
+      "discountRate": null,
+      "pricePrefix": null,
+      "pricePostfix": null,
+      "discountReason": null,
+      "gaPriceWithoutVat": 28090.9091,
+      "priceNoCurrency": 33990.00,
+      "delayedPaymentPriceWithVat": "11 330 Kč"
+    },
+    "priceInfoV2": {
+      "priceWithoutVat": "28 091 Kč",
+      "delayedPaymentPriceWithVat": "11 330 Kč",
+      "delayedPaymentRemainingPriceWithVat": "22 660 Kč",
+      "instalmentPrice": "1 130 Kč",
+      "instalmentCount": 48,
+      "neoPriceWithVat": "měsíčně od 715 Kč",
+      "priceWithVat": "33 990 Kč",
+      "comparePrice": null,
+      "pricePrefix": null,
+      "pricePostfix": null,
+      "priceDescription": null,
+      "priceType": 1,
+      "headerText": null,
+      "headerIconUrl": null,
+      "priceSave": null,
+      "explanationPriceAction": null,
+      "unitPriceWithVat": "33 990 Kč",
+      "unitName": "ks",
+      "priceWithoutVatNoCurrency": 28090.9091,
+      "priceNoCurrency": 33990.00
+    },
+    "cpriceTotal": null,
+    "is_comparable": true,
+    "priceTotal": null,
+    "promosWorth": null,
+    "ratingCount": 0,
+    "specParent": "MacBook - Apple M2,  13,6\" IPS lesklý 2560 × 1664 px,  RAM  8GB,  Apple M2 8jádrová GPU,  SSD  256GB,  podsvícená klávesnice,  webkamera,  USB-C,  WiFi 6, hmotnost 1,24 kg,  macOS ",
+    "userOwns": false,
+    "userOwnedContentId": null,
+    "navigationUrl": null,
+    "canChangeQuantity": true,
+    "canCashBack": false,
+    "cashBackType": 0,
+    "cashBackPriceLabel": null,
+    "cashBackPrice": null,
+    "cashBackPercent": null,
+    "giftAdvisor": null,
+    "catalog_number": "MLXW3CZ/A",
+    "actionCategoryIconsUrl": [
+      "https://i.alza.cz/Foto/CommodityIcons/neo-cz.svg"
+    ],
+    "count": 0,
+    "onChangeItemCountClick": null,
+    "icons": [
+      {
+        "text": "NEO pronájem",
+        "image": "https://i.alza.cz/Foto/CommodityIcons/neo-cz.svg",
+        "clickAction": null
+      },
+      {
+        "text": "Showroom",
+        "image": "https://webapi.alza.cz/api/catalog/icons/dynamicIcon?path=https%3a%2f%2fcdn.alza.cz%2fFoto%2fCommodityIcons%2fdynamic-icon-exposed-cz.svg&value=1x",
+        "clickAction": {
+          "href": "https://www.alza.cz/api/branches/v1/names?ids=39",
+          "appLink": "branchList",
+          "enabled": true
+        }
+      }
+    ],
+    "viewerProductInfo": {
+      "href": "https://www.alza.cz/api/%7BidentityType%7D/%7BidentityId%7D/catalog/products/7224863",
+      "appLink": "viewerProductInfo",
+      "enabled": true
+    },
+    "id": 7224863,
+    "code": "NL245b1c",
+    "img": "https://cdn.alza.cz/Foto/f8/NL/NL245b1c.jpg",
+    "name": "MacBook Air 13\" M2 CZ 2022 Vesmírně šedý",
+    "spec": "MacBook - Apple M2,  13,6\" IPS lesklý 2560 × 1664 px,  RAM  8GB,  Apple M2 8jádrová GPU,  SSD  256GB,  podsvícená klávesnice,  webkamera,  USB-C,  WiFi 6, hmotnost 1,24 kg,  macOS ",
+    "price": "33 990 Kč",
+    "cprice": null,
+    "priceWithoutVat": "28 091 Kč",
+    "avail": "Skladem > 5 ks",
+    "avail_postfix": "Můžete mít ihned na <span class=\"link\">3 prodejnách</span>",
+    "avail_postfix2": "",
+    "availLegend": null,
+    "avail_color": "398000",
+    "is_action": true,
+    "action_name": "Na splátky",
+    "rating": 5.0,
+    "promo_cnt": 0,
+    "promos": null,
+    "order": 0,
+    "is_special_service": false,
+    "type": 0,
+    "year": 0,
+    "can_buy": true,
+    "orderItemId": null,
+    "iType": 0,
+    "maxCanBuy": 3,
+    "eshopType": 0,
+    "url": "https://www.alza.cz/macbook-air-13-m2-cz-2022-vesmirne-sedy-d7224863.htm",
+    "canStream": false,
+    "canUserStream": false,
+    "parentId": 0,
+    "minimumAmount": 1.0000,
+    "amountInPack": 1.0000,
+    "start_time": null,
+    "end_time": null,
+    "variant_type": 0,
+    "advertisements": [],
+    "priceNoCurrency": 33990.00,
+    "categoryId": 18854758,
+    "categoryName": "MacBook",
+    "inBasket": 0.0
+  },
+  "err": 0,
+  "favCnt": 0,
+  "basket_cnt": 0,
+  "basket_total_cnt": 0,
+  "msg": null,
+  "user_name": "Ladislav Sedlacek",
+  "user_id": 4688140,
+  "vzt": 6447710812,
+  "countryID": 0,
+  "countryPhonePrefix": "420",
+  "premiumBooks": 0,
+  "premiumDelivery": 0,
+  "premiumValidTo": null,
+  "premiumRenew": false,
+  "serverTime": 1673887262
+}

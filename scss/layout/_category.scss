@@ -41,6 +41,7 @@
 
                     svg{
                         fill: color(gray, 0);
+                        transform: scale(1.1);
                     }
                 }
 
@@ -48,6 +49,7 @@
                     max-width: 60%;
                     max-height: 40%;
                     fill: color(landingpage, light);
+                    transition: .23s ease-in-out;
                 }
             }
         }
