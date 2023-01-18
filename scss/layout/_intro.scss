@@ -62,6 +62,21 @@
                 align-items: center;
                 margin-bottom: 16px;
 
+                &:hover{
+                    svg{
+                        transform: rotate(10deg) scale(1.2);
+                    }
+
+                    .lpIntro__iconWrapper{
+                        &::before{
+                            transform: translate(-50%, -50%) rotate(-10deg) scale(1.05);
+                        }
+                        &::after{
+                            transform: translate(-60%, -60%) rotate(-10deg) scale(1.1);
+                        }
+                    }
+                }
+
                 &:last-of-type{
                     margin-bottom: 0;
                 }
@@ -70,6 +85,7 @@
                     width: 32px;
                     height: 32px;
                     filter: drop-shadow(0 0 16px rgba($color: color(gray, 0), $alpha: 1.0));
+                    transition: .2s ease-in-out;
                 }
 
                 .perex{
@@ -100,6 +116,7 @@
                     @include center;
                     border-radius: 4px;
                     z-index: 5;
+                    transition: .2s ease-in-out;
                 }
 
                 &::after{
@@ -112,6 +129,7 @@
                     border-radius: 4px;
                     z-index: 4;
                     transform: translate(-60%, -60%);
+                    transition: .2s ease-in-out;
                 }
             }
 
