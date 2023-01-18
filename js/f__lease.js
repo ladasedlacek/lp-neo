@@ -23,14 +23,14 @@ const lease = () => {
     // fill content for each product
     const fill_content = () => {
         products.forEach((product) => {
-            let api_url = "https://www.alza.cz/services/restservice.svc/v13/product/" + product.product_id  
+            let api_url = "/services/restservice.svc/v13/product/" + product.product_id  
 
             fetch(api_url)
             .then(response => response.json())
             .then(data => {
                 let product_name = data.data.name
                 product_name.length > 50 ? (product_name = product_name.slice(0, 47) + "...") : 0
-                let product_price = data.data.recommendedForRent.priceWithVat
+                let product_price = data.data.priceInfoV2.neoPriceWithVat
                 product_price = product_price.replace(/\sKč/g, "")
                 product_price = product_price + ",-"
                 let product_period = data.data.recommendedForRent.buttonDescription
@@ -38,7 +38,7 @@ const lease = () => {
                 // add html content
                 let create_html = `<p class="body-1"><strong>${product_name}</strong></p>
                 <div class="lpProducts__label">
-                    <span class="lpProducts__price">měsíčně od ${product_price}</span>
+                    <span class="lpProducts__price">${product_price}</span>
                     <span class="lpProducts__period">${product_period}</span>
                     </div>`
                 let wrapper_target = document.querySelector("#landingpage ." + product.product_name + " .lpProducts__wrapper")
