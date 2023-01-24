@@ -6,6 +6,16 @@
             color: color(landingpage, light);
         }
 
+        .perex{
+            margin-top: 40px;
+            color: color(gray, 8);
+
+            &--link{
+                font-weight: 700;
+                color: color(landingpage, light);
+            }
+        }
+
         .body-1--subLink{
             color: color(gray, 5);
             margin: 32px auto 0;
