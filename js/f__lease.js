@@ -28,26 +28,39 @@ const lease = () => {
             fetch(api_url)
             .then(response => response.json())
             .then(data => {
-                let product_name = data.data.name
-                product_name.length > 50 ? (product_name = product_name.slice(0, 47) + "...") : 0
-                let product_price = data.data.priceInfoV2.neoPriceWithVat
-                product_price = product_price.replace(/\sKč/g, "")
-                product_price = product_price + ",-"
-                let product_period = data.data.recommendedForRent.buttonDescription
+                // remove content if product in not available
+                const remove_box = () => {
+                    let product_box = document.querySelector("#landingpage ." + product.product_name)
+                    product_box.remove()
+                    console.log('Product - ' + product.product_name + ' (' + product.product_id + ')' + ' was removed from the LP Neo.')
+                }
 
-                // add html content
-                let create_html = `<p class="body-1"><strong>${product_name}</strong></p>
-                <div class="lpProducts__label">
-                    <span class="lpProducts__price">${product_price}</span>
-                    <span class="lpProducts__period">${product_period}</span>
-                    </div>`
-                let wrapper_target = document.querySelector("#landingpage ." + product.product_name + " .lpProducts__wrapper")
-                const new_item = document.createRange().createContextualFragment(create_html)
-                wrapper_target.appendChild(new_item)
+                // fill content
+                const add_box = () => {
+                    let product_name = data.data.name
+                    product_name.length > 50 ? (product_name = product_name.slice(0, 47) + "...") : 0
+                    let product_price = data.data.priceInfoV2.neoPriceWithVat
+                    product_price = product_price.replace(/\sKč/g, "")
+                    product_price = product_price + ",-"
+                    let product_period = data.data.recommendedForRent.buttonDescription
+    
+                    // add html content
+                    let create_html = `<p class="body-1"><strong>${product_name}</strong></p>
+                    <div class="lpProducts__label">
+                        <span class="lpProducts__price">${product_price}</span>
+                        <span class="lpProducts__period">${product_period}</span>
+                        </div>`
+                    let wrapper_target = document.querySelector("#landingpage ." + product.product_name + " .lpProducts__wrapper")
+                    const new_item = document.createRange().createContextualFragment(create_html)
+                    wrapper_target.appendChild(new_item)
+    
+                    // add height of the product name to the array
+                    let name_height = document.querySelector("#landingpage ." + product.product_name + " .body-1").clientHeight
+                    name_heights.push(name_height)
+                    console.log('Product - ' + product.product_name + ' (' + product.product_id + ')' + ' was added to the LP Neo.')
+                }
 
-                // add height of the product name to the array
-                let name_height = document.querySelector("#landingpage ." + product.product_name + " .body-1").clientHeight
-                name_heights.push(name_height)
+                data.data.availabilityStatus == -1 ? remove_box() : add_box()
             })
             .then(() => {
                 // set height of the highest name element
