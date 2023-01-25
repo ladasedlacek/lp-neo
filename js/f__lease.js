@@ -42,17 +42,13 @@ const lease = () => {
                     let product_price = data.data.priceInfoV2.neoPriceWithVat
                     product_price = product_price.replace(/\sKč/g, "")
                     product_price = product_price + ",-"
-                    let product_period = data.data.recommendedForRent.buttonDescription
     
                     // add html content
-                    let create_html = `<p class="body-1"><strong>${product_name}</strong></p>
-                    <div class="lpProducts__label">
-                        <span class="lpProducts__price">${product_price}</span>
-                        <span class="lpProducts__period">${product_period}</span>
-                        </div>`
-                    let wrapper_target = document.querySelector("#landingpage ." + product.product_name + " .lpProducts__wrapper")
-                    const new_item = document.createRange().createContextualFragment(create_html)
-                    wrapper_target.appendChild(new_item)
+                    
+                    let name_target = document.querySelector("#landingpage ." + product.product_name + " .body-1")
+                    let price_target = document.querySelector("#landingpage ." + product.product_name + " .lpProducts__price")
+                    name_target.innerHTML = product_name
+                    price_target.innerHTML = product_price
     
                     // add height of the product name to the array
                     let name_height = document.querySelector("#landingpage ." + product.product_name + " .body-1").clientHeight
