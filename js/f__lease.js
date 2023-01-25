@@ -44,7 +44,6 @@ const lease = () => {
                     product_price = product_price + ",-"
     
                     // add html content
-                    
                     let name_target = document.querySelector("#landingpage ." + product.product_name + " .body-1")
                     let price_target = document.querySelector("#landingpage ." + product.product_name + " .lpProducts__price")
                     name_target.innerHTML = product_name
