@@ -40,8 +40,14 @@ const lease = () => {
                     let product_name = data.data.name
                     product_name.length > 50 ? (product_name = product_name.slice(0, 47) + "...") : 0
                     let product_price = data.data.priceInfoV2.neoPriceWithVat
-                    product_price = product_price.replace(/\sKč/g, "")
-                    product_price = product_price + ",-"
+
+                    // select lang
+                    if (window.location.hostname.includes(".cz")) {
+                        product_price = product_price.replace(/\sKč/g, "")
+                        product_price = product_price + ",-"
+                    } else if (window.location.hostname.includes(".sk")) {
+                        product_price = product_price.replace("měsíčně od", "mesačne od")
+                    }
     
                     // add html content
                     let name_target = document.querySelector("#landingpage ." + product.product_name + " .body-1")
