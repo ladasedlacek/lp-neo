@@ -2,7 +2,7 @@ window.onload = () => {
     const run_helpdesk = () => {
         const helpdesk_stack = document.querySelectorAll('#landingpage .js-lp-showSendHelpdeskQuestionDialog')
         helpdesk_stack.forEach(element => {
-            element.onclick = (event) => {
+            element.onclick = event => {
                 event.preventDefault()
                 const question_id = element.getAttribute('data-question-id')
                 new Promise((resolve) => {

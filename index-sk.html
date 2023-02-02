@@ -1,0 +1,834 @@
+<!doctype html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>Landing Page Concept</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    </head>
+
+    <body>
+        <style type="text/css">
+            body,
+            html {
+                margin: 0;
+                padding: 0;
+                background: #bae2fc;
+            }
+        </style>
+
+        <div id="layout_switch">
+            <button type="button">M</button>
+            <button type="button">3</button>
+            <button type="button">4</button>
+        </div>
+
+        <div id="testLayout" class="layout-1">
+            <div id="articlePage">
+                <!-- BEFORE UPLOADING REMOVE EVERYTHING ABOVE UP TO THIS POINT -->
+                <div class="lp lp--height" id="landingpage">
+                    <nav class="lpNav">
+                        <div class="lpWrapper">
+                            <div class="lpNav__wrapper">
+                                <div class="lpNav__left">
+                                    <ul class="lpNav__items">
+                                        <li class="lpNav__item lpNav__item--icon">
+                                            <a class="lpNav__icon scrollTo" href="#alza-neo">
+                                                <svg>
+                                                    <use xlink:href="#icon-home"></use>
+                                                </svg>
+                                            </a>
+                                        </li>
+                                        <li class="lpNav__item lpNav__item--icon">
+                                            <a class="lpNav__icon scrollTo" href="#nejcastejsi-otazky">
+                                                <svg>
+                                                    <use xlink:href="#icon-quest"></use>
+                                                </svg>
+                                            </a>
+                                        </li>
+                                        <li class="lpNav__item"><a class="lpNav__button scrollTo" href="#pre-firmy">Firemný prenájom</a></li>
+                                    </ul>
+                                </div>
+                
+                                <div class="lpNav__right">
+                                    <a class="lpNav__menuIcon lpNav__menuIcon--open" href="#">
+                                        <svg>
+                                            <use class="lpMenuSvg" xlink:href="#icon-menu"></use>
+                                        </svg>
+                                    </a>
+                
+                                    <ul class="lpNav__items">
+                                        <li class="lpNav__item"><a class="lpNav__button js-lp-showSendHelpdeskQuestionDialog" data-question-id="192" href="/kontakt">Vymeniť prístroj</a></li>
+                                        <li class="lpNav__item"><a class="lpNav__button js-lp-showSendHelpdeskQuestionDialog" data-question-id="191" href="/kontakt">Nahlásiť udalosť</a></li>
+                                        <li class="lpNav__item"><a class="lpNav__button" href="/podmienky-programu-alza-neo">Obchodné podmienky</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                
+                    <!-- customer part -->
+                    <main class="lpMain lpMain--customer">
+                        <div class="lpWrapper">
+                            <!-- intro -->
+                            <section class="lpIntro" id="alza-neo">
+                                <div id="particles-js"></div>
+                                <div class="lpBlur lpBlur--intro"></div>
+                                <div class="lpIntro__wrapper">
+                                    <div class="lpIntro__left">
+                                        <svg>
+                                            <use xlink:href="#icon-neo-logo-sk"></use>
+                                        </svg>
+                
+                                        <h1 class="notMoveH1">Prenajmi za <span>minimum</span>. <br>Užívaj na <span>maximum</span>.</h1>
+                
+                                        <p class="subHdl">Elektronika <strong>bez starostí</strong> za mimoriadne <strong>nízke ceny</strong>.</p>
+                
+                                        <ul class="lpIntro__items">
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-piggy"></use></svg><strong></strong>
+                                                </div>
+                
+                                                <p class="perex">Ušetríte vďaka <strong>skvelým cenám</strong> za mesačný prenájom.</p>
+                                            </li>
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-feather"></use>
+                                                    </svg>
+                                                </div>
+                
+                                                <p class="perex"><strong>Uľahčíte rozpočtu</strong>, pretože neplatíte celú hodnotu zariadenia.</p>
+                                            </li>
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-shield"></use>
+                                                    </svg>
+                                                </div>
+                
+                                                <p class="perex"><strong>Máte pokoj pri krádeži, rozbití a reklamácii</strong>. Zariadenie je kryté po celú dobu prenájmu.</p>
+                                            </li>
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-cellphone"></use>
+                                                    </svg>
+                                                </div>
+                
+                                                <p class="perex"><strong>U nás nečakáte</strong>. Krádež, rozbitie aj reklamáciu vyriešime do 1 pracovného dňa a dáme vám nové zariadenie.</p>
+                                            </li>
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-weight"></use>
+                                                    </svg>
+                                                </div>
+                
+                                                <p class="perex"><strong>Prenájom vás nezaťaží</strong>, nemusíte sa ho obávať ako úveru.</p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                
+                                    <div class="lpIntro__right">
+                                        <div class="lpIntro__imageWrapper">
+                                            <picture>
+                                                <source type="image/webp" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-customer.webp, https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-customer@2x.webp 2x">
+                                                <source type="image/png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-customer.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-customer@2x.png 2x">
+                                                <img src="https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-customer.png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-customer.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-customer@2x.png 2x" alt="Alzák prenájom" width="511" height="577" class="no-lazy">
+                                            </picture>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                
+                            <!-- category -->
+                            <section class="lpCategory">
+                                <div class="lpBlur lpBlur--category-left"></div>
+                                <div class="lpBlur lpBlur--category-right"></div>
+                
+                                <h2 class="hdl2">Vyberte si zariadenie</h2>
+                                <div class="lpCategory__tiles">
+                                    <a class="lpCategory__tile" href="/mobily/produkty-na-prenajom/18843445-e15.htm">
+                                        <p class="perex"><strong>Mobilné telefóny</strong></p>
+                                        <div class="lpCategory__hexagon">
+                                            <svg>
+                                                <use xlink:href="#icon-mobily"></use>
+                                            </svg>
+                                        </div>
+                                    </a>
+                                    <a class="lpCategory__tile" href="/tablety/produkty-na-prenajom/18852388-e15.htm">
+                                        <p class="perex"><strong>Tablety</strong></p>
+                                        <div class="lpCategory__hexagon">
+                                            <svg>
+                                                <use xlink:href="#icon-tablety"></use>
+                                            </svg>
+                                        </div>
+                                    </a>
+                                    <a class="lpCategory__tile" href="/mobily-smart-hodinky-tablety/produkty-na-prenajom/18890259-e15.htm#f&limit=298--3229&cst=1&cud=1&pg=1&prod=1722">
+                                        <p class="perex"><strong>Smart hodinky</strong></p>
+                                        <div class="lpCategory__hexagon">
+                                            <svg>
+                                                <use xlink:href="#icon-hodinky"></use>
+                                            </svg>
+                                        </div>
+                                    </a>
+                                    <a class="lpCategory__tile" href="/pocitace/produkty-na-prenajom/18852653-e15.htm">
+                                        <p class="perex"><strong>Počítače</strong></p>
+                                        <div class="lpCategory__hexagon">
+                                            <svg>
+                                                <use xlink:href="#icon-pocitace"></use>
+                                            </svg>
+                                        </div>
+                                    </a>
+                                    <a class="lpCategory__tile" href="/notebooky/produkty-na-prenajom/18842920-e15.htm">
+                                        <p class="perex"><strong>Notebooky</strong></p>
+                                        <div class="lpCategory__hexagon">
+                                            <svg>
+                                                <use xlink:href="#icon-notebooky"></use>
+                                            </svg>
+                                        </div>
+                                    </a>
+                                </div>
+                                <a class="btn btn--white" href="/produkty-na-prenajom/e15.htm"><span class="btn-text">Vybrať vo všetkých kategóriách</span></a>
+                            </section>
+                
+                            <!-- products -->
+                            <section class="lpProducts" id="produkty-k-pronajmu">
+                                <h2 class="hdl2">Najobľúbenejšie produkty na prenájom</h2>
+                                <div class="lpProducts__tiles">
+                                    <a class="lpProducts__tile lpProducts__tile--macbook" data-product-id="7224873" href="/macbook-air-13-m2-sk-2022-vesmirne-sivy-d7224873.htm">
+                                        <div class="lpProducts__wrapper">
+                                            <picture>
+                                                <source type="image/webp" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-1.webp, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-1@2x.webp 2x">
+                                                <source type="image/png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-1.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-1@2x.png 2x">
+                                                <img src="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-1.png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-1.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-1@2x.png 2x" alt="Macbook Air 13 M2 SK 2022 Vesmírne sivý" width="165" height="165" class="no-lazy">
+                                            </picture>
+                
+                                            <p class="body-1"></p>
+                                            <div class="lpProducts__label">
+                                                <span class="lpProducts__price"></span>
+                                                <span class="lpProducts__period">Na 36 mesiacov</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                
+                                    <a class="lpProducts__tile lpProducts__tile--iphone" data-product-id="7403175" href="/iphone-14-128-gb-cierny-d7403175.htm">
+                                        <div class="lpProducts__wrapper">
+                                            <picture>
+                                                <source type="image/webp" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-3.webp, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-3@2x.webp 2x">
+                                                <source type="image/png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-3.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-3@2x.png 2x">
+                                                <img src="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-3.png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-3.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-3@2x.png 2x" alt="iPhone 14 128GB" width="165" height="165" class="no-lazy">
+                                            </picture>
+                
+                                            <p class="body-1"></p>
+                                            <div class="lpProducts__label">
+                                                <span class="lpProducts__price"></span>
+                                                <span class="lpProducts__period">Na 24 mesiacov</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                
+                                    <a class="lpProducts__tile lpProducts__tile--samsung" data-product-id="6974213" href="/samsung-galaxy-s22-5g-128-gb-cierny-d6974213.htm">
+                                        <div class="lpProducts__wrapper">
+                                            <picture>
+                                                <source type="image/webp" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-4.webp, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-4@2x.webp 2x">
+                                                <source type="image/png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-4.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-4@2x.png 2x">
+                                                <img src="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-4.png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-4.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-4@2x.png 2x" alt="Samsung Galaxy S22 5G 128GB čierna" width="165" height="165" class="no-lazy">
+                                            </picture>
+                
+                                            <p class="body-1"></p>
+                                            <div class="lpProducts__label">
+                                                <span class="lpProducts__price"></span>
+                                                <span class="lpProducts__period">Na 24 mesiacov</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                
+                                    <a class="lpProducts__tile lpProducts__tile--lenovo" data-product-id="7251094" href="/lenovo-legion-5-15ith6h-phantom-blue-shadow-black-d7251094.htm">
+                                        <div class="lpProducts__wrapper">
+                                            <picture>
+                                                <source type="image/webp" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-2.webp, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-2@2x.webp 2x">
+                                                <source type="image/png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-2.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-2@2x.png 2x">
+                                                <img src="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-2.png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-2.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/prod-2@2x.png 2x" alt="Lenovo Legion 5 15ITH6H Phantom Blue/Shadow Black" width="165" height="165" class="no-lazy">
+                                            </picture>
+                
+                                            <p class="body-1"></p>
+                                            <div class="lpProducts__label">
+                                                <span class="lpProducts__price"></span>
+                                                <span class="lpProducts__period">Na 36 mesiacov</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </section>
+                
+                            <!-- usps -->
+                            <section class="lpUsps">
+                                <div class="lpBlur lpBlur--bigUsps"></div>
+                
+                                <h2 class="hdl2">Vy používate, my sa staráme</h2>
+                                <div class="lpUsps__wrapper">
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <svg>
+                                                <use xlink:href="#icon-usp-1"></use>
+                                            </svg>
+                                        </div>
+                
+                                        <p class="perex">Prístroj je krytý proti nechcenému <strong>rozbitiu aj krádeži</strong> a môžete ho reklamovať po celú dobu prenájmu.</p>
+                                    </div>
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <svg>
+                                                <use xlink:href="#icon-usp-2"></use>
+                                            </svg>
+                                        </div>
+                
+                                        <p class="perex">Reklamáciu, rozbitie aj krádež vyriešime <strong>do 1 pracovného dňa</strong>. Uznávame <strong>viac ako 94 %</strong> nahlásených udalostí.</p>
+                                    </div>
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <svg>
+                                                <use xlink:href="#icon-usp-3"></use>
+                                            </svg>
+                                        </div>
+                
+                                        <p class="perex"><strong>Bez čakania</strong> na opravu alebo reklamáciu. Nové zariadenie si vyzdvihnete ihneď pri vrátení starého.</p>
+                                    </div>
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <svg>
+                                                <use xlink:href="#icon-usp-4"></use>
+                                            </svg>
+                                        </div>
+                
+                                        <p class="perex"><strong>Prenájom už vám nehrá do kariet? </strong> Nevadí, <strong>Alza NEO je férová</strong> dohoda. Vypočítame vám odstupné, ktoré sa odvíja podľa skutočnej doby vášho prenájmu. Celkom teda nezaplatíte nič navyše, iba takú čiastku, ktorú by ste naozaj dali za kratší prenájom.</p>
+                                    </div>
+                                </div>
+                                <div id="particles-js2"></div>
+                            </section>
+                
+                            <!-- small usps -->
+                            <section class="lpUsps lpUsps--small">
+                                <div class="lpBlur lpBlur--smallUsps-left"></div>
+                
+                                <h2 class="hdl2">Ako na prenájom ľahko a rýchlo?</h2>
+                                <div class="lpUsps__wrapper">
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <span class="lpUsps__number">1</span>
+                                        </div>
+                
+                                        <p class="perex">Kliknite na tlačidlo <strong>Prenajať</strong> pri tovare s označením <strong>NEO</strong> a pokračujte ako pri nákupe.</p>
+                                    </div>
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <span class="lpUsps__number">2</span>
+                                        </div>
+                
+                                        <p class="perex">Pomocou údajov overíme vašu schopnosť platiť. O schválení vás informujeme <strong>SMS a e-mailom</strong> do jedného pracovného dňa.</p>
+                                    </div>
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <span class="lpUsps__number">3</span>
+                                        </div>
+                
+                                        <p class="perex">Zariadenie je pripravené na predajni. Na vyzdvihnutie budete potrebovať <strong>občiansky preukaz</strong> na kontrolu totožnosti.</p>
+                                    </div>
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <span class="lpUsps__number">4</span>
+                                        </div>
+                
+                                        <p class="perex">Na predajni už len podpíšete <strong>odovzdávací protokol</strong> a svoj nový prístroj si odnesiete domov.</p>
+                                    </div>
+                                </div>
+                            </section>
+                
+                            <!-- service -->
+                            <section class="lpService">
+                                <div class="lpBlur lpBlur--service"></div>
+                                <picture>
+                                    <source type="image/webp" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/service-sk.webp, https://cdn.alza.sk/Foto/or/lp/neo/build/img/service-sk@2x.webp 2x">
+                                    <source type="image/png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/service-sk.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/service-sk@2x.png 2x">
+                                    <img src="https://cdn.alza.sk/Foto/or/lp/neo/build/img/service-sk.png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/service-sk.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/service-sk@2x.png 2x" alt="Alzák prenájom" width="772" height="526" class="no-lazy">
+                                </picture>
+                                <a class="btn btn--white" href="/produkty-na-prenajom/e15.htm"><span class="btn-text">Vybrať zariadenie</span></a>
+                            </section>
+                
+                            <!-- line -->
+                            <div class="lpLine">
+                                <img src="https://cdn.alza.sk/Foto/or/lp/neo/build/img/line.svg" title="Vaše meno" 0="">
+                            </div>
+                
+                            <!-- intro -->
+                            <section class="lpIntro lpIntro--company" id="pre-firmy">
+                                <div id="particles-js3"></div>
+                                <div class="lpBlur lpBlur--companies-left"></div>
+                                <div class="lpBlur lpBlur--companies-right"></div>
+                                <div class="lpIntro__wrapper">
+                                    <div class="lpIntro__left">
+                                        <svg class="lpLogoCompany">
+                                            <use xlink:href="#icon-neo-firmy-sk"></use>
+                                        </svg>
+                
+                                        <h1 class="notMoveH1">Uľahčite život <span>firme</span> <br>s <span>prenájmom elektroniky</span></h1>
+                
+                                        <p class="subHdl">Využívajte špičkovú elektroniku výhodne vďaka skvelým cenám za mesačný prenájom.</p>
+                
+                                        <ul class="lpIntro__items">
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-feather"></use></svg><strong></strong>
+                                                </div>
+                
+                                                <p class="perex">Uľahčíte <strong>firemnému rozpočtu</strong> od veľkých nákupných investícií.</p>
+                                            </li>
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-computer"></use></svg><strong></strong>
+                                                </div>
+                
+                                                <p class="perex">Zbavíte sa <strong>prevádzkových starostí</strong> s elektronikou.</p>
+                                            </li>
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-calendar"></use></svg><strong></strong>
+                                                </div>
+                
+                                                <p class="perex">Naplánujete si vašu ideálnu dobu prenájmu <strong>od 6 až do 48 mesiacov</strong> podľa počtu zariadení.</p>
+                                            </li>
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-combo"></use></svg><strong></strong>
+                                                </div>
+                
+                                                <p class="perex">Získate <strong>nadštandardný výber</strong> zariadenia nad rámec bežného katalógu.</p>
+                                            </li>
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-desk"></use></svg><strong></strong>
+                                                </div>
+                
+                                                <p class="perex">Faktúru za prenájom si dáte <strong>do nákladov</strong>.</p>
+                                            </li>
+                                            <li class="lpIntro__item">
+                                                <div class="lpIntro__iconWrapper">
+                                                    <svg>
+                                                        <use xlink:href="#icon-recycle"></use></svg><strong></strong>
+                                                </div>
+                
+                                                <p class="perex">Odpadnú vám <strong>starosti s predajom</strong> a vyraďovaním elektroniky.</p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                
+                                    <div class="lpIntro__right">
+                                        <div class="lpIntro__imageWrapper">
+                                            <picture>
+                                                <source type="image/webp" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-company.webp, https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-company@2x.webp 2x">
+                                                <source type="image/png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-company.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-company@2x.png 2x">
+                                                <img src="https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-company.png" srcset="https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-company.png, https://cdn.alza.sk/Foto/or/lp/neo/build/img/alzak-company@2x.png 2x" alt="Alzák prenájom" width="511" height="577" class="no-lazy">
+                                            </picture>
+                                        </div>
+                                    </div>
+                
+                                    <a class="btn btn--white" href="/produkty-na-prenajom/e15.htm"><span class="btn-text">Vybrať zariadenie</span></a>
+                                </div>
+                            </section>
+                
+                            <!-- small usps -->
+                            <section class="lpUsps lpUsps--small">
+                                <div class="lpBlur lpBlur--smallUsps"></div>
+                
+                                <h2 class="hdl2">Ako na firemný prenájom ľahko a rýchlo?</h2>
+                                <div class="lpUsps__wrapper">
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <span class="lpUsps__number">1</span>
+                                        </div>
+                
+                                        <p class="perex">Kliknite na tlačidlo <strong>Prenajať</strong> pri tovare s označením <strong>NEO</strong> a vyplňte dopytový formulár.</p>
+                                    </div>
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <span class="lpUsps__number">2</span>
+                                        </div>
+                
+                                        <p class="perex">Pomocou údajov overíme vašu schopnosť platiť. O schválení vás informujeme <strong>SMS a e-mailom</strong> do jedného pracovného dňa.</p>
+                                    </div>
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <span class="lpUsps__number">3</span>
+                                        </div>
+                
+                                        <p class="perex">Zariadenie si môžete vyzdvihnúť na predajni alebo nechať doručiť priamo do vašich rúk.*</p>
+                
+                                        <p class="body-2">*Pre možnosť doručenia kuriérom najskôr každú objednávku individuálne posúdime.</p>
+                                    </div>
+                                    <div class="lpUsps__box">
+                                        <div class="lpUsps__iconWrapper">
+                                            <span class="lpUsps__number">4</span>
+                                        </div>
+                
+                                        <p class="perex">Podpíšete <strong>odovzdávací protokol</strong> na predajni alebo online v prípade doručenia kuriérom.</p>
+                                    </div>
+                                </div>
+                            </section>
+                
+                            <!-- contact form -->
+                            <section class="lpContact">
+                                <h2 class="hdl2">Chcem firemný prenájom bez starostí</h2>
+                
+                                <p class="perex perex--subHeadline">Po vyplnení formulára vás kontaktujeme s pripravenou cenovou ponukou <br>a spoločne prejdeme celý proces objednávky.</p>
+                
+                                <form class="lpForm__wrapper lpForm__wrapper--active" id="lpForm">
+                                    <div class="lpForm__row lpForm__row--border">
+                                        <label class="body-2 lpForm__label lpForm__label--top" for="lpForm_company_name">Názov firmy *</label>
+                                        <input maxlength="50" minlength="4" placeholder="napr. Novák Stavebná s.r.o." id="lpForm_company_name" title="Názov firmy" class="lpForm__input" type="text" name="company-name" required="">
+                                        <span class="body-2 lpForm__errorMessage">Prosím uveďte meno vašej firmy</span>
+                                    </div>
+                                    <div class="lpForm__row lpForm__row--border">
+                                        <label class="body-2 lpForm__label lpForm__label--top" for="lpForm_name">Vaše meno *</label>
+                                        <input maxlength="50" minlength="4" placeholder="napr. Ján Novák" id="lpForm_name" title="Vaše meno" class="lpForm__input" type="text" name="full-name" required="">
+                                        <span class="body-2 lpForm__errorMessage">Prosím uveďte vaše meno</span>
+                                    </div>
+                                    <div class="lpForm__row lpForm__row--border">
+                                        <label class="body-2 lpForm__label lpForm__label--top" for="lpForm_company_number">IČO firmy *</label>
+                                        <input minlength="4" maxlength="15" pattern="^(?!.*[e\+,])\d{4,15}$" placeholder="napr. 28331265" id="lpForm_company_number" title="IČ" class="lpForm__input" type="text" name="company-number" required="">
+                                        <span class="body-2 lpForm__errorMessage">Zadajte prosím IČO vašej firmy</span>
+                                    </div>
+                                    <div class="lpForm__row lpForm__row--border">
+                                        <label class="body-2 lpForm__label lpForm__label--top" for="lpForm_email">Firemný e-mail *</label>
+                                        <input maxlength="100" minlength="5" value="@" title="Firemný e-mail" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}" id="lpForm_email" class="lpForm__input" type="email" name="email" required="">
+                                        <span class="body-2 lpForm__errorMessage">Nesprávny formát</span>
+                                    </div>
+                                    <div class="lpForm__row lpForm__row--border">
+                                        <label class="body-2 lpForm__label lpForm__label--top" for="lpForm_telephone">Kontaktný telefón (vrátane predvoľby) *</label>
+                                        <input value="+421" maxlength="20" minlength="9" pattern="^((\+)\d{0,3})? ?[0-9]{2,3} ?[0-9]{2,3} ?([0-9]{2,3})? ?[0-9]{2,3}$" id="lpForm_telephone" title="Kontaktný telefón" class="lpForm__input" type="tel" name="full-name" required="">
+                                        <span class="body-2 lpForm__errorMessage">Prosím uveďte svoje telefónne číslo s predvoľbou na začiatku</span>
+                                    </div>
+                                    <div class="lpForm__row lpForm__row--border">
+                                        <label class="body-2 lpForm__label lpForm__label--top" for="lpForm_message">Vložte odkaz alebo kód produktu, počet kusov a preferované obdobie prenájmu a predajňu pre vyzdvihnutie objednávky *</label>
+                                        <textarea maxlength="5000" minlength="5" value="" name="message" id="lpForm_message" placeholder="napr. Dobrý deň, chcem pre svoju firmu objednať:&#10;&#10;https://www.alza.sk/iphone-14-pro-128-gb-cierny-d7403204.htm&#10;3 kusy, 36 mesiacov&#10;&#10;Alza Bratislava - centrála." cols="30" rows="10" required=""></textarea>
+                                        <span class="body-2 lpForm__errorMessage">Prosím uveďte vašu správu</span>
+                                    </div>
+                                    <div class="lpForm__row lpForm__row--gdpr">
+                                        <div class="lpForm__gdprWrapper">
+                                            <input type="checkbox" id="lpForm_gdpr" name="gdpr" class="body-1" required="">
+                                            <label class="body-1" for="lpForm_gdpr">Súhlasím so spracovaním <a class="body-1--link" href="/privacy-policy" target="_blank">osobných údajov</a>. *</label>
+                                        </div>
+                                        <span class="body-2 lpForm__errorMessage">Pred odoslaním je nutný váš súhlas s podmienkami so spracovaním vašich údajov</span>
+                                    </div>
+                                    <div class="lpForm__row">
+                                        <button class="btn--large btn--white btn--dis" disabled="" id="pushCCT" type="submit"><span class="btn-text">Odoslať</span></button>
+                                    </div>
+                                    <div class="lpForm__row">
+                                        <p class="body-1">* povinné polia</p>
+                                    </div>
+                                </form>
+                
+                                <div class="lpForm__status">
+                                    <div class="lpForm__statusMessage lpForm__statusMessage--sucess">
+                                        <svg>
+                                            <use xlink:href="#icon-sucess"></use>
+                                        </svg>
+                
+                                        <p class="perex">Správa bola úspešne odoslaná. <br>Čoskoro vás budeme kontaktovať.</p>
+                                        <a class="body-2--link" href="#">Vytvoriť novú správu</a>
+                                    </div>
+                                    <div class="lpForm__statusMessage lpForm__statusMessage--error">
+                                        <svg>
+                                            <use xlink:href="#icon-error"></use>
+                                        </svg>
+                
+                                        <p class="perex">Došlo k chybe. <br>Správu sa nepodarilo odoslať.</p>
+                                        <a class="body-2--link" href="#">Vytvoriť novú správu</a>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </main>
+                
+                    <!-- faqs -->
+                    <section class="lpAccordion" id="nejcastejsi-otazky">
+                        <div class="lpWrapper">
+                            <h2 class="hdl2">Najčastejšie otázky</h2>
+                
+                            <div class="lpAccordion__switcher">
+                                <a class="lpAccordion__button lpAccordion__button--active" href="#switcher-customer">Bežný zákazník</a>
+                                <a class="lpAccordion__button" href="#switcher-company">Firemný zákazník</a>
+                            </div>
+                
+                            <div class="lpFAQs lpFAQs--active" id="switcher-customer">
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Mám nový prístroj. Ako sa mám správať?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Aby ste si svoj prístroj čo najviac užili a nečakali vás žiadne výdavky navyše, správajte sa k nemu ako by bol váš vlastný. Noste ho v obale a s nalepeným sklom.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Čo mám robiť, ak sa prístroj pokazí, ukradnú mi ho alebo ho poškodím?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Stačí, keď nám popíšete, ako došlo k rozbitiu alebo odcudzeniu cez <a class="js-lp-showSendHelpdeskQuestionDialog body-1--link" data-question-id="191" href="/kontakt">kontaktný formulár</a>. V prípade, že sa prístroj pokazil, vyplňte prosím tento <a class="js-lp-showSendHelpdeskQuestionDialog body-1--link" data-question-id="190" href="/kontakt">kontaktný formulár</a>. My vašu rozšírenú záruku posúdime do 1 pracovného dňa. Následne vás budeme kontaktovať s ďalším postupom.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Čo pokrýva rozšírená záruka?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Výrobné vady, krádež a nešťastnú náhodu s dôsledkom rozbitia zariadenia. Pozor, z rozšírenej záruky je vylúčené napríklad úmyselné poškodenie (napríklad keď hodíte prístroj o zem) alebo ak ste mohli rozbitiu predchádzať (napr. mali ste ho bezpečne uložený vo vrecku). Počas krádeže tiež nesmiete mať zníženú pozornosť napríklad vplyvom alkoholu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Kedy môžem svoj prístroj vymeniť za nový model?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Po uplynutí doby prenájmu alebo sa s nami môžete dohodnúť na predčasnom ukončení.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Koho mám kontaktovať, keď chcem prístroj vymeniť?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokiaľ chcete prístroje vymeniť, kontaktujte nás cez <a class="js-lp-showSendHelpdeskQuestionDialog body-1--link" data-question-id="192" href="/kontakt">kontaktný formulár</a>.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Keď mením prístroj, dostanem nový kus?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Áno, vždy dostanete nový kus.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Aké sú podmienky získania prenájmu?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Podmienkou je dovŕšenie veku 18 rokov. Zároveň je nutné mať na Alze registráciu. U každého zákazníka, ktorý má záujem o prenájom, preverujeme schopnosť pravidelne platiť.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Ako dlho trvá zmluva?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pri mobilnom telefóne alebo wearables trvá zmluva 24 mesiacov. V prípade notebookov, tabletov a PC zostáv trvá 36 mesiacov.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Môžem prístroj vrátiť skôr a členstvo zrušiť?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Áno, môžete sa s nami dohodnúť na predčasnom ukončení v súlade s bodom 6.3 obchodných podmienok programu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Koľko a ako často budem platiť?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Za službu Alza NEO sa platí 1× mesačne. Platbu zasielate v rovnaký deň ako začatie prenájmu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Garantujete zmazanie dát pri vrátení prístroja?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Áno, na všetkých prístrojoch vykonávame kompletný návrat do továrenského nastavenia presne podľa manuálu výrobcu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Musím sa viazať na nejakého mobilného operátora?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Nie, výber operátora je iba na vás. Prístroj nie je nijako blokovaný.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Môžem si prístroj odkúpiť?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">To bohužiaľ nejde. Prístroj patrí po celú dobu Alze. Ide o formu služby, ktorá vám zaisťuje stále dostupný najnovší model zariadenia. Službu ale môžete ukončiť a kúpiť si nový alebo zánovný prístroj.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Na webe ste zmenili ceny, budem platiť inú čiastku?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokiaľ už prístroj od nás máte, čiastka je fixná a nemení sa. Cena na webe platí iba pre nových zákazníkov. Až si nabudúce budete brať nový model zariadenia, dostanete zase aktuálnu cenu, ktorá je na webe.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Čo ak nebudem platiť včas?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokiaľ za prístroj nebudete hradiť pravidelné poplatky riadne a včas, tak:</p>
+                
+                                        <ul class="lpListItems">
+                                            <li class="lpListItems__item">Spáchate <strong>trestný čin</strong> sprenevery a budeme nútení podať trestné oznámenie. Vlastníkom prístroja je totiž po celú dobu naša spoločnosť.</li>
+                                            <li class="lpListItems__item">Odovzdáme prípad advokátovi na <strong>vymáhanie</strong>.</li>
+                                            <li class="lpListItems__item">Okrem doplatenia kúpnej ceny po vás budeme <strong>navyše požadovať úhradu úroku</strong> z omeškania a náhradu nákladov za vedenie súdneho, popr. aj exekučného konania.</li>
+                                            <li class="lpListItems__item"><strong>Budete zaradení do registrov dlžníkov</strong> vedených spoločnosťami Intrum Czech, s. r. o. (IČO 27221971), LogiCall Slovensko, s. r. o. (IČO 26849551), Intrum Slovakia, s. r. o. (IČO 35831154) a LogiCall Slovensko, s. r. o. (IČO 44151721).</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <div class="lpFAQs" id="switcher-company">
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Mám nový prístroj. Ako sa mám správať?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Aby ste si svoj prístroj čo najviac užili a nečakali vás žiadne výdavky navyše, správajte sa k nemu ako by bol váš vlastný. Noste ho v obale a s nalepeným sklom.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Čo mám robiť, ak sa prístroj pokazí, ukradnú mi ho alebo ho poškodím?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Stačí, keď nám popíšete, ako došlo k rozbitiu alebo odcudzeniu cez <a class="js-lp-showSendHelpdeskQuestionDialog body-1--link" data-question-id="191" href="/kontakt">kontaktný formulár</a>. V prípade, že sa prístroj pokazil, vyplňte prosím tento <a class="js-lp-showSendHelpdeskQuestionDialog body-1--link" data-question-id="190" href="/kontakt">kontaktný formulár</a>. My vašu rozšírenú záruku posúdime do 1 pracovného dňa. Následne vás budeme kontaktovať s ďalším postupom.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Čo pokrýva rozšírená záruka?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Výrobné vady, krádež a nešťastnú náhodu s dôsledkom rozbitia zariadenia. Pozor, z rozšírenej záruky je vylúčené napríklad úmyselné poškodenie (napríklad keď hodíte prístroj o zem) alebo ak ste mohli rozbitiu predchádzať (napr. mali ste ho bezpečne uložený vo vrecku). Počas krádeže tiež nesmiete mať zníženú pozornosť napríklad vplyvom alkoholu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Kedy môžem svoj prístroj vymeniť za nový model?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Po uplynutí doby prenájmu alebo sa s nami môžete dohodnúť na predčasnom ukončení.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Koho mám kontaktovať, keď chcem prístroj vymeniť?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokiaľ chcete prístroje vymeniť, kontaktujte nás cez <a class="js-lp-showSendHelpdeskQuestionDialog body-1--link" data-question-id="192" href="/kontakt">kontaktný formulár</a>.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Keď mením prístroj, dostanem nový kus?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Áno, vždy dostanete nový kus.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Aké sú podmienky získania prenájmu?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Podmienkou je dovŕšenie veku 18 rokov. Zároveň je nutné mať na Alze registráciu. U každého zákazníka, ktorý má záujem o prenájom, preverujeme schopnosť pravidelne platiť.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Ako dlho trvá zmluva?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pri mobilnom telefóne alebo wearables trvá zmluva 24 mesiacov. V prípade notebookov, tabletov a PC zostáv trvá 36 mesiacov.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Môžem prístroj vrátiť skôr a členstvo zrušiť?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Áno, môžete sa s nami dohodnúť na predčasnom ukončení v súlade s bodom 6.3 obchodných podmienok programu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Koľko a ako často budem platiť?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Za službu Alza NEO sa platí 1× mesačne. Platbu zasielate v rovnaký deň ako začatie prenájmu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Garantujete zmazanie dát pri vrátení prístroja?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Áno, na všetkých prístrojoch vykonávame kompletný návrat do továrenského nastavenia presne podľa manuálu výrobcu.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Musím sa viazať na nejakého mobilného operátora?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Nie, výber operátora je iba na vás. Prístroj nie je nijako blokovaný.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Môžem si prístroj odkúpiť?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">To bohužiaľ nejde. Prístroj patrí po celú dobu Alze. Ide o formu služby, ktorá vám zaisťuje stále dostupný najnovší model zariadenia. Službu ale môžete ukončiť a kúpiť si nový alebo zánovný prístroj.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Na webe ste zmenili ceny, budem platiť inú čiastku?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokiaľ už prístroj od nás máte, čiastka je fixná a nemení sa. Cena na webe platí iba pre nových zákazníkov. Až si nabudúce budete brať nový model zariadenia, dostanete zase aktuálnu cenu, ktorá je na webe.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Čo ak nebudem platiť včas?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Pokiaľ za prístroj nebudete hradiť pravidelné poplatky riadne a včas, tak:</p>
+                
+                                        <ul class="lpListItems">
+                                            <li class="lpListItems__item">Spáchate <strong>trestný čin</strong> sprenevery a budeme nútení podať trestné oznámenie. Vlastníkom prístroja je totiž po celú dobu naša spoločnosť.</li>
+                                            <li class="lpListItems__item">Odovzdáme prípad advokátovi na <strong>vymáhanie</strong>.</li>
+                                            <li class="lpListItems__item">Okrem doplatenia kúpnej ceny po vás budeme <strong>navyše požadovať úhradu úroku</strong> z omeškania a náhradu nákladov za vedenie súdneho, popr. aj exekučného konania.</li>
+                                            <li class="lpListItems__item"><strong>Budete zaradení do registrov dlžníkov</strong> vedených spoločnosťami Intrum Czech, s. r. o. (IČO 27221971), LogiCall Slovensko, s. r. o. (IČO 26849551), Intrum Slovakia, s. r. o. (IČO 35831154) a LogiCall Slovensko, s. r. o. (IČO 44151721).</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Aké sú podmienky získania prenájmu?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Každú firmu posudzujeme individuálne, neváhajte nám zaslať svoj kontakt. Alza NEO prenájom však nie je právne nárokovateľný a Alza si vyhradzuje právo Vám členstvo v programe neponúknuť. Bohužiaľ, dôvody oznamovať nemôžeme.</p>
+                                    </div>
+                                </div>
+                                <!-- tab -->
+                                <div class="lpFAQs__wrapper">
+                                    <p class="perex faqsHeadline">Ako dlho trvá zmluva?</p>
+                                    <div class="lpFAQs__paragraph">
+                                        <p class="body-1">Doba trvania Zmluvy môže byť stanovená od 6 až do 36 mesiacov(i). Pri prenájme vyššieho počtu zariadení sa s vami môžeme dohodnúť na dlhšom období.</p>
+                                    </div>
+                                </div>
+                            </div>
+                
+                            <p class="perex"><strong>Potrebujete poradiť? </strong> <a class="perex--link" href="/kontakt">Napíšte nám</a>, alebo zavolajte na <a class="perex--link" href="tel:+421257101800">+421 2 5710 1800</a></p>
+                
+                            <a class="body-1--link body-1--subLink" href="/podmienky-programu-alza-neo">Obchodné podmienky programu Alza NEO</a>
+                        </div>
+                    </section>
+                
+                    <!-- footer -->
+                    <!--ShowArticle(24000)-->
+                </div>
+                <!-- TO REMOVE -->
+            </div>
+        </div>
+        <script src="build/js/script.min.js" type="text/javascript"></script>
+        
+        <link rel="stylesheet" href="build/css/style.min.css">
+
+    </body>
+
+</html>
