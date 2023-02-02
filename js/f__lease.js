@@ -1,5 +1,31 @@
 // add monthly price and time period for specific products
 window.onload = () => {
+    // get language of the page
+    const language_selector = () => {
+        const get_language = () => {
+            try { 
+                if (Alza.Shared.PageData.culture) 
+                return Alza.Shared.PageData.culture
+            } catch(e) {}
+            try { 
+                if (document.documentElement.getAttribute("lang").length > 3)
+                return document.documentElement.getAttribute("lang")
+            } catch(e) {}
+            try { 
+                if (Alza.hasOwnProperty("Mobile")) 
+                return Alza.Mobile.Page.data().countryLocale 
+                return Alza.Web.Page.Data.countryLocale 
+            } catch(e) { return window.navigator.language }
+        }
+
+        langResult = get_language()
+        if (langResult === 'en-GB') {
+            langResult = ""
+        }
+    }
+    language_selector()
+
+    // select products
     const lease = () => {
         const product_target = document.querySelectorAll('#landingpage .lpProducts .lpProducts__tile')
         let products = []
@@ -24,10 +50,17 @@ window.onload = () => {
     
         // fill content for each product
         const fill_content = () => {
+            let headers = new Headers({
+                "Content-Type": "application/json",
+                "Accept-Language": langResult + ",en-GB;q=0.8,en-US;q=0.5,en;q=0.3"
+            })
             products.forEach((product) => {
                 let api_url = "/services/restservice.svc/v13/product/" + product.product_id  
     
-                fetch(api_url)
+                fetch(api_url, {
+                    method: 'GET',
+                    headers: headers
+                })
                 .then(response => response.json())
                 .then(data => {
                     // remove content if product in not available
