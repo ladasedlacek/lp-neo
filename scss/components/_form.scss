@@ -1,7 +1,7 @@
-#landingpage{
-    .lpContact{
-        .lpForm{
-            &__wrapper{
+#landingpage {
+    .lpContact {
+        .lpForm {
+            &__wrapper {
                 display: flex;
                 flex-direction: column;
                 flex-wrap: nowrap;
@@ -12,18 +12,18 @@
                 opacity: 0;
                 visibility: hidden;
 
-                &--active{
+                &--active {
                     display: block;
                     animation: form .3s ease-in forwards;
                 }
-    
+
                 @keyframes form {
                     0% {
                         display: block;
                         opacity: 0;
                         visibility: hidden;
                     }
-        
+
                     100% {
                         display: block;
                         opacity: 1;
@@ -32,7 +32,7 @@
                 }
             }
 
-            &__row{
+            &__row {
                 text-align: left;
                 margin-top: 20px;
                 display: flex;
@@ -40,19 +40,22 @@
                 flex-wrap: wrap;
                 flex-direction: column;
 
-                &:first-of-type{
+                &:first-of-type {
                     margin-top: 0;
                 }
 
-                .body-1{
+                .body-1 {
                     color: color(gray, 0);
                 }
 
-                .body-2{
+                .body-2 {
                     color: color(landingpage, text);
                 }
 
-                label, input, textarea, button{
+                label,
+                input,
+                textarea,
+                button {
                     @include roboto;
                     width: 100%;
                     flex: 1;
@@ -60,26 +63,28 @@
                     color: color(gray, 8);
                     border-radius: 4px;
 
-                    &.placeholder{
+                    &.placeholder {
                         color: color(gray, 5);
                     }
                 }
 
-                label, input, textarea{
-                    &:disabled{
+                label,
+                input,
+                textarea {
+                    &:disabled {
                         background-color: color(gray, 0);
                         opacity: .7;
                     }
                 }
 
-                .lpForm__label{
-                    &--top{
+                .lpForm__label {
+                    &--top {
                         color: color(landingpage, text);
                         margin-bottom: 5px;
                     }
                 }
 
-                .lpForm__errorMessage{
+                .lpForm__errorMessage {
                     color: color(red, 500);
                     font-weight: 500;
                     max-height: 0;
@@ -90,18 +95,18 @@
                     transition-duration: .3s;
                     transition-timing-function: ease-out;
 
-                    &--active{
+                    &--active {
                         max-height: 100px;
                         transition-property: max-height;
                         transition-duration: .5s;
-                        transition-timing-function: ease-in; 
+                        transition-timing-function: ease-in;
                     }
                 }
 
-                label.lpInputVerrify{
+                label.lpInputVerrify {
                     position: relative;
 
-                    &::after{
+                    &::after {
                         content: '';
                         position: absolute;
                         border: 2px solid color(green, 700);
@@ -116,17 +121,17 @@
                     }
                 }
 
-                input{
+                input {
                     border: 1px solid color(gray, 3);
                     padding: 12px 15px;
                     margin-bottom: 5px;
 
-                    &::placeholder{
+                    &::placeholder {
                         color: color(gray, 5);
                     }
                 }
 
-                input:invalid ~ .lpForm__label--top {
+                input:invalid~.lpForm__label--top {
                     color: red;
                 }
 
@@ -141,61 +146,61 @@
                     -moz-appearance: textfield;
                 }
 
-                &--border{
-                    &:focus{
+                &--border {
+                    &:focus {
                         border: 1px solid color(blue, 700);
-                        
-                        +label{
+
+                        +label {
                             color: color(blue, 700);
                         }
                     }
                 }
 
-                &--gdpr{
+                &--gdpr {
                     display: block;
                 }
 
-                .lpForm__gdprWrapper{
+                .lpForm__gdprWrapper {
                     display: flex;
                     flex-direction: row;
                     align-items: flex-start;
 
                     .body-1,
-                    .body-1--link{
+                    .body-1--link {
                         color: color(landingpage, text);
                     }
 
-                    .body-1--link{
-                        &:hover{
+                    .body-1--link {
+                        &:hover {
                             color: color(gray, 0);
                         }
                     }
-    
-                    input{
+
+                    input {
                         flex: 0 0 20px;
                         transform: translateY(5px);
-                        margin: 0;              
+                        margin: 0;
                     }
-    
-                    label{
-                        margin-left: 10px;
+
+                    label {
                         flex: 1;
+                        margin-left: 10px;
                     }
                 }
 
-                textarea{
+                textarea {
                     padding: 12px 15px;
                     resize: none;
                     width: 100%;
                     margin-bottom: 5px;
                 }
 
-                #pushCCT{
+                #pushCCT {
                     padding: 0;
                     border: none;
                     position: relative;
 
-                    .btn-text{
+                    .btn-text {
                         font-size: 20px;
                         font-weight: 500;
                         line-height: 58px;
@@ -203,12 +208,12 @@
                     }
                 }
 
-                .btn--loading{
+                .btn--loading {
                     position: relative;
                     cursor: not-allowed;
                     opacity: .5;
-        
-                    &::before{
+
+                    &::before {
                         content: '';
                         position: absolute;
                         @include center;
@@ -218,14 +223,14 @@
                         background-size: cover;
                         animation: loading .6s linear infinite;
                     }
-        
+
                     @keyframes loading {
                         100% {
                             transform: translate(-50%, -50%) rotate(360deg);
                         }
                     }
-        
-                    .btn-text{
+
+                    .btn-text {
                         opacity: 0;
                     }
                 }
@@ -235,11 +240,13 @@
 }
 
 // mobile
-@media only screen and (max-width: 980px){
+@media only screen and (max-width: 980px) {
+
     .mobile #landingpage,
-    .mobileapp #landingpage{
-        .lpContact .lpForm__row input, 
-        .lpContact .lpForm__row textarea{
+    .mobileapp #landingpage {
+
+        .lpContact .lpForm__row input,
+        .lpContact .lpForm__row textarea {
             font-size: 14px;
         }
     }

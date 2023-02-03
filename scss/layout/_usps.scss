@@ -106,6 +106,26 @@
                     }
                 }
 
+                &--less{
+                    display: block;
+                }
+
+                &--more{
+                    display: none;
+                }
+
+                .body-1{
+                    &--button{
+                        color: color(gray, 0);
+                        margin-top: 10px;
+                        transition: .3s ease-in-out;
+
+                        &:hover{
+                            color: color(landingpage, light);
+                        }
+                    }
+                }
+
                 .body-2{
                     opacity: .34;
                     color: color(gray, 0);
