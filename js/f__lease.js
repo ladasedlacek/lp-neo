@@ -1,13 +1,13 @@
-// add monthly price and time period for specific products
+/* // add monthly price and time period for specific products
 window.onload = () => {
     // get language of the page
     const language_selector = () => {
         const get_language = () => {
-            try { 
+            try { 
                 if (Alza.Shared.PageData.culture) 
                 return Alza.Shared.PageData.culture
             } catch(e) {}
-            try { 
+            try { 
                 if (document.documentElement.getAttribute("lang").length > 3)
                 return document.documentElement.getAttribute("lang")
             } catch(e) {}
@@ -122,3 +122,4 @@ window.onload = () => {
 }
 
 
+ */
