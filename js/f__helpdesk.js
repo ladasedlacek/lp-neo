@@ -4,6 +4,7 @@ window.onload = () => {
         helpdesk_stack.forEach(element => {
             element.onclick = event => {
                 event.preventDefault()
+                console.log('Clicked - ' + element)
                 const question_id = element.getAttribute('data-question-id')
                 new Promise((resolve) => {
                     HelpDeskQuestion.showSendHelpdeskQuestionDialog({
@@ -11,7 +12,7 @@ window.onload = () => {
                         questionId: question_id,
                         showGroupQuestions: true,
                         forceQuestionNameAsTitle: false
-                    });
+                    })
                     resolve()
                 }).then(() => setTimeout(() => {
                     // remove items from the form
@@ -33,3 +34,19 @@ window.onload = () => {
     
     window.location.href.indexOf('mbeta.alza.cz') != -1 || window.location.href.indexOf('m.alza.cz') != -1 ? 0 : run_helpdesk()
 }
+
+
+
+document.addEventListener('click', function(event) {
+    if (!event.target.matches('.js-lp-showSendHelpdeskQuestionDialog')) return;
+    event.preventDefault();
+    let button = event.target;
+    let question_id = button.getAttribute('data-question-id');
+    HelpDeskQuestion.showSendHelpdeskQuestionDialog({
+      questionGroupId: 34,
+      questionId: question_id,
+      showGroupQuestions: true,
+      forceQuestionNameAsTitle: false
+    });
+  }, false);
+  
