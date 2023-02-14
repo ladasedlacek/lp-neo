@@ -1,5 +1,5 @@
-/* // add monthly price and time period for specific products
-window.onload = () => {
+// add monthly price and time period for specific products
+const lease_engine = () => {
     // get language of the page
     const language_selector = () => {
         const get_language = () => {
@@ -30,7 +30,7 @@ window.onload = () => {
         const product_target = document.querySelectorAll('#landingpage .lpProducts .lpProducts__tile')
         let products = []
         let name_heights = []
-    
+
         // create stack of products
         const get_products = () => {
             for (let element of product_target) {
@@ -47,16 +47,17 @@ window.onload = () => {
             
             fill_content()
         }
-    
+
         // fill content for each product
         const fill_content = () => {
             let headers = new Headers({
                 "Content-Type": "application/json",
                 "Accept-Language": langResult + ",en-GB;q=0.8,en-US;q=0.5,en;q=0.3"
             })
+
             products.forEach((product) => {
                 let api_url = "/services/restservice.svc/v13/product/" + product.product_id  
-    
+
                 fetch(api_url, {
                     method: 'GET',
                     headers: headers
@@ -69,20 +70,13 @@ window.onload = () => {
                         product_box.remove()
                         console.log('Product - ' + product.product_name + ' (' + product.product_id + ')' + ' was removed from the LP Neo.')
                     }
-    
+
                     // fill content
                     const add_box = () => {
                         let product_name = data.data.name
                         product_name.length > 50 ? (product_name = product_name.slice(0, 47) + "...") : 0
                         let product_price = data.data.priceInfoV2.neoPriceWithVat
-    
-                        // select lang
-                        if (window.location.hostname.includes(".cz")) {
-                            product_price = product_price.replace(/\sKč/g, "")
-                            product_price = product_price + ",-"
-                        } else if (window.location.hostname.includes(".sk")) {
-                            product_price = product_price.replace("měsíčně od", "mesačne od")
-                        }
+                        product_price = product_price.replace(/(\d+)\D*$/, "$1,-")
         
                         // add html content
                         let name_target = document.querySelector("#landingpage ." + product.product_name + " .body-1")
@@ -95,7 +89,7 @@ window.onload = () => {
                         name_heights.push(name_height)
                         console.log('Product - ' + product.product_name + ' (' + product.product_id + ')' + ' was added to the LP Neo.')
                     }
-    
+
                     data.data.availabilityStatus == -1 ? remove_box() : add_box()
                 })
                 .then(() => {
@@ -116,10 +110,8 @@ window.onload = () => {
             })
         }
         get_products()
-       
+    
     }
     lease()
 }
-
-
- */
+lease_engine()
