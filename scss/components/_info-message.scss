@@ -1,0 +1,14 @@
+#landingpage{
+    .lpInfoMessage{
+        background-color: color(yellow, 700);
+        padding: 10px;
+        text-align: center;
+        position: relative;
+        z-index: 20;
+
+        .body-1{
+            color: color(gray, 8);
+            font-weight: 500;
+        }
+    }
+}

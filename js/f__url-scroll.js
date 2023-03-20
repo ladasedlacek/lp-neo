@@ -11,3 +11,7 @@ window.onload = () => {
         }
     }, 800)
 }
+
+window.addEventListener('load', () => {
+    const url = window.location.href
+})
