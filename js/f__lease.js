@@ -24,6 +24,7 @@ const lease_engine = () => {
         }
     }
     language_selector()
+    console.log(langResult)
 
     // select products
     const lease = () => {
@@ -76,7 +77,11 @@ const lease_engine = () => {
                         let product_name = data.data.name
                         product_name.length > 50 ? (product_name = product_name.slice(0, 47) + "...") : 0
                         let product_price = data.data.priceInfoV2.neoPriceWithVat
-                        product_price = product_price.replace(/(\d+)\D*$/, "$1,-")
+
+                        // cz - change Kč to ,-
+                        if (langResult === 'cs-CZ') {
+                            product_price = product_price.replace(/(\d+)\D*$/, "$1,-")
+                        }
         
                         // add html content
                         let name_target = document.querySelector("#landingpage ." + product.product_name + " .body-1")
