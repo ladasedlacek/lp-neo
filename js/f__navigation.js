@@ -45,19 +45,34 @@ mobile_menu()
 // Sticky Navigation
 function run_sticky() {
   const sticky_desktop = () => {
-    const alza_header = document.querySelector('.header-alz2')
+    const new_header = document.querySelector('.header-alz2')
+    const old_header = document.getElementById('header')
     const nav_bar = document.querySelector('.lpNav')
-    
-    if (alza_header.classList.contains('header-alz3') && !nav_bar.classList.contains('lpNav--sticky')) {
-      const get_header = document.querySelector('.header-alz3')
-      const header_target = get_header.getBoundingClientRect()
-      const header_position_bottom = header_target.bottom
-      nav_bar.classList.add('lpNav--sticky')
-      nav_bar.style.top = header_position_bottom + 'px'
-    } else if (!alza_header.classList.contains('header-alz3') && nav_bar.classList.contains('lpNav--sticky')) {
-      nav_bar.classList.remove('lpNav--sticky')
-      nav_bar.style.removeProperty('top')
+
+    const for_new = () => {
+      if (new_header.classList.contains('header-alz3') && !nav_bar.classList.contains('lpNav--sticky')) {
+        const new_header_contains = document.querySelector('.header-alz3')
+        const new_header_height = new_header_contains.getBoundingClientRect().height
+        nav_bar.classList.add('lpNav--sticky')
+        nav_bar.style.top = new_header_height + 'px'
+      } else if (!new_header.classList.contains('header-alz3') && nav_bar.classList.contains('lpNav--sticky')) {
+        nav_bar.classList.remove('lpNav--sticky')
+        nav_bar.style.removeProperty('top')
+      }
     }
+
+    const for_old = () => {
+      if (old_header.classList.contains('fixed') && !nav_bar.classList.contains('lpNav--sticky')) {
+        const old_header_contains = document.querySelector('.fixed')
+        const old_header_height = old_header_contains.getBoundingClientRect().height
+        nav_bar.classList.add('lpNav--sticky')
+        nav_bar.style.top = old_header_height + 'px'
+      } else if (!old_header.classList.contains('fixed') && nav_bar.classList.contains('lpNav--sticky')) {
+        nav_bar.classList.remove('lpNav--sticky')
+        nav_bar.style.removeProperty('top')
+    }
+  }
+    langResult === 'cs-CZ' ? for_new() : for_old()
   }
 
   const sticky_mobile = () => {
