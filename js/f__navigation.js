@@ -72,7 +72,7 @@ function run_sticky() {
         nav_bar.style.removeProperty('top')
     }
   }
-    langResult === 'cs-CZ' ? for_new() : for_old()
+    new_header === null ? for_old() : for_new()
   }
 
   const sticky_mobile = () => {
