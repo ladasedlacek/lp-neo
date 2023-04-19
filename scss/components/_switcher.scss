@@ -1,0 +1,52 @@
+#landingpage{
+    .lpSwitcher{
+            overflow: hidden;
+            box-shadow: 0 0 8px rgba($color: color(landingpage, shadow), $alpha: 1.0);
+            border-radius: 4px;
+            background-color: color(gray, 0);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px auto 0;
+            width: 420px;
+
+        &__button{
+            color: color(gray, 8);
+            padding: 0 15px;
+            min-height: 42px;
+            flex: 1;
+            font-weight: 500;
+            transition: .3s ease-in-out;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            &:hover{
+                color: color(gray, 0);
+                background-color: color(landingpage, light);
+            }
+
+            &--active{
+                color: color(gray, 0);
+                background-color: color(landingpage, light);
+            }
+        }
+    }
+}
+
+// media
+@media only screen and (max-width: 550px){
+    .mobile #landingpage,
+    .mobileapp #landingpage{
+        .lpSwitcher{
+            &__switcher{
+                width: 100%;
+                align-items: stretch;
+            }
+
+            &__button{
+                padding: 10px 15px;
+            }
+        }
+    }
+}

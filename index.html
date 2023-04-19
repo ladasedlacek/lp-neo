@@ -31,6 +31,55 @@
                     <div class="lpInfoMessage">
                         <p class="body-1">Aktuálne na Slovensku ponúkame AlzaNEO prenájom iba pre právnické osoby. Ďalšie možnosti prenájmu pre Vás pripravujeme.</p>
                     </div>
+
+                    <div class="lpModal lpModal--change">
+                        <div class="lpModal__wrapper">
+                            <div class="lpModal__window">
+                                <div class="lpModal__close"><svg><use xlink:href="#icon-close"></use></svg></div>
+                                <h3 class="hdl3">Vyměnit přístroj</h3>
+                                <div class="lpModal__content">
+                                    <ul class="listItems">
+                                        <li class="listItems--item"><strong>Vyplňte číslo libovolné faktury</strong> zařízení, které si přejete řešit (případně sériové číslo zařízení)</li>
+                                        <li class="listItems--item">Vložte do zprávy <strong>odkaz</strong> na požadované nové zařízení a preferovanou dobu pronájmu</li>
+                                        <li class="listItems--item">Napište do zprávy <strong>adresu prodejny Alza.cz</strong>, kde chcete staré zařízení odevzdat a požadované nové vyzvednout</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="lpModal lpModal--event">
+                        <div class="lpModal__wrapper">
+                            <div class="lpModal__window">
+                                <div class="lpModal__close"><svg><use xlink:href="#icon-close"></use></svg></div>
+                                <h3 class="hdl3">Nahlásit událost</h3>
+                                <div class="lpSwitcher">
+                                    <a href="#rozbiti-nebo-kradez" class="lpSwitcher__button lpSwitcher__button--active">Nahlásit rozbití nebo krádež</a>
+                                    <a href="#reklamace" class="lpSwitcher__button">Nahlásit reklamaci (výrobní vada)</a>
+                                </div>
+                                <div class="lpModal__content" id="rozbiti-nebo-kradez">
+                                    <ul class="listItems">
+                                        <li class="listItems--item">Níže prosím popište, jak došlo k rozbití nebo odcizení.</li>
+                                        <li class="listItems--item"><strong>Vyplňte číslo libovolné faktury</strong> zařízení, které si přejete řešit (případně sériové číslo zařízení) </li>
+                                        <li class="listItems--item">Vložte do zprávy <strong>odkaz</strong> na požadované nové zařízení a preferovanou dobu pronájmu</li>
+                                        <li class="listItems--item">Napište do zprávy <strong>adresu prodejny Alza.cz</strong>, kde chcete staré zařízení odevzdat a požadované nové vyzvednout.</li>
+                                        <li class="listItems--item">Vaši rozšířenou záruku posoudíme do 1 pracovního dne a následně Vás budeme kontaktovat s dalším postupem.</li>
+                                    </ul>
+                                </div>
+
+                                <div class="lpModal__content" id="reklamace">
+                                    <p class="body-1">V případě, že chcete své zařízení reklamovat s výrobní vadou, použijte prosím klasický <a href="#" class="body-1--link">reklamační formulář v sekci Moje Alza</a>.</p>
+                                    <picture>
+                                        <source type="image/webp" srcset="https://cdn.alza.cz/Foto/or/lp/neo/build/img/alzak-customer.webp, https://cdn.alza.cz/Foto/or/lp/neo/build/img/alzak-customer@2x.webp 2x">
+                                        <source type="image/png" srcset="https://cdn.alza.cz/Foto/or/lp/neo/build/img/alzak-customer.png, https://cdn.alza.cz/Foto/or/lp/neo/build/img/alzak-customer@2x.png 2x">
+                                        <img src="https://cdn.alza.cz/Foto/or/lp/neo/build/img/alzak-customer.png" srcset="https://cdn.alza.cz/Foto/or/lp/neo/build/img/alzak-customer.png, https://cdn.alza.cz/Foto/or/lp/neo/build/img/alzak-customer@2x.png 2x" alt="Alzák pronájem" width="511" height="577" class="no-lazy">
+                                    </picture>
+                                    <a href="#" class="btn btn--sport"><span class="btn-text">Reklamovat v Moje Alza</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <nav class="lpNav">
                         <div class="lpWrapper">
                             <div class="lpNav__wrapper">
@@ -477,9 +526,9 @@
                         <div class="lpWrapper">
                             <h2 class="hdl2">Nejčastější dotazy</h2>
 
-                            <div class="lpAccordion__switcher">
-                                <a href="#switcher-customer" class="lpAccordion__button lpAccordion__button--active">Běžný zákazník</a>
-                                <a href="#switcher-company" class="lpAccordion__button">Firemní zákazník</a>
+                            <div class="lpSwitcher">
+                                <a href="#switcher-customer" class="lpSwitcher__button lpSwitcher__button--active">Běžný zákazník</a>
+                                <a href="#switcher-company" class="lpSwitcher__button">Firemní zákazník</a>
                             </div>
             
                             <div class="lpFAQs lpFAQs--active" id="switcher-customer">
