@@ -1,17 +1,15 @@
 #landingpage{
     .lpSwitcher{
-            overflow: hidden;
-            box-shadow: 0 0 8px rgba($color: color(landingpage, shadow), $alpha: 1.0);
-            border-radius: 4px;
-            background-color: color(gray, 0);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 40px auto 0;
-            width: 420px;
+        overflow: hidden;
+        box-shadow: 0 0 8px rgba($color: color(landingpage, shadow), $alpha: 1.0);
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 40px auto 0;
+        width: 420px;
 
         &__button{
-            color: color(gray, 8);
             padding: 0 15px;
             min-height: 42px;
             flex: 1;
@@ -25,11 +23,38 @@
                 color: color(gray, 0);
                 background-color: color(landingpage, light);
             }
+        }
 
-            &--active{
-                color: color(gray, 0);
-                background-color: color(landingpage, light);
+        &--true{
+            color: color(gray, 0);
+            background-color: color(landingpage, light);
+        }
+    
+        &--false{
+            color: color(gray, 8);
+            background-color: color(gray, 0);
+        }
+    }
+
+    .content{
+        &--show{
+            display: block;
+            opacity: 0;
+            animation: fade-in .3s ease-in forwards;
+
+            @keyframes fade-in {
+                0% {
+                    opacity: 0;
+                }
+        
+                100% {
+                    opacity: 1;
+                }
             }
+        }
+
+        &--hide{
+            display: none;
         }
     }
 }

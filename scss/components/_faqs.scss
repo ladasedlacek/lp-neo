@@ -28,7 +28,6 @@
         .lpFAQs{
             margin: 0 auto;
             padding-top: 40px;
-            display: none;
     
             &__wrapper{
                 background: color(gray, 0);
@@ -105,22 +104,6 @@
             .body-1{
                 margin-top: 8px;
                 padding: 0 16px 0 0;
-            }
-        }
-
-        .lpFAQs--active{
-            display: block;
-            opacity: 0;
-            animation: fade-in .3s ease-in forwards;
-        }
-
-        @keyframes fade-in {
-            0% {
-                opacity: 0;
-            }
-
-            100% {
-                opacity: 1;
             }
         }
     }
