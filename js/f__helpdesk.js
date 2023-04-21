@@ -30,6 +30,7 @@ const run_helpdesk = () => {
         }
     })
 }
+run_helpdesk()
 
-window.location.href.indexOf('mbeta.alza.cz') != -1 || window.location.href.indexOf('m.alza.cz') != -1 ? 0 : run_helpdesk()
+/* window.location.href.indexOf('mbeta.alza.cz') != -1 || window.location.href.indexOf('m.alza.cz') != -1 ? 0 : run_helpdesk() */
   

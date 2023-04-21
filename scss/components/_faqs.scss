@@ -25,9 +25,45 @@
             }
         }
 
+        &__switcher{
+            overflow: hidden;
+            box-shadow: 0 0 8px rgba($color: color(landingpage, shadow), $alpha: 1.0);
+            border-radius: 4px;
+            background-color: color(gray, 0);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px auto 0;
+            width: 420px;
+        }
+
+        &__button{
+            color: color(gray, 8);
+            padding: 0 15px;
+            min-height: 42px;
+            flex: 1;
+            font-weight: 500;
+            transition: .3s ease-in-out;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 14px;
+
+            &:hover{
+                color: color(gray, 0);
+                background-color: color(landingpage, light);
+            }
+
+            &--active{
+                color: color(gray, 0);
+                background-color: color(landingpage, light);
+            }
+        }
+
         .lpFAQs{
             margin: 0 auto;
             padding-top: 40px;
+            display: none;
     
             &__wrapper{
                 background: color(gray, 0);
@@ -106,5 +142,38 @@
                 padding: 0 16px 0 0;
             }
         }
+
+        .lpFAQs--active{
+            display: block;
+            opacity: 0;
+            animation: fade-in .3s ease-in forwards;
+        }
+
+        @keyframes fade-in {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
     }
 } 
+
+// media
+@media only screen and (max-width: 550px){
+    .mobile #landingpage,
+    .mobileapp #landingpage{
+        .lpAccordion{
+            &__switcher{
+                width: 100%;
+                align-items: stretch;
+            }
+
+            &__button{
+                padding: 10px 15px;
+            }
+        }
+    }
+}
