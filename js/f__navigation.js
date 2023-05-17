@@ -42,6 +42,48 @@ const mobile_menu = () => {
 }
 mobile_menu()
 
+const new_test = () => {
+  const nav_height = 100
+  const mobile_nav_height = 113
+  const navigation = document.querySelector('.lpNav')
+
+  // desktop navgation
+  const desktop = () => {
+    window.addEventListener('scroll', () => {
+      const page_offset = window.pageYOffset
+
+      if (page_offset >= nav_height) {
+        navigation.classList.add('lpNav--sticky')
+      } else if (page_offset < nav_height && navigation.classList.contains('lpNav--sticky')) {
+        navigation.classList.remove('lpNav--sticky')
+      } 
+    })
+  }
+
+  const mobile = () => {
+    let last_scroll_y = window.scrollY
+
+    window.addEventListener('scroll', () => {
+      const page_offset = window.pageYOffset
+      let actual_scroll_y = window.scrollY
+
+      if (page_offset > 0) {
+        navigation.classList.add('lpNav--stickyMobile')
+      } else if (page_offset > 113) {
+        const sticky_mobile = document.querySelector('.lpNav.lpNav--stickyMobile')
+        sticky_mobile.style.top = '60px';
+      } else if (page_offset == 0 && navigation.classList.contains('lpNav--stickyMobile')) {
+        navigation.classList.remove('lpNav--stickyMobile')
+      }
+
+      last_scroll_y = actual_scroll_y
+    })
+  }
+  /* desktop() */
+  mobile()
+}
+new_test()
+
 // Sticky Navigation
 function run_sticky() {
   const sticky_desktop = () => {
