@@ -7,7 +7,7 @@ const mobile_button = `<a href='#' class='lpNav__menuIcon lpNav__menuIcon--open'
 <svg><use class='lpMenuSvg' xlink:href='#icon-menu'></use></svg>
 </a>`
 
-// open / close
+// mobile menu toggle
 menu_button.addEventListener('click', function(event) {
     event.preventDefault()
     const menu_target = document.querySelector('.lpNav__menu')
@@ -42,9 +42,9 @@ const mobile_menu = () => {
 }
 mobile_menu()
 
-const new_test = () => {
+// sticky navigation
+const sticky_nav = () => {
   const nav_height = 100
-  const mobile_nav_height = 113
   const navigation = document.querySelector('.lpNav')
 
   // desktop navgation
@@ -60,67 +60,32 @@ const new_test = () => {
     })
   }
 
+  // mobile navigation
   const mobile = () => {
-    let last_scroll_y = window.scrollY
+    const header = document.querySelector('header')
+    const nav_class = 'lpNav--stickyMobile'
 
     window.addEventListener('scroll', () => {
-      const page_offset = window.pageYOffset
-      let actual_scroll_y = window.scrollY
-
-      if (page_offset > 0) {
-        navigation.classList.add('lpNav--stickyMobile')
-      } else if (page_offset > 113) {
-        const sticky_mobile = document.querySelector('.lpNav.lpNav--stickyMobile')
-        sticky_mobile.style.top = '60px';
-      } else if (page_offset == 0 && navigation.classList.contains('lpNav--stickyMobile')) {
-        navigation.classList.remove('lpNav--stickyMobile')
-      }
-
-      last_scroll_y = actual_scroll_y
+      let page_offset = window.pageYOffset
+      page_offset == 0 ? navigation.classList.remove(nav_class) : navigation.classList.add(nav_class)
     })
-  }
-  /* desktop() */
-  mobile()
-}
-new_test()
 
-// Sticky Navigation
-function run_sticky() {
-  const sticky_desktop = () => {
-    const new_header = document.querySelector('.header-alz2')
-    const old_header = document.getElementById('header')
-    const nav_bar = document.querySelector('.lpNav')
-
-    const for_new = () => {
-      if (new_header.classList.contains('header-alz3') && !nav_bar.classList.contains('lpNav--sticky')) {
-        const new_header_contains = document.querySelector('.header-alz3')
-        const new_header_height = new_header_contains.getBoundingClientRect().height
-        nav_bar.classList.add('lpNav--sticky')
-        nav_bar.style.top = new_header_height + 'px'
-      } else if (!new_header.classList.contains('header-alz3') && nav_bar.classList.contains('lpNav--sticky')) {
-        nav_bar.classList.remove('lpNav--sticky')
-        nav_bar.style.removeProperty('top')
-      }
+    const header_height_change = () => {
+      const observer = new ResizeObserver((entries) => {
+        entries.forEach((entry) => {
+          const new_height = entry.target.offsetHeight
+          if (navigation.classList.contains(nav_class)) {
+            const sticky_mobile = document.querySelector('.' + nav_class)
+            new_height > 66 ? sticky_mobile.style.top = '113px' : sticky_mobile.style.top = '66px'
+          }
+        })
+      })
+    
+      observer.observe(header)
     }
-
-    const for_old = () => {
-      if (old_header.classList.contains('fixed') && !nav_bar.classList.contains('lpNav--sticky')) {
-        const old_header_contains = document.querySelector('.fixed')
-        const old_header_height = old_header_contains.getBoundingClientRect().height
-        nav_bar.classList.add('lpNav--sticky')
-        nav_bar.style.top = old_header_height + 'px'
-      } else if (!old_header.classList.contains('fixed') && nav_bar.classList.contains('lpNav--sticky')) {
-        nav_bar.classList.remove('lpNav--sticky')
-        nav_bar.style.removeProperty('top')
-    }
-  }
-    new_header === null ? for_old() : for_new()
+    header_height_change()
   }
 
-  const sticky_mobile = () => {
-    window.pageYOffset == 0 ? navigation.classList.remove('lpNav--stickyMobile') : navigation.classList.add('lpNav--stickyMobile')
-  }
-
-  window.location.href.indexOf('mbeta.alza.cz') != -1 || window.location.href.indexOf('m.alza.cz') != -1 ? sticky_mobile() : sticky_desktop()
+  window.location.href.indexOf('mbeta.alza.cz') != -1 || window.location.href.indexOf('m.alza.cz') != -1 ? mobile() : desktop()
 }
-window.addEventListener('scroll', run_sticky)
+sticky_nav()
