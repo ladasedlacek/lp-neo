@@ -67,7 +67,7 @@ const sticky_nav = () => {
 
     window.addEventListener('scroll', () => {
       let page_offset = window.pageYOffset
-      page_offset == 0 ? navigation.classList.remove(nav_class) : navigation.classList.add(nav_class)
+      page_offset == 0 ? (navigation.classList.remove(nav_class), navigation.style.top = 'auto') : navigation.classList.add(nav_class)
     })
 
     const header_height_change = () => {
