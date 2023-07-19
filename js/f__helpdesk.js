@@ -14,23 +14,84 @@ const run_helpdesk = () => {
                 })
                 resolve()
             }).then(() => setTimeout(() => {
-                // remove items from the form
-                const items_stack = ['heldeskQuestion-399', 'heldeskQuestion-192', 'heldeskQuestion-190', 'heldeskQuestion-191', 'heldeskQuestion-193', 'heldeskQuestion-194']
-                
-                items_stack.forEach((item) => {
-                    if (question_id == 192 && item == 'heldeskQuestion-192') {
-                        return
-                    } else if (question_id == 191 && item == 'heldeskQuestion-190' || question_id == 191 && item == 'heldeskQuestion-191') {
-                        return
-                    } else {
-                        document.getElementById(item).remove()
-                    }
+                const buttons = document.querySelectorAll('.modalSwitcher__button')
+                buttons.forEach(button => {
+                    button.addEventListener('click', () => {
+                        const event = button.getAttribute('data-event')
+                        const classButton = "modalSwitcher__button--active"
+                        const classContent = "modalNewContent--show"
+
+                        if (!button.classList.contains(classButton)) {
+                            // Button switcher
+                            const activeButton = document.querySelector('.' + classButton)
+                            activeButton.classList.remove(classButton)
+                            button.classList.add(classButton)
+
+                            // Content switcher
+                            const contentActive = document.querySelector('.' + classContent)
+                            contentActive.classList.remove(classContent)
+                            const findContent = document.querySelector('.' + event)
+                            findContent.classList.add(classButton)
+                        }
+                    })
                 })
             }, 100))
         }
     })
 }
 run_helpdesk()
-
-/* window.location.href.indexOf('mbeta.alza.cz') != -1 || window.location.href.indexOf('m.alza.cz') != -1 ? 0 : run_helpdesk() */
   
+
+
+const kokotarium = () => {
+    const buttons = document.querySelectorAll('.modalSwitcher__button')
+    buttons.forEach(button => {
+        button.addEventListener('click', () => {
+            const event = button.getAttribute('data-event')
+            const classButton = "modalSwitcher__button--active"
+            const classContent = "modalNewContent--show"
+            console.log(button)
+
+            console.log(!button.classList.contains(classButton))
+
+            if (!button.classList.contains(classButton)) {
+                console.log("ahoj")
+                // Button switcher
+                const activeButton = document.querySelector('.' + classButton)
+                console.log(activeButton)
+                activeButton.classList.remove(classButton)
+                button.classList.add(classButton)
+                console.log("click 2")
+
+                // Content switcher
+                const contentActive = document.querySelector('.' + classContent)
+                contentActive.classList.remove(classContent)
+                const findContent = document.querySelector('.' + event)
+                findContent.classList.add(classButton)
+                console.log("click 3")
+            }
+        })
+    })
+}
+kokotarium()
+
+const ahoj = () => {
+    const buttons = document.querySelectorAll('.modalSwitcher__button')
+    buttons.forEach(button => {
+        button.addEventListener('click', () => {
+            const buttonClasses = button.getAttribute('class')
+            console.log(buttonClasses)
+            const event = button.getAttribute('data-event')
+            const classButton = "modalSwitcher__button--active"
+            const classContent = "modalNewContent--show"
+
+            if (!buttonClasses.includes(classButton)) {
+                console.log("Neobsahuje")
+            } else {
+                console.log("Obsahuje")
+            }
+        })
+    })
+}
+ahoj()
+    

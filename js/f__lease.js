@@ -31,7 +31,7 @@ const lease_engine = () => {
             })
 
             products.forEach((product) => {
-                let api_url = "/services/restservice.svc/v13/product/" + product.product_id  
+                let api_url = "/api/legacy/catalog/v14/external/product/" + product.product_id  
 
                 fetch(api_url, {
                     method: 'GET',
@@ -48,9 +48,9 @@ const lease_engine = () => {
 
                     // fill content
                     const add_box = () => {
-                        let product_name = data.data.name
+                        let product_name = data.name
                         product_name.length > 50 ? (product_name = product_name.slice(0, 47) + "...") : 0
-                        let product_price = data.data.priceInfoV2.neoPriceWithVat
+                        let product_price = data.priceInfo.neoPriceWithVat
 
                         // cz - change Kč to ,-
                         if (langResult === 'cs-CZ') {
@@ -69,7 +69,7 @@ const lease_engine = () => {
                         console.log('Product - ' + product.product_name + ' (' + product.product_id + ')' + ' was added to the LP Neo.')
                     }
 
-                    data.data.availabilityStatus == -1 ? remove_box() : add_box()
+                    data.availabilityStatus == -1 ? remove_box() : add_box()
                 })
                 .then(() => {
                     // set height of the highest name element

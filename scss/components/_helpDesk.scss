@@ -1,0 +1,112 @@
+#helpdeskQuestionsContainer,
+#sendHelpdeskQuestionDialog .dialogTitle{
+    display: none;
+}
+#sendHelpdeskQuestionDialog h2{
+    margin: 0 0 30px;
+    color: #40BFEF;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer ul li:not(.ListRoll):before{
+    display: none;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer ul li:not(.ListRoll){
+    margin: 0;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer ul.modalNewContent__items{
+    counter-reset: box;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer ul li.modalNewContent__item{
+    color: #212121;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 16px;
+    padding-left: 40px;
+    position: relative;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer ul li.modalNewContent__item:before{
+    counter-increment: box;
+    content: counter(box);
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    border-radius: 100px;
+    background-color: #40BFEF;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 26px;
+    left: 0;
+    top: 0;
+    display: block;
+    text-align: center;
+    margin: 0;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer a.modalNewContent__button{
+    border-radius: 4px;
+    background-color: #A1C900;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    padding: 16px 20px;
+    display: table;
+    margin: 20px auto;
+    box-shadow: 0 1px 4px rgba(0,0,0,.16);
+    transition: .3s ease;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer .modalNewContent{
+    display: none;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer .modalNewContent--show{
+    display: block;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer a.modalNewContent__button:hover{
+    background-color: #96BB00;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer p.modalNewContent__text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #212121;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer p.modalNewContent__text a{
+    color: #40BFEF;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer .modalSwitcher{
+    width: 100%;
+    margin: 0 auto 30px;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: hidden;
+    box-shadow: 0 0 8px #5ccbf5;
+    border-radius: 4px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer .modalSwitcher .modalSwitcher__button{
+    padding: 0 15px;
+    min-height: 42px;
+    flex: 1;
+    font-weight: 500;
+    transition: .3s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #212121;
+    cursor: pointer;
+}
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer .modalSwitcher .modalSwitcher__button:hover,
+#sendHelpdeskQuestionDialog .dialogBody #questionAnswerContainer .modalSwitcher .modalSwitcher__button.modalSwitcher__button--active{
+    color: #fff;
+    background-color: #40bfef;
+}
